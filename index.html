@@ -197,6 +197,11 @@
   button.act.del:hover { color: var(--closed-fg); border-color: var(--closed-fg); }
   .p-new { background: var(--open-bg); color: var(--open-fg); font-weight: 700; }
   .empty { color: var(--faint); font-size: 13.5px; padding: 12px 2px; }
+  #stale-banner {
+    display: none; background: var(--closed-bg); color: var(--closed-fg);
+    border: 1px solid var(--closed-fg); border-radius: 10px;
+    padding: 12px 16px; margin: 0 0 20px; font-size: 13.5px; font-weight: 600;
+  }
 
   @media (max-width: 640px) { h1 { font-size: 24px; } .job { padding: 13px 14px; } }
 </style>
@@ -477,7 +482,21 @@
     render();
   });
   var si0=byId('ir-search'); if(si0) si0.addEventListener('input', render);
+  function showStale(){
+    if(!META.date) return;
+    var last=new Date(META.date+'T00:00:00'); var now=new Date();
+    var days=Math.floor((now-last)/86400000);
+    if(days>=2){
+      var b=byId('stale-banner');
+      if(!b){ b=document.createElement('div'); b.id='stale-banner';
+        var w=document.querySelector('.wrap'); if(w) w.insertBefore(b, w.firstChild); }
+      if(b){ b.innerHTML='⚠️ 数据已 '+days+' 天没更新（最后成功 '+esc(META.date)
+        +'）——多半是这几天电脑没开机/没跑成。让电脑开着等它自动补跑，或回来找 Claude 看看。';
+        b.style.display='block'; }
+    }
+  }
   render();
+  showStale();
 })();
 </script>
 
