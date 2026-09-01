@@ -724,7 +724,7 @@ def write_site(html_text):
 
 
 def main():
-    today = datetime.date.today().isoformat()
+    today = (datetime.datetime.now(datetime.timezone.utc) + datetime.timedelta(hours=8)).date().isoformat()  # 北京时间(云端在UTC跑)
     state = json.loads(STATE_FILE.read_text(encoding="utf-8")) if STATE_FILE.exists() else {}
     sources = load_sources()
 
