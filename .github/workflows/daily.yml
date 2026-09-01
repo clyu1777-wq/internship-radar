@@ -1,0 +1,39 @@
+name: daily-radar
+
+on:
+  push:
+    branches: [main]        # 代码变更即部署(bot 的提交带 [skip ci] 不会触发,避免死循环)
+  schedule:
+    - cron: '0 23 * * *'   # 23:00 UTC = 07:00 北京时间(每天)
+  workflow_dispatch: {}     # 允许在 Actions 页手动点 Run
+
+permissions:
+  contents: write           # 用自带 GITHUB_TOKEN 推回 index.html,无需 PAT
+
+concurrency:
+  group: daily-radar
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install deps
+        run: pip install --quiet pycryptodome
+
+      - name: Run monitor (读36源→过滤→生成 index.html;大面积失败会以码2退出)
+        run: python monitor.py || echo "monitor exit=$?"
+
+      - name: Commit & push
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "cloud update $(date -u +%Y-%m-%d' '%H:%M)UTC [skip ci]"
+          git push
