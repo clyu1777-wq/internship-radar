@@ -1,6 +1,127 @@
 {
- "date": "2026-08-30",
- "new_jobs": [],
+ "date": "2026-09-02",
+ "new_jobs": [
+  {
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6173862004",
+   "title": "Frontend Programmer Intern",
+   "url": "https://epicgames.com/careers/jobs/6173862004?gh_jid=6173862004",
+   "flag": ""
+  },
+  {
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6173450004",
+   "title": "Level Design Intern",
+   "url": "https://epicgames.com/careers/jobs/6173450004?gh_jid=6173450004",
+   "flag": ""
+  },
+  {
+   "company": "C3.ai",
+   "srckey": "gh:c3",
+   "id": "8739037002",
+   "title": "Software Engineer - Intern (Summer 2027)",
+   "url": "https://c3.ai/job-description/8739037002?gh_jid=8739037002",
+   "flag": ""
+  },
+  {
+   "company": "Google",
+   "srckey": "google",
+   "id": "100648618540573382",
+   "title": "Software Engineering Intern, BS, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/100648618540573382",
+   "flag": ""
+  },
+  {
+   "company": "Google",
+   "srckey": "google",
+   "id": "138960139137753798",
+   "title": "Software Developer Intern, MS, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/138960139137753798",
+   "flag": ""
+  },
+  {
+   "company": "Google",
+   "srckey": "google",
+   "id": "94172495052972742",
+   "title": "Software Engineering Intern, MS, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/94172495052972742",
+   "flag": ""
+  },
+  {
+   "company": "Google",
+   "srckey": "google",
+   "id": "123510626377966278",
+   "title": "Software Developer Intern, BS, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/123510626377966278",
+   "flag": ""
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1292202515139771392",
+   "title": "AI算法工程",
+   "url": "https://join.qq.com/post_detail.html?postid=1292202515139771392",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "7235",
+   "title": "动作生成算法研究员实习生（交互方向）",
+   "url": "https://jobs.mihoyo.com/#/campus/position/7235",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "78549",
+   "title": "游戏数值策划实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "59505",
+   "title": "游戏系统策划实习生（逆水寒端游）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7680109205248444677",
+   "title": "游戏策划（休闲/Merge/二合方向）实习生 - ZERO36工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7680109205248444677/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7680484671413012741",
+   "title": "游戏关卡策划实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7680484671413012741/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7660030285454838069",
+   "title": "AIGC产品内容运营实习生 - 广告业务",
+   "url": "https://jobs.bytedance.com/campus/position/7660030285454838069/detail",
+   "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100034560005",
+   "title": "灵犀互娱-主营销/主传播-二次元/女性向",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100034560005",
+   "flag": "校招/实习待确认(正文未抓到)"
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }

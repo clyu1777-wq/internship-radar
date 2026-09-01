@@ -5,23 +5,25 @@
    "6147156004",
    "6147167004",
    "6147283004",
-   "6152263004"
+   "6152263004",
+   "6173450004",
+   "6173862004"
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:rsgur": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:bungie": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:scaleai": {
   "ids": [
@@ -30,37 +32,37 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:twitch": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:hasbro": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:databricks": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:sie": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:taketwo": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:anduril": {
   "ids": [
@@ -70,13 +72,15 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "gh:c3": {
-  "ids": [],
+  "ids": [
+   "8739037002"
+  ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "lever:palantir": {
   "ids": [
@@ -92,7 +96,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "ashby:netic": {
   "ids": [
@@ -102,7 +106,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "ashby:openai": {
   "ids": [
@@ -112,13 +116,13 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "ashby:decagon": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "wd:nvidia": {
   "ids": [
@@ -135,7 +139,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "wd:xboxgaming": {
   "ids": [
@@ -144,7 +148,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "ms:pcsx": {
   "ids": [
@@ -163,7 +167,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "ea:rss": {
   "ids": [
@@ -171,13 +175,13 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "riot": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "amazon": {
   "ids": [
@@ -189,13 +193,13 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "apple": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "snowflake": {
   "ids": [
@@ -204,7 +208,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "roblox": {
   "ids": [
@@ -213,13 +217,18 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "google": {
-  "ids": [],
+  "ids": [
+   "100648618540573382",
+   "123510626377966278",
+   "138960139137753798",
+   "94172495052972742"
+  ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:tencent": {
   "ids": [
@@ -353,11 +362,12 @@
    "1280148757136402432",
    "1283878456077394944",
    "1285066789650506752",
-   "1285066789650506758"
+   "1285066789650506758",
+   "1292202515139771392"
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:mihoyo": {
   "ids": [
@@ -372,6 +382,7 @@
    "7093",
    "7102",
    "7111",
+   "7235",
    "7256",
    "7384",
    "7491",
@@ -484,7 +495,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:163huyu": {
   "ids": [
@@ -517,7 +528,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:leihuo": {
   "ids": [
@@ -541,6 +552,7 @@
    "58770",
    "59311",
    "59502",
+   "59505",
    "59635",
    "60058",
    "60315",
@@ -619,11 +631,12 @@
    "78398",
    "78400",
    "78455",
-   "78468"
+   "78468",
+   "78549"
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:kuro": {
   "ids": [
@@ -758,7 +771,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:bytedance": {
   "ids": [
@@ -838,6 +851,7 @@
    "7654795839378376965",
    "7655522419981453573",
    "7659310312919255349",
+   "7660030285454838069",
    "7660422245021780229",
    "7662211069532342581",
    "7662253197230934277",
@@ -870,11 +884,13 @@
    "7677884741940857141",
    "7678283119853832453",
    "7679006593040501045",
-   "7679024047186987317"
+   "7679024047186987317",
+   "7680109205248444677",
+   "7680484671413012741"
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:zhipu": {
   "ids": [
@@ -925,7 +941,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:lilith": {
   "ids": [
@@ -953,7 +969,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:lingxi": {
   "ids": [
@@ -981,11 +997,12 @@
    "100033560008",
    "100034460003",
    "100034540006",
+   "100034560005",
    "7000026701"
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:hypergryph": {
   "ids": [
@@ -1001,7 +1018,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  },
  "cn:wanmei": {
   "ids": [
@@ -1021,6 +1038,6 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-08-30"
+  "last_ok": "2026-09-02"
  }
 }
