@@ -17,7 +17,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "gh:epicgames:6147156004",
@@ -26,16 +26,6 @@
   "u": "https://epicgames.com/careers/jobs/6147156004?gh_jid=6147156004",
   "cat": "策划",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "gh:epicgames:6141180004",
-  "co": "Epic Games",
-  "t": "Gameplay Programmer Intern",
-  "u": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
-  "cat": "软件",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -50,6 +40,16 @@
   "new": false
  },
  {
+  "uid": "gh:epicgames:6141180004",
+  "co": "Epic Games",
+  "t": "Gameplay Programmer Intern",
+  "u": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "gh:epicgames:6173450004",
   "co": "Epic Games",
   "t": "Level Design Intern",
@@ -57,7 +57,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "gh:epicgames:6147167004",
@@ -107,7 +107,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "lever:palantir:774cf5c9-bf6a-4d77-bf60-d50ef1beb1a0",
@@ -497,7 +497,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "google:138960139137753798",
@@ -507,7 +507,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "google:94172495052972742",
@@ -517,7 +517,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "google:123510626377966278",
@@ -527,7 +527,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:tencent:1210569902285656064",
@@ -1757,7 +1757,7 @@
   "cat": "AI",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:tencent:-2",
@@ -1867,7 +1867,7 @@
   "cat": "AI",
   "suit": false,
   "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:mihoyo:6693",
@@ -3267,7 +3267,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:leihuo:60455",
@@ -3307,7 +3307,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:leihuo:53708",
@@ -5297,7 +5297,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:bytedance:7676400015377664261",
@@ -5417,7 +5417,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:bytedance:7514314144716491016",
@@ -5797,7 +5797,7 @@
   "cat": "运营",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:bytedance:7662211069532342581",
@@ -6937,7 +6937,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "校招/实习待确认(正文未抓到)",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:hypergryph:241fe7d3-488e-4a76-a217-c5477f5b686d",
