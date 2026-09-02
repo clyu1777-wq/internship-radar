@@ -57,7 +57,7 @@ ROLE = re.compile(
     re.I)
 LEVEL = re.compile(
     r"实习|校招|校园招聘|应届|培养生|管培"
-    r"|intern|\bco[\s-]?op\b|university|new[\s-]?grad|graduate\s*program|early[\s-]?career|apprentic|student|trainee|residen|campus",
+    r"|\bintern(ship)?s?\b|\bco[\s-]?op\b|university|new[\s-]?grad|graduate\s*program|early[\s-]?career|apprentic|student|trainee|\bresiden|campus",
     re.I)
 
 
@@ -94,7 +94,7 @@ def relevant_cn(title):
 # 铁律:只在有正面证据时 drop;读不到正文或含糊,一律 flag 保留,绝不误删。
 GRAD_YEAR = 2029
 
-INTERN_MARK = re.compile(r"实习|\bintern\b|\bco[\s-]?op\b|日常实习", re.I)
+INTERN_MARK = re.compile(r"实习|\bintern(ship)?s?\b|\bco[\s-]?op\b|日常实习", re.I)
 FULLTIME_MARK = re.compile(
     r"培训生|管培|管理培训生|储备干部|储备人才|统招|校招正式|正式批"
     r"|\bnew\s*grad\b|newgrad|new\s+graduate|graduate\s+(analyst|engineer|developer|programme|program\b|scheme|rotational)"
