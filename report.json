@@ -1,55 +1,6 @@
 {
  "date": "2026-09-02",
- "new_jobs": [
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556922930",
-   "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-   "flag": ""
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556922929",
-   "title": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
-   "flag": ""
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556922923",
-   "title": "Software Engineer: Cloud & Distributed Backend Intern Opportunities for University Students, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922923",
-   "flag": ""
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556922931",
-   "title": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
-   "flag": ""
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556922922",
-   "title": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
-   "flag": ""
-  },
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "79970343875158726",
-   "title": "User Experience Design Apprenticeship, February 2027 Start",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/79970343875158726",
-   "flag": "资格未核实(正文未抓到)"
-  }
- ],
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
