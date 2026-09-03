@@ -1,87 +1,12 @@
 {
  "date": "2026-09-03",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
    "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556978904",
-   "title": "Research Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556978904",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556982268",
-   "title": "Research Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556982268",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556978909",
-   "title": "Research Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556978909",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "腾讯游戏",
-   "srckey": "cn:tencent",
-   "id": "1292597525697903616",
-   "title": "腾讯游戏-面向多模态生成的理解算法研究",
-   "url": "https://join.qq.com/post_detail.html?postid=1292597525697903616",
-   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
-  },
-  {
-   "company": "腾讯游戏",
-   "srckey": "cn:tencent",
-   "id": "1292597534933761025",
-   "title": "腾讯游戏-多模态生成大模型关键算法研究",
-   "url": "https://join.qq.com/post_detail.html?postid=1292597534933761025",
-   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "65380",
-   "title": "游戏推广实习生（直播与电竞方向）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7488292333789694247",
-   "title": "NAMI-客户端开发（关卡方向）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7488292333789694247/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7649969050386254133",
-   "title": "竞技游戏葡语社群运营实习生 - ONE Studio",
-   "url": "https://jobs.bytedance.com/campus/position/7649969050386254133/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7662606817254377733",
-   "title": "用户运营实习生（游戏方向） - 抖音UGC",
-   "url": "https://jobs.bytedance.com/campus/position/7662606817254377733/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7681235827976161589",
-   "title": "AI Agent研发实习生 - 引擎工具",
-   "url": "https://jobs.bytedance.com/campus/position/7681235827976161589/detail",
-   "flag": ""
+   "error": "HTTP Error 429: TOO MANY REQUESTS",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
