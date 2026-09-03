@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]        # 代码变更即部署(bot 的提交带 [skip ci] 不会触发,避免死循环)
   schedule:
-    - cron: '0 23 * * *'   # 23:00 UTC = 07:00 北京时间(每天)
+    - cron: '17 5,11,17,23 * * *'   # 北京 13:17/19:17/01:17/07:17，一天4次抗cron抖动   # 23:00 UTC = 07:00 北京时间(每天)
   workflow_dispatch: {}     # 允许在 Actions 页手动点 Run
 
 permissions:
