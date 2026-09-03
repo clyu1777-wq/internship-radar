@@ -20,6 +20,7 @@ STATE_FILE = BASE / "state.json"
 REPORT_FILE = BASE / "report.json"
 RADAR_FILE = BASE / "radar.html"
 SITE_DIR = BASE / "_site"          # GitHub Pages 发布目录(只放 index.html)
+SEEN_FILE = BASE / "seen.json"     # 每个岗的首见日期 {uid: YYYY-MM-DD},用于"最近N天新增"判定
 FOUND_FILE = BASE / "found.json"   # 累计发现日志:每天追加,永不覆盖
 FOUND_RENDER_MAX = 150             # 正文累计板块最多渲染的条数(最新在上)
 # 面板精简:只在浮窗里显示前几个,完整列表在正文「监控累计发现」板块
@@ -784,14 +785,33 @@ def main():
         print(f"MASS-FAIL date={today} failures={len(failures)}/{enabled_n} - 保留上一版页面, 跳过发布")
         raise SystemExit(2)
 
+    # ---- 首见日期跟踪:"新增"= 最近 N 天内首次出现的岗(按 uid 记首见日,不再被频繁运行吃掉) ----
+    NEW_WINDOW_DAYS = 3
+    seen_existed = SEEN_FILE.exists()
+    seen = json.loads(SEEN_FILE.read_text(encoding="utf-8")) if seen_existed else {}
+    today_d = datetime.date.fromisoformat(today)
+    cur_uids = [f"{p['srckey']}:{p['id']}" for p in pool_jobs]
+    cur_set = set(cur_uids)
+    for uid in cur_uids:
+        if uid not in seen:
+            seen[uid] = today if seen_existed else "2000-01-01"  # 首次建库:存量岗标旧,不当新增
+    seen = {u: d for u, d in seen.items() if u in cur_set}       # 清掉已关闭的岗
+    SEEN_FILE.write_text(json.dumps(seen, ensure_ascii=False, indent=1), encoding="utf-8")
+
+    def _isnew(uid):
+        fs = seen.get(uid)
+        try:
+            return fs is not None and (today_d - datetime.date.fromisoformat(fs)).days < NEW_WINDOW_DAYS
+        except Exception:
+            return False
+
     # ---- 组装候选池,注入网页(前端 JS 负责分组/折叠/删除/收藏) ----
-    new_uids = {f"{nj['srckey']}:{nj['id']}" for nj in new_jobs}
     pool = []
     for p in pool_jobs:
         uid = f"{p['srckey']}:{p['id']}"
         cat, suit = categorize(p["title"], p["flag"])
         pool.append({"uid": uid, "co": p["co"], "t": p["title"], "u": p["url"],
-                     "cat": cat, "suit": bool(suit), "flag": p["flag"], "new": uid in new_uids})
+                     "cat": cat, "suit": bool(suit), "flag": p["flag"], "new": _isnew(uid)})
     (BASE / "pool.json").write_text(json.dumps(pool, ensure_ascii=False, indent=1), encoding="utf-8")
 
     new_suit = sum(1 for x in pool if x["new"] and x["suit"])
