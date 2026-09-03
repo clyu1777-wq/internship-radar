@@ -1,6 +1,109 @@
 {
- "date": "2026-09-02",
- "new_jobs": [],
- "failures": [],
+ "date": "2026-09-03",
+ "new_jobs": [
+  {
+   "company": "Rockstar(大学招聘板)",
+   "srckey": "gh:rsgur",
+   "id": "7723274003",
+   "title": "Intern: Data Analytics / Data Science (Spring 2027)",
+   "url": "https://job-boards.greenhouse.io/rsgur/jobs/7723274003",
+   "flag": ""
+  },
+  {
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5228868007",
+   "title": "2027 Early Career Flight Software Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5228868007?gh_jid=5228868007",
+   "flag": ""
+  },
+  {
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5211077007",
+   "title": "Software Engineering Intern - Summer 2026",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211077007?gh_jid=5211077007",
+   "flag": ""
+  },
+  {
+   "company": "Roblox",
+   "srckey": "roblox",
+   "id": "8143982",
+   "title": "[2027] Associate Product Designer, Early Career",
+   "url": "https://careers.roblox.com/jobs/8143982",
+   "flag": "资格未核实(正文未抓到)"
+  },
+  {
+   "company": "Roblox",
+   "srckey": "roblox",
+   "id": "8143984",
+   "title": "[Summer 2027] Product Design Intern",
+   "url": "https://careers.roblox.com/jobs/8143984",
+   "flag": ""
+  },
+  {
+   "company": "Roblox",
+   "srckey": "roblox",
+   "id": "8143981",
+   "title": "[Summer 2027] Product Management Intern",
+   "url": "https://careers.roblox.com/jobs/8143981",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "13009",
+   "title": "游戏测试开发实习生（无限大）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "78568",
+   "title": "全栈开发实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "78567",
+   "title": "服务端开发实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7680838863725742341",
+   "title": "游戏文案策划实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7680838863725742341/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7680898760179992837",
+   "title": "AIGC视频编导实习生 - 江南工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7680898760179992837/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7680764226151844149",
+   "title": "后端开发（公会方向）实习生 - TikTok直播",
+   "url": "https://jobs.bytedance.com/campus/position/7680764226151844149/detail",
+   "flag": ""
+  }
+ ],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: TOO MANY REQUESTS",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
