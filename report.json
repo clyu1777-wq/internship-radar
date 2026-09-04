@@ -1,6 +1,21 @@
 {
  "date": "2026-09-04",
- "new_jobs": [],
- "failures": [],
+ "new_jobs": [
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10529525",
+   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
+   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+   "flag": ""
+  }
+ ],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: TOO MANY REQUESTS",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
