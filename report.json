@@ -2,20 +2,38 @@
  "date": "2026-09-04",
  "new_jobs": [
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10529525",
-   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027",
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9460",
+   "title": "大模型预训练评测研发实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9460",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7681244404699957509",
+   "title": "策略运营（数据分析方向）实习生 - 抖音游戏",
+   "url": "https://jobs.bytedance.com/campus/position/7681244404699957509/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7681292018450860341",
+   "title": "广告算法实习生 - 内容消费与非闭环营销",
+   "url": "https://jobs.bytedance.com/campus/position/7681292018450860341/detail",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "a0dc7989-9f11-4310-bdb7-f69efe654b60",
+   "title": "游戏特效实习生",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: TOO MANY REQUESTS",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
