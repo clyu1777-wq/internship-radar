@@ -1,21 +1,6 @@
 {
  "date": "2026-09-05",
- "new_jobs": [
-  {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5211095007",
-   "title": "2026 Robotics Engineer Intern",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5211095007?gh_jid=5211095007",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: TOO MANY REQUESTS",
-   "streak": 1
-  }
- ],
+ "new_jobs": [],
+ "failures": [],
  "baseline_added": 0
 }
