@@ -1,12 +1,6 @@
 {
- "date": "2026-09-05",
+ "date": "2026-09-06",
  "new_jobs": [],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: TOO MANY REQUESTS",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
