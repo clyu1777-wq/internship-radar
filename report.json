@@ -1,23 +1,6 @@
 {
  "date": "2026-09-06",
- "new_jobs": [
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556972687",
-   "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Mountain View, CA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556972687",
-   "flag": ""
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556951950",
-   "title": "Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond, WA",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556951950",
-   "flag": ""
-  }
- ],
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
