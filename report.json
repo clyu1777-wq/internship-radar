@@ -1,23 +1,6 @@
 {
- "date": "2026-09-07",
- "new_jobs": [
-  {
-   "company": "Riot Games",
-   "srckey": "riot",
-   "id": "6155",
-   "title": "Game Production Intern - Teamfight Tactics (Contract)",
-   "url": "https://www.riotgames.com/en/j/8180322",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7682672997018667269",
-   "title": "游戏策划实习生（boss设计） - 绿洲工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7682672997018667269/detail",
-   "flag": ""
-  }
- ],
+ "date": "2026-09-08",
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
