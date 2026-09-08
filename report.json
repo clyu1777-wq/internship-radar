@@ -2,27 +2,11 @@
  "date": "2026-09-08",
  "new_jobs": [
   {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7683044886938208575",
-   "title": "鸣潮-日本社媒营销（外编）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7683044886938208575/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7683082923512711477",
-   "title": "游戏监修PM实习生 - Glow Studio",
-   "url": "https://jobs.bytedance.com/campus/position/7683082923512711477/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7682986534270748933",
-   "title": "游戏交互策划（UE）实习生 - 绿洲工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7682986534270748933/detail",
+   "company": "Snowflake",
+   "srckey": "snowflake",
+   "id": "efbbdddd-18a1-4d9d-9455-3e82166b42f6",
+   "title": "Applied AI Intern - Warsaw",
+   "url": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
    "flag": ""
   }
  ],
