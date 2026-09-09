@@ -1,6 +1,31 @@
 {
  "date": "2026-09-09",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "NVIDIA",
+   "srckey": "wd:nvidia",
+   "id": "JR2025179",
+   "title": "System Software Intern, Video Chips - Summer 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/System-Software-Intern--Video-Chips---Summer-2027_JR2025179",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "7845",
+   "title": "AI创新应用实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/7845",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7683416797381101829",
+   "title": "开放平台运营（游戏方向）实习生 - TikTok产品",
+   "url": "https://jobs.bytedance.com/campus/position/7683416797381101829/detail",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
