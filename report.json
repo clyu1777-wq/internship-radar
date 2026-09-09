@@ -1,23 +1,6 @@
 {
- "date": "2026-09-09",
- "new_jobs": [
-  {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5231488007",
-   "title": "2027 Software Engineer Intern",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
-   "flag": ""
-  },
-  {
-   "company": "完美世界(实习)",
-   "srckey": "cn:wanmei",
-   "id": "cfdbc273-193c-4347-82c4-dce4c17ac7c2",
-   "title": "动画导演实习生（日常实习）",
-   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
-   "flag": ""
-  }
- ],
+ "date": "2026-09-10",
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
