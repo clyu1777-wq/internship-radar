@@ -2,52 +2,30 @@
  "date": "2026-09-10",
  "new_jobs": [
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6183293004",
-   "title": "Backend Services Programmer Intern",
-   "url": "https://epicgames.com/careers/jobs/6183293004?gh_jid=6183293004",
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139128",
+   "title": "和人类以语言沟通的智能NPC",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139128",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7683811994847774981",
+   "title": "游戏APM实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7683811994847774981/detail",
    "flag": ""
   },
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6183401004",
-   "title": "UI Programmer Intern",
-   "url": "https://epicgames.com/careers/jobs/6183401004?gh_jid=6183401004",
-   "flag": ""
-  },
-  {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10535280",
-   "title": "Software Development Engineer Intern, ROBOTICS - 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027",
-   "flag": ""
-  },
-  {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10535281",
-   "title": "Supply Chain Manager Intern/Co-op, ROBOTICS - 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10535281/supply-chain-manager-intern-co-op-robotics-2027",
-   "flag": ""
-  },
-  {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10535282",
-   "title": "Hardware Development Engineer Intern/Co-Op, ROBOTICS - 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10535282/hardware-development-engineer-intern-co-op-robotics-2027",
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7683832311291119877",
+   "title": "世界模型算法实习生 - 抖音直播",
+   "url": "https://jobs.bytedance.com/campus/position/7683832311291119877/detail",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
