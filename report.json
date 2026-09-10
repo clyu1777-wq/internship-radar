@@ -1,21 +1,15 @@
 {
- "date": "2026-09-10",
+ "date": "2026-09-11",
  "new_jobs": [
   {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9502",
-   "title": "AI渲染开发实习生-崩坏：因缘精灵",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9502",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393556992502",
+   "title": "Product Design INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556992502",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
