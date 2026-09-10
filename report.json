@@ -2,30 +2,20 @@
  "date": "2026-09-10",
  "new_jobs": [
   {
-   "company": "腾讯游戏",
-   "srckey": "cn:tencent",
-   "id": "1231829074692139128",
-   "title": "和人类以语言沟通的智能NPC",
-   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139128",
-   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7683811994847774981",
-   "title": "游戏APM实习生 - 绿洲工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7683811994847774981/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7683832311291119877",
-   "title": "世界模型算法实习生 - 抖音直播",
-   "url": "https://jobs.bytedance.com/campus/position/7683832311291119877/detail",
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9502",
+   "title": "AI渲染开发实习生-崩坏：因缘精灵",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9502",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
