@@ -2,11 +2,195 @@
  "date": "2026-09-11",
  "new_jobs": [
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10536817",
-   "title": "Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027",
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074687944787",
+   "title": "游戏AI-大模型强化后训练框架及Rollout加速研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074687944787",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074687944788",
+   "title": "游戏AI-多智能体协同规划与言行合理的演绎系统研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074687944788",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074687944789",
+   "title": "游戏AI-可控游戏视频生成技术研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074687944789",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074687944791",
+   "title": "游戏AI-语境感知与多模态指令可控语音生成研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074687944791",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139159",
+   "title": "游戏智能NPC-大模型角色意图与社会化自演进方法研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139159",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139161",
+   "title": "游戏垂类多模态理解LLM",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139161",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139162",
+   "title": "游戏垂类视频生成模型",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139162",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139168",
+   "title": "游戏市场运营智能模型研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139168",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139169",
+   "title": "游戏数据语义知识库与智能查询技术研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139169",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1246578010254242817",
+   "title": "世界模型编辑器-3DGS游戏引擎研发",
+   "url": "https://join.qq.com/post_detail.html?postid=1246578010254242817",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074687944750",
+   "title": "端到端AI视频图像编解码",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074687944750",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139135",
+   "title": "高精3D数字角色驱动",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139135",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139136",
+   "title": "多模态动作生成大模型",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139136",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139137",
+   "title": "面向角色控制的视频生成大模型",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139137",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139138",
+   "title": "满足工业生产要求的3D几何资产生成",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139138",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139140",
+   "title": "3D生成基础大模型",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139140",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139142",
+   "title": "基于多模态大模型的3D场景智能光照生成与编辑方法研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139142",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139143",
+   "title": "多模态引导的神经材质生产管线：从生成式合成到物理一致性重构",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139143",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139144",
+   "title": "基于Transformer架构的下一代渲染管线：从序列化光传输到物理一致性实时渲染",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139144",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1231829074692139163",
+   "title": "二次元垂类风格化动作生成模型",
+   "url": "https://join.qq.com/post_detail.html?postid=1231829074692139163",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "76525",
+   "title": "游戏营销实习生（永劫无间）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7684169079775922468",
+   "title": "技术中心 - 测试开发（支付方向）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7684169079775922468/detail",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7684128215489808681",
+   "title": "战双-版本运营",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7684128215489808681/detail",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7490544698404063527",
+   "title": "NAMI-引擎开发（性能优化）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7490544698404063527/detail",
    "flag": ""
   }
  ],
