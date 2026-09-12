@@ -1,6 +1,21 @@
 {
  "date": "2026-09-12",
- "new_jobs": [],
- "failures": [],
+ "new_jobs": [
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10538066",
+   "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
+   "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+   "flag": ""
+  }
+ ],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
