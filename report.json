@@ -1,6 +1,15 @@
 {
  "date": "2026-09-12",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393556983226",
+   "title": "Product Management Intern - CTJ - TS",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
