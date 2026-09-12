@@ -2,20 +2,22 @@
  "date": "2026-09-12",
  "new_jobs": [
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10538066",
-   "title": "ML Systems Software Development Engineer Intern, Annapurna Labs - 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10538066/ml-systems-software-development-engineer-intern-annapurna-labs-2027",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393556983221",
+   "title": "Software Engineering Intern - CTJ - TS",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
+   "flag": ""
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393556983223",
+   "title": "Software Engineering Intern - CTJ - TS",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
