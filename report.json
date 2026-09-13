@@ -1,6 +1,15 @@
 {
- "date": "2026-09-13",
- "new_jobs": [],
+ "date": "2026-09-14",
+ "new_jobs": [
+  {
+   "company": "NVIDIA",
+   "srckey": "wd:nvidia",
+   "id": "JR2023971",
+   "title": "Linux for Edge System Software Engineer (RDSS intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Linux-for-Edge-System-Software-Engineer--RDSS-intern-_JR2023971",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
