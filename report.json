@@ -1,23 +1,12 @@
 {
  "date": "2026-09-15",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "Google",
-   "srckey": "google",
-   "id": "89541201752924870",
-   "title": "User Experience Research Intern, MS, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "119184035237765830",
-   "title": "Data Scientist, Product Intern, MS, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
