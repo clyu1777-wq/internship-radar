@@ -1,6 +1,23 @@
 {
  "date": "2026-09-14",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1296891639222206464",
+   "title": "游戏AI—可控游戏视频生成技术研究",
+   "url": "https://join.qq.com/post_detail.html?postid=1296891639222206464",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1284862486247711744",
+   "title": "AI产品经理",
+   "url": "https://join.qq.com/post_detail.html?postid=1284862486247711744",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
