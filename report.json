@@ -1,15 +1,37 @@
 {
- "date": "2026-09-15",
+ "date": "2026-09-16",
  "new_jobs": [
   {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "56347",
-   "title": "游戏数值策划实习生（天谕）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5239083007",
+   "title": "2027 Flight Software Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
+   "flag": ""
+  },
+  {
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5236563007",
+   "title": "Winter 2027 Software Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
+   "flag": ""
+  },
+  {
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5236573007",
+   "title": "Winter 2027 Test Automation Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
