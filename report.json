@@ -1,12 +1,23 @@
 {
  "date": "2026-09-15",
- "new_jobs": [],
- "failures": [
+ "new_jobs": [
+  {
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6148799004",
+   "title": "Level Design Intern",
+   "url": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004",
+   "flag": ""
+  },
   {
    "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "srckey": "ms:pcsx",
+   "id": "1970393556998387",
+   "title": "Cloud Solution Architecture Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
