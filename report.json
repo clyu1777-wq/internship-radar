@@ -2,19 +2,59 @@
  "date": "2026-09-15",
  "new_jobs": [
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6148799004",
-   "title": "Level Design Intern",
-   "url": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393556962891",
+   "title": "AI Software Engineering Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
    "flag": ""
   },
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556998387",
-   "title": "Cloud Solution Architecture Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556998387",
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "68703",
+   "title": "游戏研发工程师实习生（服务器方向）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7685695538164042038",
+   "title": "NAMI-客户端开发（关卡编辑器方向）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7685695538164042038/detail",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7666045521807083817",
+   "title": "SUN - 游戏UI开发（外编）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7666045521807083817/detail",
+   "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100031460007",
+   "title": "灵犀互娱-执行主营销-MMO",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100031460007",
+   "flag": "校招/实习待确认(正文未抓到)"
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "42d5fca8-8dd9-4f8e-8eab-e90457e7bbf9",
+   "title": "游戏图形开发工程师（27届）",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "04477db4-aab8-4ac9-80c6-a949e5bfc0a9",
+   "title": "3D场景实习生（日常实习）",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
    "flag": ""
   }
  ],
