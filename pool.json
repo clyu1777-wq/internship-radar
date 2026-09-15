@@ -40,20 +40,20 @@
   "new": false
  },
  {
-  "uid": "gh:epicgames:6152263004",
+  "uid": "gh:epicgames:6141180004",
   "co": "Epic Games",
   "t": "Gameplay Programmer Intern",
-  "u": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004",
+  "u": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
   "cat": "软件",
   "suit": false,
   "flag": "",
   "new": false
  },
  {
-  "uid": "gh:epicgames:6141180004",
+  "uid": "gh:epicgames:6152263004",
   "co": "Epic Games",
   "t": "Gameplay Programmer Intern",
-  "u": "https://epicgames.com/careers/jobs/6141180004?gh_jid=6141180004",
+  "u": "https://epicgames.com/careers/jobs/6152263004?gh_jid=6152263004",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -160,20 +160,20 @@
   "new": false
  },
  {
-  "uid": "gh:anduril:5148079007",
+  "uid": "gh:anduril:5231488007",
   "co": "Anduril",
   "t": "2027 Software Engineer Intern",
-  "u": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
+  "u": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
   "cat": "软件",
   "suit": false,
   "flag": "",
   "new": false
  },
  {
-  "uid": "gh:anduril:5231488007",
+  "uid": "gh:anduril:5148079007",
   "co": "Anduril",
   "t": "2027 Software Engineer Intern",
-  "u": "https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007",
+  "u": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -440,16 +440,6 @@
   "new": true
  },
  {
-  "uid": "ms:pcsx:1970393556978896",
-  "co": "微软",
-  "t": "Product Management INTERN",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556978896",
-  "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": true
- },
- {
   "uid": "ms:pcsx:1970393556983221",
   "co": "微软",
   "t": "Software Engineering Intern - CTJ - TS",
@@ -550,6 +540,16 @@
   "new": false
  },
  {
+  "uid": "snowflake:efbbdddd-18a1-4d9d-9455-3e82166b42f6",
+  "co": "Snowflake",
+  "t": "Applied AI Intern - Warsaw",
+  "u": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "snowflake:3a9baeaf-b107-41fb-a9b3-a98ab78275ed",
   "co": "Snowflake",
   "t": "Software Engineer Intern - Berlin (2026)",
@@ -566,16 +566,6 @@
   "u": "https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be",
   "cat": "软件",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "snowflake:efbbdddd-18a1-4d9d-9455-3e82166b42f6",
-  "co": "Snowflake",
-  "t": "Applied AI Intern - Warsaw",
-  "u": "https://jobs.ashbyhq.com/snowflake/90190b16-fd27-4366-8c10-9c4896157681",
-  "cat": "AI",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -3600,6 +3590,456 @@
   "new": false
  },
  {
+  "uid": "cn:leihuo:78106",
+  "co": "网易雷火(日常实习)",
+  "t": "日语本地化LQA实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78107",
+  "co": "网易雷火(日常实习)",
+  "t": "韩语本地化LQA实习生 （无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78182",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏本地化项目经理实习生（英语）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78105",
+  "co": "网易雷火(日常实习)",
+  "t": "英语本地化LQA实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:56347",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生（天谕）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:74266",
+  "co": "网易雷火(日常实习)",
+  "t": "动效设计实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:75191",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（游戏性能与包体管理）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:61749",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生（永劫无间手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77635",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:44853",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:62969",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:64680",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:45622",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:60690",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:44081",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏任务策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:52088",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏外观策划实习生（逆水寒）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:65396",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏外观策划实习生（逆水寒端游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:63192",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:55067",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（AI方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:70552",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（永劫无间端游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:60840",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（忘川风华录）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:77724",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏演出策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:77723",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏外观策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:76680",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（AI原生/叙事）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:63992",
+  "co": "网易雷火(日常实习)",
+  "t": "UGC策划实习生（永劫无间）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:54425",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏分析策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:76827",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（归唐）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:76824",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（归唐）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:67932",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生（归唐）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:60315",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（界外狂潮）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:78398",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:78400",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏玩法策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:19310",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:59635",
+  "co": "网易雷火(日常实习)",
+  "t": "用户增长产品策划实习生（游戏方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:78468",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏玩法策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:59505",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（逆水寒端游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:78549",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:78567",
+  "co": "网易雷火(日常实习)",
+  "t": "服务端开发实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:78568",
+  "co": "网易雷火(日常实习)",
+  "t": "全栈开发实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:58384",
+  "co": "网易雷火(日常实习)",
+  "t": "平台开发实习生（Python方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:71490",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:59311",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（忘川风华录）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:72477",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:60058",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏运营策划实习生（永劫无间）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:70735",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（诡影藏锋）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
   "uid": "cn:leihuo:76498",
   "co": "网易雷火(日常实习)",
   "t": "游戏交互设计实习生（无限大）",
@@ -3810,42 +4250,12 @@
   "new": false
  },
  {
-  "uid": "cn:leihuo:70735",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏文案策划实习生（诡影藏锋）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": true
- },
- {
   "uid": "cn:leihuo:76525",
   "co": "网易雷火(日常实习)",
   "t": "游戏营销实习生（永劫无间）",
   "u": "https://leihuo.163.com/campus/#/dailyIntern",
   "cat": "边缘",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:60058",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏运营策划实习生（永劫无间）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:72477",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏关卡策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -3910,46 +4320,6 @@
   "new": false
  },
  {
-  "uid": "cn:leihuo:78056",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏文案策划实习生（修仙题材）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:59311",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏文案策划实习生（忘川风华录）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:71490",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏文案策划实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:58384",
-  "co": "网易雷火(日常实习)",
-  "t": "平台开发实习生（Python方向）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:leihuo:65380",
   "co": "网易雷火(日常实习)",
   "t": "游戏推广实习生（直播与电竞方向）",
@@ -3970,36 +4340,6 @@
   "new": false
  },
  {
-  "uid": "cn:leihuo:78568",
-  "co": "网易雷火(日常实习)",
-  "t": "全栈开发实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78567",
-  "co": "网易雷火(日常实习)",
-  "t": "服务端开发实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78549",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏数值策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:leihuo:60455",
   "co": "网易雷火(日常实习)",
   "t": "游戏海外营销实习生（MMO向）",
@@ -4010,39 +4350,9 @@
   "new": false
  },
  {
-  "uid": "cn:leihuo:59505",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生（逆水寒端游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78468",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏玩法策划实习生（逆水寒手游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:leihuo:78455",
   "co": "网易雷火(日常实习)",
   "t": "海外社区运营实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:59635",
-  "co": "网易雷火(日常实习)",
-  "t": "用户增长产品策划实习生（游戏方向）",
   "u": "https://leihuo.163.com/campus/#/dailyIntern",
   "cat": "运营",
   "suit": true,
@@ -4060,332 +4370,12 @@
   "new": false
  },
  {
-  "uid": "cn:leihuo:19310",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏关卡策划实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78400",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏玩法策划实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78398",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:leihuo:78228",
   "co": "网易雷火(日常实习)",
   "t": "视频编导实习生",
   "u": "https://leihuo.163.com/campus/#/dailyIntern",
   "cat": "边缘",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:77936",
-  "co": "网易雷火(日常实习)",
-  "t": "IP 线下活动执行实习生（魔兽世界）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78235",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏测试实习生（忘川风华录）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:60315",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏战斗策划实习生（界外狂潮）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78287",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏测试实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:78320",
-  "co": "网易雷火(日常实习)",
-  "t": "新媒体运营实习生（雷火UX）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:67932",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏关卡策划实习生（归唐）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:76824",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生（归唐）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:76827",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏战斗策划实习生（归唐）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:54425",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏分析策划实习生（逆水寒手游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:77551",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏任务策划实习生（全明星街球派对）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:63992",
-  "co": "网易雷火(日常实习)",
-  "t": "UGC策划实习生（永劫无间）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:76680",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生（AI原生/叙事）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:77723",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏外观策划实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:77724",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏演出策划实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:60840",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏战斗策划实习生（忘川风华录）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:70552",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生（永劫无间端游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:55067",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生（AI方向）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:63192",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生（逆水寒手游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:65396",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏外观策划实习生（逆水寒端游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:69752",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:52088",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏外观策划实习生（逆水寒）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:44081",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏任务策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:57139",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏数值策划实习生（逆水寒端游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:45622",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏系统策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:64680",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏数值策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:60690",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏数值策划实习生（逆水寒手游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:62969",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏战斗策划实习生（逆水寒手游）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:44853",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏战斗策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:77635",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏数值策划实习生（无限大）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -5160,16 +5150,6 @@
   "new": false
  },
  {
-  "uid": "cn:kuro:7490544698404063527",
-  "co": "库洛游戏",
-  "t": "NAMI-引擎开发（性能优化）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7490544698404063527/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:kuro:7488293039808366911",
   "co": "库洛游戏",
   "t": "NAMI-客户端开发（动画方向）",
@@ -5540,6 +5520,16 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7676062994207525173",
+  "co": "字节游戏",
+  "t": "剧情策划（女性向游戏）实习生 - ZERO36工作室",
+  "u": "https://jobs.bytedance.com/campus/position/7676062994207525173/detail",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7670802558391781637",
   "co": "字节游戏",
   "t": "游戏策划（回合制卡牌）实习生 - ZERO36工作室",
@@ -5570,20 +5560,20 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7676062994207525173",
+  "uid": "cn:bytedance:7472725197578668306",
   "co": "字节游戏",
-  "t": "剧情策划（女性向游戏）实习生 - ZERO36工作室",
-  "u": "https://jobs.bytedance.com/campus/position/7676062994207525173/detail",
+  "t": "游戏玩法策划（生活模拟游戏）实习生 - Atom",
+  "u": "https://jobs.bytedance.com/campus/position/7472725197578668306/detail",
   "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
  },
  {
-  "uid": "cn:bytedance:7472725197578668306",
+  "uid": "cn:bytedance:7682986534270748933",
   "co": "字节游戏",
-  "t": "游戏玩法策划（生活模拟游戏）实习生 - Atom",
-  "u": "https://jobs.bytedance.com/campus/position/7472725197578668306/detail",
+  "t": "游戏交互策划（UE）实习生 - 绿洲工作室",
+  "u": "https://jobs.bytedance.com/campus/position/7682986534270748933/detail",
   "cat": "策划",
   "suit": true,
   "flag": "",
@@ -5610,11 +5600,21 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7682986534270748933",
+  "uid": "cn:bytedance:7676400015377664261",
   "co": "字节游戏",
-  "t": "游戏交互策划（UE）实习生 - 绿洲工作室",
-  "u": "https://jobs.bytedance.com/campus/position/7682986534270748933/detail",
-  "cat": "策划",
+  "t": "游戏视频设计实习生 - 绿洲工作室",
+  "u": "https://jobs.bytedance.com/campus/position/7676400015377664261/detail",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7621843065141217589",
+  "co": "字节游戏",
+  "t": "小游戏玩法运营实习生-抖音",
+  "u": "https://jobs.bytedance.com/campus/position/7621843065141217589/detail",
+  "cat": "运营",
   "suit": true,
   "flag": "",
   "new": false
@@ -5626,6 +5626,16 @@
   "u": "https://jobs.bytedance.com/campus/position/7532436587565697287/detail",
   "cat": "运营",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7683082923512711477",
+  "co": "字节游戏",
+  "t": "游戏监修PM实习生 - Glow Studio",
+  "u": "https://jobs.bytedance.com/campus/position/7683082923512711477/detail",
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -5650,6 +5660,16 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7567327868234352901",
+  "co": "字节游戏",
+  "t": "游戏技术实习生-Glow Studio",
+  "u": "https://jobs.bytedance.com/campus/position/7567327868234352901/detail",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7652196502855289093",
   "co": "字节游戏",
   "t": "游戏战斗策划实习生 - 江南工作室",
@@ -5670,42 +5690,22 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7676400015377664261",
+  "uid": "cn:bytedance:7559774632930298130",
   "co": "字节游戏",
-  "t": "游戏视频设计实习生 - 绿洲工作室",
-  "u": "https://jobs.bytedance.com/campus/position/7676400015377664261/detail",
+  "t": "游戏UI设计实习生-UGC游戏",
+  "u": "https://jobs.bytedance.com/campus/position/7559774632930298130/detail",
   "cat": "边缘",
   "suit": false,
   "flag": "",
   "new": false
  },
  {
-  "uid": "cn:bytedance:7621843065141217589",
+  "uid": "cn:bytedance:7649969050386254133",
   "co": "字节游戏",
-  "t": "小游戏玩法运营实习生-抖音",
-  "u": "https://jobs.bytedance.com/campus/position/7621843065141217589/detail",
+  "t": "竞技游戏葡语社群运营实习生 - ONE Studio",
+  "u": "https://jobs.bytedance.com/campus/position/7649969050386254133/detail",
   "cat": "运营",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7683082923512711477",
-  "co": "字节游戏",
-  "t": "游戏监修PM实习生 - Glow Studio",
-  "u": "https://jobs.bytedance.com/campus/position/7683082923512711477/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7567327868234352901",
-  "co": "字节游戏",
-  "t": "游戏技术实习生-Glow Studio",
-  "u": "https://jobs.bytedance.com/campus/position/7567327868234352901/detail",
-  "cat": "边缘",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -5720,32 +5720,12 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7559774632930298130",
-  "co": "字节游戏",
-  "t": "游戏UI设计实习生-UGC游戏",
-  "u": "https://jobs.bytedance.com/campus/position/7559774632930298130/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7514314144716491016",
   "co": "字节游戏",
   "t": "游戏作者策略实习生-抖音",
   "u": "https://jobs.bytedance.com/campus/position/7514314144716491016/detail",
   "cat": "边缘",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7649969050386254133",
-  "co": "字节游戏",
-  "t": "竞技游戏葡语社群运营实习生 - ONE Studio",
-  "u": "https://jobs.bytedance.com/campus/position/7649969050386254133/detail",
-  "cat": "运营",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -5770,16 +5750,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7640035569251404085",
-  "co": "字节游戏",
-  "t": "AI小游戏策划实习生-TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7640035569251404085/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7679024047186987317",
   "co": "字节游戏",
   "t": "游戏AIGC算法（3D方向）实习生 - AIGC",
@@ -5796,6 +5766,16 @@
   "u": "https://jobs.bytedance.com/campus/position/7683811994847774981/detail",
   "cat": "边缘",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7640035569251404085",
+  "co": "字节游戏",
+  "t": "AI小游戏策划实习生-TikTok",
+  "u": "https://jobs.bytedance.com/campus/position/7640035569251404085/detail",
+  "cat": "策划",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -5830,26 +5810,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7605903404720769285",
-  "co": "字节游戏",
-  "t": "产品运营实习生（游戏垂类运营）-TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7605903404720769285/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7371287714408188198",
-  "co": "字节游戏",
-  "t": "游戏技术实习生-UGC-Game",
-  "u": "https://jobs.bytedance.com/campus/position/7371287714408188198/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7536145694781409554",
   "co": "字节游戏",
   "t": "游戏直播战略实习生-TikTok直播",
@@ -5866,6 +5826,26 @@
   "u": "https://jobs.bytedance.com/campus/position/7670400241033365765/detail",
   "cat": "运营",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7605903404720769285",
+  "co": "字节游戏",
+  "t": "产品运营实习生（游戏垂类运营）-TikTok",
+  "u": "https://jobs.bytedance.com/campus/position/7605903404720769285/detail",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7371287714408188198",
+  "co": "字节游戏",
+  "t": "游戏技术实习生-UGC-Game",
+  "u": "https://jobs.bytedance.com/campus/position/7371287714408188198/detail",
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -5940,22 +5920,22 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7579892826966755589",
-  "co": "字节游戏",
-  "t": "用户运营实习生-TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7579892826966755589/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7649280013948520709",
   "co": "字节游戏",
   "t": "Agent开发实习生-抖音直播",
   "u": "https://jobs.bytedance.com/campus/position/7649280013948520709/detail",
   "cat": "软件",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7579892826966755589",
+  "co": "字节游戏",
+  "t": "用户运营实习生-TikTok",
+  "u": "https://jobs.bytedance.com/campus/position/7579892826966755589/detail",
+  "cat": "运营",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -6000,26 +5980,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7647099668352796933",
-  "co": "字节游戏",
-  "t": "技术支持（Unity方向）实习生-PICO",
-  "u": "https://jobs.bytedance.com/campus/position/7647099668352796933/detail",
-  "cat": "FDE",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7667951639589423365",
-  "co": "字节游戏",
-  "t": "行业产品实习生 - 广告业务",
-  "u": "https://jobs.bytedance.com/campus/position/7667951639589423365/detail",
-  "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7674944037608409349",
   "co": "字节游戏",
   "t": "AIGC产品实习生（IAA方向） - 广告业务",
@@ -6040,6 +6000,26 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7647099668352796933",
+  "co": "字节游戏",
+  "t": "技术支持（Unity方向）实习生-PICO",
+  "u": "https://jobs.bytedance.com/campus/position/7647099668352796933/detail",
+  "cat": "FDE",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7667951639589423365",
+  "co": "字节游戏",
+  "t": "行业产品实习生 - 广告业务",
+  "u": "https://jobs.bytedance.com/campus/position/7667951639589423365/detail",
+  "cat": "产品",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7581732599363455285",
   "co": "字节游戏",
   "t": "直播战略实习生-TikTok直播",
@@ -6048,16 +6028,6 @@
   "suit": false,
   "flag": "",
   "new": false
- },
- {
-  "uid": "cn:bytedance:7662253197230934277",
-  "co": "字节游戏",
-  "t": "VR内容执行策划实习生 - PICO",
-  "u": "https://jobs.bytedance.com/campus/position/7662253197230934277/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": true
  },
  {
   "uid": "cn:bytedance:7681292018450860341",
@@ -6100,61 +6070,21 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7679006593040501045",
+  "uid": "cn:bytedance:7662253197230934277",
   "co": "字节游戏",
-  "t": "产品经理实习生 - 国际化内容与服务广告",
-  "u": "https://jobs.bytedance.com/campus/position/7679006593040501045/detail",
-  "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7645607551613028613",
-  "co": "字节游戏",
-  "t": "AIGC短剧编剧实习生 - TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7645607551613028613/detail",
+  "t": "VR内容执行策划实习生 - PICO",
+  "u": "https://jobs.bytedance.com/campus/position/7662253197230934277/detail",
   "cat": "策划",
   "suit": true,
   "flag": "",
   "new": true
  },
  {
-  "uid": "cn:bytedance:7588095788091197749",
+  "uid": "cn:bytedance:7679006593040501045",
   "co": "字节游戏",
-  "t": "后端开发实习生 - 抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7588095788091197749/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "cn:bytedance:7472274635217144072",
-  "co": "字节游戏",
-  "t": "后端开发实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7472274635217144072/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "cn:bytedance:7381462930736908570",
-  "co": "字节游戏",
-  "t": "后端开发实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7381462930736908570/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7665938446779123973",
-  "co": "字节游戏",
-  "t": "产品运营实习生 - 国际化内容与服务广告",
-  "u": "https://jobs.bytedance.com/campus/position/7665938446779123973/detail",
-  "cat": "运营",
+  "t": "产品经理实习生 - 国际化内容与服务广告",
+  "u": "https://jobs.bytedance.com/campus/position/7679006593040501045/detail",
+  "cat": "产品",
   "suit": true,
   "flag": "",
   "new": false
@@ -6168,6 +6098,16 @@
   "suit": false,
   "flag": "",
   "new": true
+ },
+ {
+  "uid": "cn:bytedance:7665938446779123973",
+  "co": "字节游戏",
+  "t": "产品运营实习生 - 国际化内容与服务广告",
+  "u": "https://jobs.bytedance.com/campus/position/7665938446779123973/detail",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
  },
  {
   "uid": "cn:bytedance:7662211069532342581",
@@ -6200,20 +6140,20 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7462953337815124242",
+  "uid": "cn:bytedance:7525348347533068552",
   "co": "字节游戏",
-  "t": "多模态算法实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7462953337815124242/detail",
+  "t": "AIGC商业产品实习生-国际化",
+  "u": "https://jobs.bytedance.com/campus/position/7525348347533068552/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
  },
  {
-  "uid": "cn:bytedance:7525348347533068552",
+  "uid": "cn:bytedance:7462953337815124242",
   "co": "字节游戏",
-  "t": "AIGC商业产品实习生-国际化",
-  "u": "https://jobs.bytedance.com/campus/position/7525348347533068552/detail",
+  "t": "多模态算法实习生-抖音直播",
+  "u": "https://jobs.bytedance.com/campus/position/7462953337815124242/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
@@ -6390,16 +6330,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7664540382467967237",
-  "co": "字节游戏",
-  "t": "后端开发实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7664540382467967237/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7677884741940857141",
   "co": "字节游戏",
   "t": "AI应用（服务架构方向）后端实习生 - TikTok直播",
@@ -6416,6 +6346,16 @@
   "u": "https://jobs.bytedance.com/campus/position/7664438281645279493/detail",
   "cat": "AI",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7664540382467967237",
+  "co": "字节游戏",
+  "t": "后端开发实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7664540382467967237/detail",
+  "cat": "软件",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6680,22 +6620,22 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7572160182605990187",
-  "co": "智谱AI(实习)",
-  "t": "大模型技术实习生-深圳",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572160182605990187/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7547559088360950067",
   "co": "智谱AI(实习)",
   "t": "国际销售实习生",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7547559088360950067/detail",
   "cat": "边缘",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7572160182605990187",
+  "co": "智谱AI(实习)",
+  "t": "大模型技术实习生-深圳",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572160182605990187/detail",
+  "cat": "AI",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -6800,22 +6740,22 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7586983744834849051",
-  "co": "智谱AI(实习)",
-  "t": "项目经理实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7586983744834849051/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7576223592809285914",
   "co": "智谱AI(实习)",
   "t": "用户运营实习生",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7576223592809285914/detail",
   "cat": "运营",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7586983744834849051",
+  "co": "智谱AI(实习)",
+  "t": "项目经理实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7586983744834849051/detail",
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -7220,21 +7160,21 @@
   "new": false
  },
  {
-  "uid": "cn:lingxi:100010120022",
-  "co": "阿里灵犀互娱",
-  "t": "灵犀互娱-执行主策划-SLG",
-  "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100010120022",
-  "cat": "策划",
-  "suit": false,
-  "flag": "校招/实习待确认(正文未抓到)",
-  "new": false
- },
- {
   "uid": "cn:lingxi:100008600012",
   "co": "阿里灵犀互娱",
   "t": "灵犀互娱-海外执行主营销-日本",
   "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100008600012",
   "cat": "边缘",
+  "suit": false,
+  "flag": "校招/实习待确认(正文未抓到)",
+  "new": false
+ },
+ {
+  "uid": "cn:lingxi:100010120022",
+  "co": "阿里灵犀互娱",
+  "t": "灵犀互娱-执行主策划-SLG",
+  "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100010120022",
+  "cat": "策划",
   "suit": false,
   "flag": "校招/实习待确认(正文未抓到)",
   "new": false
