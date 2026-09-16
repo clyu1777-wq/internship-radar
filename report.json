@@ -1,71 +1,12 @@
 {
  "date": "2026-09-16",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "NVIDIA",
-   "srckey": "wd:nvidia",
-   "id": "JR2025538",
-   "title": "Silicon Software Engineer - System and AI (RDSS Intern)",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Silicon-Software-Engineer---System-and-AI--RDSS-Intern-_JR2025538",
-   "flag": ""
-  },
-  {
-   "company": "腾讯游戏",
-   "srckey": "cn:tencent",
-   "id": "1296893503255019520",
-   "title": "游戏AI—陪伴智能体系统研究",
-   "url": "https://join.qq.com/post_detail.html?postid=1296893503255019520",
-   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "56828",
-   "title": "游戏功能测试实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7686009841563289866",
-   "title": "鸣潮-韩国社媒营销（外编）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7686009841563289866/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7685954481175202101",
-   "title": "游戏动画导演实习生 - ZERO36工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7685954481175202101/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7686037377790691637",
-   "title": "用户产品运营实习生（游戏娱乐行业） - 抖音电商",
-   "url": "https://jobs.bytedance.com/campus/position/7686037377790691637/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7686025120608438581",
-   "title": "3D动画实习生 - 研发支持中心",
-   "url": "https://jobs.bytedance.com/campus/position/7686025120608438581/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7685969522624710965",
-   "title": "后端开发（运营平台方向）实习生 - TikTok直播",
-   "url": "https://jobs.bytedance.com/campus/position/7685969522624710965/detail",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
