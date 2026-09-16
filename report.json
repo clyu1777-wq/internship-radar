@@ -2,36 +2,14 @@
  "date": "2026-09-16",
  "new_jobs": [
   {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5239083007",
-   "title": "2027 Flight Software Engineer Intern",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5239083007?gh_jid=5239083007",
-   "flag": ""
-  },
-  {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5236563007",
-   "title": "Winter 2027 Software Engineer Co-op",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236563007?gh_jid=5236563007",
-   "flag": ""
-  },
-  {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5236573007",
-   "title": "Winter 2027 Test Automation Engineer Co-op",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5236573007?gh_jid=5236573007",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
    "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "srckey": "ms:pcsx",
+   "id": "1970393556998782",
+   "title": "Solution Engineering Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556998782",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
