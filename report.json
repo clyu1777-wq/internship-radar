@@ -2,11 +2,35 @@
  "date": "2026-09-17",
  "new_jobs": [
   {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393556999316",
+   "title": "Software Engineering INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556999316",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7662292752831826222",
+   "title": "SUN-图形框架开发（移动端图形与性能优化）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7662292752831826222/detail",
+   "flag": ""
+  },
+  {
    "company": "字节游戏",
    "srckey": "cn:bytedance",
-   "id": "7686306263983229237",
-   "title": "产品实习生 - 国际化内容与服务广告",
-   "url": "https://jobs.bytedance.com/campus/position/7686306263983229237/detail",
+   "id": "7686332540506802437",
+   "title": "创意视觉与AI工具设计（特效方向）实习生 - TikTok设计",
+   "url": "https://jobs.bytedance.com/campus/position/7686332540506802437/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7686420231186729269",
+   "title": "特效研发（SDK开发方向）实习生 - TikTok智能创作",
+   "url": "https://jobs.bytedance.com/campus/position/7686420231186729269/detail",
    "flag": ""
   }
  ],
