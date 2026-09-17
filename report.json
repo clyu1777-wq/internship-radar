@@ -1,6 +1,15 @@
 {
  "date": "2026-09-17",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7686306263983229237",
+   "title": "产品实习生 - 国际化内容与服务广告",
+   "url": "https://jobs.bytedance.com/campus/position/7686306263983229237/detail",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
