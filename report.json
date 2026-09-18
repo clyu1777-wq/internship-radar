@@ -2,22 +2,52 @@
  "date": "2026-09-18",
  "new_jobs": [
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6193647004",
-   "title": "Game Design Intern",
-   "url": "https://epicgames.com/careers/jobs/6193647004?gh_jid=6193647004",
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9541",
+   "title": "市场内容实习生（前瞻节目制作）-绝区零",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9541",
    "flag": ""
   },
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10552937",
-   "title": "Software Development Engineer Internship - Summer -2027 (USA)",
-   "url": "https://www.amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa",
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "51957",
+   "title": "游戏AI产品策划实习生（智能NPC方向）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
    "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "76399",
+   "title": "守望先锋新媒体实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "71723",
+   "title": "语音大模型数据标注实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100043960001",
+   "title": "灵犀互娱-主营销/主传播-MMO",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100043960001",
+   "flag": "校招/实习待确认(正文未抓到)"
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
