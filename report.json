@@ -1,23 +1,6 @@
 {
  "date": "2026-09-20",
- "new_jobs": [
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7687541754859587845",
-   "title": "Unity3D游戏客户端开发实习生 - ZERO36工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7687541754859587845/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7687460668896381189",
-   "title": "世界生成互动创作Agent算法实习生 - 剪映CapCut",
-   "url": "https://jobs.bytedance.com/campus/position/7687460668896381189/detail",
-   "flag": ""
-  }
- ],
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
