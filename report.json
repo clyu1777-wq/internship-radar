@@ -2,20 +2,30 @@
  "date": "2026-09-21",
  "new_jobs": [
   {
-   "company": "NVIDIA",
-   "srckey": "wd:nvidia",
-   "id": "JR2025783",
-   "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783",
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9556",
+   "title": "AI人文训练实习生（日语方向）",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9556",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79013",
+   "title": "平台测试实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7484179944467482921",
+   "title": "战双-战斗策划",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7484179944467482921/detail",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
