@@ -1,6 +1,15 @@
 {
  "date": "2026-09-22",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100011580009",
+   "title": "灵犀互娱-技术负责人-发行技术类",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100011580009",
+   "flag": "校招/实习待确认(正文未抓到)"
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
