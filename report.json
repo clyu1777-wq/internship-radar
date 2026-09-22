@@ -2,12 +2,20 @@
  "date": "2026-09-22",
  "new_jobs": [
   {
-   "company": "阿里灵犀互娱",
-   "srckey": "cn:lingxi",
-   "id": "100011580009",
-   "title": "灵犀互娱-技术负责人-发行技术类",
-   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100011580009",
-   "flag": "校招/实习待确认(正文未抓到)"
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6202675004",
+   "title": "Data Science Intern",
+   "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+   "flag": ""
+  },
+  {
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6202659004",
+   "title": "Engine Programmer Intern",
+   "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+   "flag": ""
   }
  ],
  "failures": [],
