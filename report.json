@@ -2,19 +2,51 @@
  "date": "2026-09-22",
  "new_jobs": [
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6202675004",
-   "title": "Data Science Intern",
-   "url": "https://epicgames.com/careers/jobs/6202675004?gh_jid=6202675004",
+   "company": "NVIDIA",
+   "srckey": "wd:nvidia",
+   "id": "JR2025914",
+   "title": "System Software Engineer - USB (RDSS Intern)",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1",
    "flag": ""
   },
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6202659004",
-   "title": "Engine Programmer Intern",
-   "url": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9570",
+   "title": "游戏研发-安全开发实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9570",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7688294966737438981",
+   "title": "游戏系统策划实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7688294966737438981/detail",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "a9ea7953-7b8b-41fe-8c2c-9f8aeb6ba4fe",
+   "title": "关卡策划实习生（P5X）",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "5b280a0c-ca0d-457a-afcf-98b8999689d4",
+   "title": "数值策划实习生（P5X）",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "bcbf3867-7969-4327-91b1-0bb1ebbab5fe",
+   "title": "安全实习生（反私.服）",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
    "flag": ""
   }
  ],
