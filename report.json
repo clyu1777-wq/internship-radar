@@ -2,51 +2,35 @@
  "date": "2026-09-22",
  "new_jobs": [
   {
-   "company": "NVIDIA",
-   "srckey": "wd:nvidia",
-   "id": "JR2025914",
-   "title": "System Software Engineer - USB (RDSS Intern)",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1",
+   "company": "Apple",
+   "srckey": "apple",
+   "id": "200685035",
+   "title": "Internship - Machine Learning (Foundation Models)",
+   "url": "https://jobs.apple.com/en-us/details/200685035/internship-machine-learning-foundation-models",
    "flag": ""
   },
   {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9570",
-   "title": "游戏研发-安全开发实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9570",
+   "company": "Snowflake",
+   "srckey": "snowflake",
+   "id": "36706ca8-ea03-4bfb-91dc-c5fa1f0dc17e",
+   "title": "Software Engineer Intern - Berlin (2027)",
+   "url": "https://jobs.ashbyhq.com/snowflake/ab028e3c-c1cf-4455-8915-8e4e6b0cc9e8",
    "flag": ""
   },
   {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7688294966737438981",
-   "title": "游戏系统策划实习生 - 绿洲工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7688294966737438981/detail",
+   "company": "Google",
+   "srckey": "google",
+   "id": "134770032394543814",
+   "title": "Associate Product Manager Intern, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
    "flag": ""
   },
   {
-   "company": "完美世界(实习)",
-   "srckey": "cn:wanmei",
-   "id": "a9ea7953-7b8b-41fe-8c2c-9f8aeb6ba4fe",
-   "title": "关卡策划实习生（P5X）",
-   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
-   "flag": ""
-  },
-  {
-   "company": "完美世界(实习)",
-   "srckey": "cn:wanmei",
-   "id": "5b280a0c-ca0d-457a-afcf-98b8999689d4",
-   "title": "数值策划实习生（P5X）",
-   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
-   "flag": ""
-  },
-  {
-   "company": "完美世界(实习)",
-   "srckey": "cn:wanmei",
-   "id": "bcbf3867-7969-4327-91b1-0bb1ebbab5fe",
-   "title": "安全实习生（反私.服）",
-   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7688302715231799590",
+   "title": "客服中台-电商质培专员（外编）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7688302715231799590/detail",
    "flag": ""
   }
  ],
