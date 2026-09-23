@@ -2,14 +2,20 @@
  "date": "2026-09-23",
  "new_jobs": [
   {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7688551543881500979",
-   "title": "营销中心-视觉创意设计师（NAMI）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7688551543881500979/detail",
+   "company": "NVIDIA",
+   "srckey": "wd:nvidia",
+   "id": "JR2025784",
+   "title": "Product Design Intern, AI Infrastructure - Summer 2027",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Design-Intern--AI-Infrastructure---Summer-2027_JR2025784",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
