@@ -1,6 +1,47 @@
 {
  "date": "2026-09-24",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393556917520",
+   "title": "Data Science INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556917520",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "8616",
+   "title": "AI 创新运营实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/8616",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7647016951965239602",
+   "title": "鸣潮-二维动画特效",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7647016951965239602/detail",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "7a7b72de-bb07-4e7b-9699-f49d371a2302",
+   "title": "游戏运营实习生",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "e6a3a447-0cd7-4dc7-b450-54df8d1d6b24",
+   "title": "游戏AI策划实习生",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
