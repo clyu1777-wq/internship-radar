@@ -1,15 +1,12 @@
 {
- "date": "2026-09-24",
- "new_jobs": [
+ "date": "2026-09-25",
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9586",
-   "title": "AI人文训练师实习生（中文）",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9586",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
