@@ -1,31 +1,12 @@
 {
  "date": "2026-09-25",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "c3cfbee9-0bdd-4320-b540-44ee31d945a0",
-   "title": "Software Engineer Intern (Database Engineering) - Spring 2027",
-   "url": "https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be",
-   "flag": ""
-  },
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "b497fa45-a044-49c9-a9b8-2749beb58e69",
-   "title": "Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027",
-   "url": "https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69",
-   "flag": ""
-  },
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "8f474d88-1b9a-4957-b018-9633a5434752",
-   "title": "Software Engineer Intern (AI / ML) - Spring 2027",
-   "url": "https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
