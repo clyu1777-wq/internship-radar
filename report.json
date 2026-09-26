@@ -1,15 +1,12 @@
 {
  "date": "2026-09-26",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
    "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557008574",
-   "title": "Research Intern - Data Systems",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
