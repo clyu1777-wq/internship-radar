@@ -1,15 +1,12 @@
 {
- "date": "2026-09-28",
- "new_jobs": [
+ "date": "2026-09-29",
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7615223181576063237",
-   "title": "UG产品设计实习生 - TikTok设计",
-   "url": "https://jobs.bytedance.com/campus/position/7615223181576063237/detail",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
