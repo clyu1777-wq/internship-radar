@@ -1,12 +1,15 @@
 {
  "date": "2026-09-29",
- "new_jobs": [],
- "failures": [
+ "new_jobs": [
   {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10563358",
+   "title": "Associate Solutions Architect Intern, Hong Kong",
+   "url": "https://www.amazon.jobs/en/jobs/10563358/associate-solutions-architect-intern-hong-kong",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
