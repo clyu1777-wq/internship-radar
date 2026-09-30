@@ -2,28 +2,12 @@
  "date": "2026-09-30",
  "new_jobs": [
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6161289004",
-   "title": "Product Management Intern",
-   "url": "https://epicgames.com/careers/jobs/6161289004?gh_jid=6161289004",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10564599",
+   "title": "2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+   "url": "https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
    "flag": ""
-  },
-  {
-   "company": "PlayStation SIE",
-   "srckey": "gh:sie",
-   "id": "6210692004",
-   "title": "Technical Designer - Intern",
-   "url": "https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/6210692004",
-   "flag": ""
-  },
-  {
-   "company": "阿里灵犀互娱",
-   "srckey": "cn:lingxi",
-   "id": "100046260001",
-   "title": "灵犀互娱-游戏营销-海外传播",
-   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100046260001",
-   "flag": "校招/实习待确认(正文未抓到)"
   }
  ],
  "failures": [],
