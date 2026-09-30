@@ -1,6 +1,23 @@
 {
  "date": "2026-10-01",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6178818004",
+   "title": "Technical Product Management Intern",
+   "url": "https://epicgames.com/careers/jobs/6178818004?gh_jid=6178818004",
+   "flag": ""
+  },
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10565667",
+   "title": "Software Development Engineer Intern, AWS Database - 2027 (US)",
+   "url": "https://www.amazon.jobs/en/jobs/10565667/software-development-engineer-intern-aws-database-2027-us",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
