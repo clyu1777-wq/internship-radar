@@ -1,15 +1,12 @@
 {
  "date": "2026-09-30",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10564599",
-   "title": "2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
-   "url": "https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
