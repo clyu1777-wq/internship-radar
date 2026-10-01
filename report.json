@@ -1,12 +1,23 @@
 {
- "date": "2026-10-01",
- "new_jobs": [],
- "failures": [
+ "date": "2026-10-02",
+ "new_jobs": [
   {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "company": "C3.ai",
+   "srckey": "gh:c3",
+   "id": "8739323002",
+   "title": "Software Engineer - Intern (Summer 2027)",
+   "url": "https://c3.ai/job-description/8739323002?gh_jid=8739323002",
+   "flag": ""
+  },
+  {
+   "company": "Riot Games",
+   "srckey": "riot",
+   "id": "6172",
+   "title": "Software Engineering Intern - Summer 2027 (Remote)",
+   "url": "https://www.riotgames.com/en/j/8222014",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
