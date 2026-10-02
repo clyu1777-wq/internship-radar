@@ -1,23 +1,45 @@
 {
- "date": "2026-10-02",
+ "date": "2026-10-03",
  "new_jobs": [
+  {
+   "company": "Databricks",
+   "srckey": "gh:databricks",
+   "id": "8133715002",
+   "title": "Product Management Intern (2026) - Amsterdam",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+   "flag": ""
+  },
+  {
+   "company": "Databricks",
+   "srckey": "gh:databricks",
+   "id": "8145776002",
+   "title": "Product Management Intern (2026) - Berlin",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+   "flag": ""
+  },
   {
    "company": "微软",
    "srckey": "ms:pcsx",
-   "id": "1970393557022480",
-   "title": "Research Intern - Security Research Group, Microsoft Research Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
+   "id": "1970393557021663",
+   "title": "Research Intern - Quantum Algorithms",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
    "flag": "研究岗·常要研究生,正文未抓到"
   },
   {
-   "company": "Google",
-   "srckey": "google",
-   "id": "84561862556820166",
-   "title": "Data Scientist Product MS Intern, 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10567914",
+   "title": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
+   "url": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "库洛游戏",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }

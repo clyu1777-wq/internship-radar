@@ -50,20 +50,20 @@
   "new": false
  },
  {
-  "uid": "gh:epicgames:6193647004",
+  "uid": "gh:epicgames:6147156004",
   "co": "Epic Games",
   "t": "Game Design Intern",
-  "u": "https://epicgames.com/careers/jobs/6193647004?gh_jid=6193647004",
+  "u": "https://epicgames.com/careers/jobs/6147156004?gh_jid=6147156004",
   "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
  },
  {
-  "uid": "gh:epicgames:6147156004",
+  "uid": "gh:epicgames:6193647004",
   "co": "Epic Games",
   "t": "Game Design Intern",
-  "u": "https://epicgames.com/careers/jobs/6147156004?gh_jid=6147156004",
+  "u": "https://epicgames.com/careers/jobs/6193647004?gh_jid=6193647004",
   "cat": "策划",
   "suit": true,
   "flag": "",
@@ -80,20 +80,20 @@
   "new": false
  },
  {
-  "uid": "gh:epicgames:6148799004",
+  "uid": "gh:epicgames:6173450004",
   "co": "Epic Games",
   "t": "Level Design Intern",
-  "u": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004",
+  "u": "https://epicgames.com/careers/jobs/6173450004?gh_jid=6173450004",
   "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
  },
  {
-  "uid": "gh:epicgames:6173450004",
+  "uid": "gh:epicgames:6148799004",
   "co": "Epic Games",
   "t": "Level Design Intern",
-  "u": "https://epicgames.com/careers/jobs/6173450004?gh_jid=6173450004",
+  "u": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004",
   "cat": "策划",
   "suit": true,
   "flag": "",
@@ -107,7 +107,7 @@
   "cat": "产品",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "gh:epicgames:6178818004",
@@ -160,6 +160,26 @@
   "new": false
  },
  {
+  "uid": "gh:databricks:8133715002",
+  "co": "Databricks",
+  "t": "Product Management Intern (2026) - Amsterdam",
+  "u": "https://databricks.com/company/careers/open-positions/job?gh_jid=8133715002",
+  "cat": "产品",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "gh:databricks:8145776002",
+  "co": "Databricks",
+  "t": "Product Management Intern (2026) - Berlin",
+  "u": "https://databricks.com/company/careers/open-positions/job?gh_jid=8145776002",
+  "cat": "产品",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
   "uid": "gh:sie:6210692004",
   "co": "PlayStation SIE",
   "t": "Technical Designer - Intern",
@@ -167,7 +187,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "gh:anduril:4802146007",
@@ -490,26 +510,6 @@
   "new": false
  },
  {
-  "uid": "ms:pcsx:1970393556911730",
-  "co": "微软",
-  "t": "Software Engineering INTERN",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556911730",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393557022480",
-  "co": "微软",
-  "t": "Research Intern - Security Research Group, Microsoft Research Redmond",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
- },
- {
   "uid": "ms:pcsx:1970393556957962",
   "co": "微软",
   "t": "Software Engineering INTERN",
@@ -520,12 +520,42 @@
   "new": true
  },
  {
-  "uid": "ms:pcsx:1970393556983226",
+  "uid": "ms:pcsx:1970393556998782",
   "co": "微软",
-  "t": "Product Management Intern - CTJ - TS",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556983226",
-  "cat": "产品",
+  "t": "Copilot & AI Solution Engineer Intern",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556998782",
+  "cat": "FDE",
   "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393556922930",
+  "co": "微软",
+  "t": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557021663",
+  "co": "微软",
+  "t": "Research Intern - Quantum Algorithms",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393556922922",
+  "co": "微软",
+  "t": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+  "cat": "软件",
+  "suit": false,
   "flag": "",
   "new": true
  },
@@ -550,32 +580,22 @@
   "new": true
  },
  {
+  "uid": "amazon:10567914",
+  "co": "Amazon/AWS",
+  "t": "Software Development Engineer Intern (Embedded Systems) - Summer 2027 (USA)",
+  "u": "https://www.amazon.jobs/en/jobs/10567914/software-development-engineer-intern-embedded-systems-summer-2027-usa",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
   "uid": "amazon:10563358",
   "co": "Amazon/AWS",
   "t": "Associate Solutions Architect Intern, Hong Kong",
   "u": "https://www.amazon.jobs/en/jobs/10563358/associate-solutions-architect-intern-hong-kong",
   "cat": "FDE",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "amazon:10564599",
-  "co": "Amazon/AWS",
-  "t": "2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
-  "u": "https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "amazon:10559746",
-  "co": "Amazon/AWS",
-  "t": "Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC)",
-  "u": "https://www.amazon.jobs/en/jobs/10559746/software-development-engineer-intern-summer-2027-usa-amazon-dedicated-cloud-adc",
-  "cat": "软件",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -678,36 +698,6 @@
   "suit": true,
   "flag": "",
   "new": true
- },
- {
-  "uid": "google:119184035237765830",
-  "co": "Google",
-  "t": "Data Scientist, Product Intern, MS, Summer 2027",
-  "u": "https://www.google.com/about/careers/applications/jobs/results/119184035237765830",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "google:134770032394543814",
-  "co": "Google",
-  "t": "Associate Product Manager Intern, Summer 2027",
-  "u": "https://www.google.com/about/careers/applications/jobs/results/134770032394543814",
-  "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "google:89541201752924870",
-  "co": "Google",
-  "t": "User Experience Research Intern, MS, Summer 2027",
-  "u": "https://www.google.com/about/careers/applications/jobs/results/89541201752924870",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": false
  },
  {
   "uid": "cn:tencent:1210569902285656064",
@@ -4430,1156 +4420,6 @@
   "new": false
  },
  {
-  "uid": "cn:kuro:7688551543881500979",
-  "co": "库洛游戏",
-  "t": "营销中心-视觉创意设计师（NAMI）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7688551543881500979/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7688302715231799590",
-  "co": "库洛游戏",
-  "t": "客服中台-电商质培专员（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7688302715231799590/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7686814009089083667",
-  "co": "库洛游戏",
-  "t": "在研项目-性能测试",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7686814009089083667/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7686009841563289866",
-  "co": "库洛游戏",
-  "t": "鸣潮-韩国社媒营销（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7686009841563289866/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7685695538164042038",
-  "co": "库洛游戏",
-  "t": "NAMI-客户端开发（关卡编辑器方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7685695538164042038/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7684169079775922468",
-  "co": "库洛游戏",
-  "t": "技术中心 - 测试开发（支付方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7684169079775922468/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7684128215489808681",
-  "co": "库洛游戏",
-  "t": "战双-版本运营",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7684128215489808681/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7683044886938208575",
-  "co": "库洛游戏",
-  "t": "鸣潮-日本社媒营销（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7683044886938208575/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7678167157541620018",
-  "co": "库洛游戏",
-  "t": "NAMI-分镜编导",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7678167157541620018/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7677513554262542642",
-  "co": "库洛游戏",
-  "t": "鸣潮-欧美社媒营销（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7677513554262542642/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7676369958993365294",
-  "co": "库洛游戏",
-  "t": "鸣潮-语音监制（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7676369958993365294/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7675670366627711270",
-  "co": "库洛游戏",
-  "t": "技术中心 - Java后端开发工程师（游戏SDK方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7675670366627711270/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7673470679216163126",
-  "co": "库洛游戏",
-  "t": "引擎开发工程师（渲染 / 通用方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7673470679216163126/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7673461544152434995",
-  "co": "库洛游戏",
-  "t": "TA（全栈向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7673461544152434995/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7673453211836205353",
-  "co": "库洛游戏",
-  "t": "角色渲染向TA",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7673453211836205353/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7672979766258354478",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发-（构建）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7672979766258354478/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7672978572902680841",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发-（工具）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7672978572902680841/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7672731652044753190",
-  "co": "库洛游戏",
-  "t": "技术中心 - 测试工程师（大数据）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7672731652044753190/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7672294718764927275",
-  "co": "库洛游戏",
-  "t": "鸣潮-2D编导（live2D/spine）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7672294718764927275/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7672231718253840676",
-  "co": "库洛游戏",
-  "t": "衍生品策划（IP游戏周边）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7672231718253840676/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7670431132316698916",
-  "co": "库洛游戏",
-  "t": "SUN-AI策划（剧情向-外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7670431132316698916/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7668653517801310500",
-  "co": "库洛游戏",
-  "t": "技术中心 - 前端开发工程师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7668653517801310500/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7666045521807083817",
-  "co": "库洛游戏",
-  "t": "SUN - 游戏UI开发（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7666045521807083817/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7662588395411409179",
-  "co": "库洛游戏",
-  "t": "SUN-aigc设计师（演出视频向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7662588395411409179/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7662305443235219758",
-  "co": "库洛游戏",
-  "t": "创意营销",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7662305443235219758/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7662292752831826222",
-  "co": "库洛游戏",
-  "t": "SUN-图形框架开发（移动端图形与性能优化）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7662292752831826222/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7654128665899501875",
-  "co": "库洛游戏",
-  "t": "技术中心 - 测试工程师（SDK）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7654128665899501875/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7652542288489138475",
-  "co": "库洛游戏",
-  "t": "IP运营（英语）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7652542288489138475/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7652293531415464246",
-  "co": "库洛游戏",
-  "t": "NAMI-图形渲染开发（渲染优化方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7652293531415464246/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7651844886036515122",
-  "co": "库洛游戏",
-  "t": "在研项目-客户端开发（玩法方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7651844886036515122/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7649703546565101874",
-  "co": "库洛游戏",
-  "t": "鸣潮-2D载具设计",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7649703546565101874/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7649703329781713206",
-  "co": "库洛游戏",
-  "t": "鸣潮-2D武器设计",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7649703329781713206/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7649702278034639147",
-  "co": "库洛游戏",
-  "t": "鸣潮-2D怪物",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7649702278034639147/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7649210505291647278",
-  "co": "库洛游戏",
-  "t": "在研项目-游戏灯光师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7649210505291647278/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7647016951965239602",
-  "co": "库洛游戏",
-  "t": "鸣潮-二维动画特效",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7647016951965239602/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7645252364424857894",
-  "co": "库洛游戏",
-  "t": "技术中心 - 测试工程师（外编）- 社区",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7645252364424857894/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7645236621252512063",
-  "co": "库洛游戏",
-  "t": "NAMI-3D动作（局内演出）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7645236621252512063/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7643755026209491219",
-  "co": "库洛游戏",
-  "t": "技术中心 - 数仓开发工程师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7643755026209491219/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7642190675648432427",
-  "co": "库洛游戏",
-  "t": "SUN-3D动作（韩国）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7642190675648432427/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7642181345610844466",
-  "co": "库洛游戏",
-  "t": "技术中心 - 测试工程师（社区）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7642181345610844466/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7628575899827423524",
-  "co": "库洛游戏",
-  "t": "在研项目-分镜编导",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7628575899827423524/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7624445762528659766",
-  "co": "库洛游戏",
-  "t": "技术中心 - 后端开发工程师（AI平台方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7624445762528659766/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7621842449966647595",
-  "co": "库洛游戏",
-  "t": "战双-AIGC设计师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7621842449966647595/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7615521283568798015",
-  "co": "库洛游戏",
-  "t": "在研项目-演出灯光师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7615521283568798015/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7613737459368905002",
-  "co": "库洛游戏",
-  "t": "在研项目-剧情演出设计",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7613737459368905002/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7605177078401091878",
-  "co": "库洛游戏",
-  "t": "战双-分镜编导",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7605177078401091878/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7605171759012170035",
-  "co": "库洛游戏",
-  "t": "战双-动画导演",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7605171759012170035/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7604786303573985579",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D角色（怪物模型-综合向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7604786303573985579/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7604786267461355812",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D角色（怪物模型-绑定向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7604786267461355812/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7602568459399498011",
-  "co": "库洛游戏",
-  "t": "NAMI-引擎开发（框架方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7602568459399498011/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7594781824242633003",
-  "co": "库洛游戏",
-  "t": "鸣潮-场景效果开发（程序方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7594781824242633003/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7589592867233614131",
-  "co": "库洛游戏",
-  "t": "技术中心-测试工程师（AI工具向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7589592867233614131/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7587612095869405446",
-  "co": "库洛游戏",
-  "t": "SUN-文案策划",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7587612095869405446/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7586643043001157914",
-  "co": "库洛游戏",
-  "t": "在研项目-引擎开发",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7586643043001157914/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7586635432738949419",
-  "co": "库洛游戏",
-  "t": "在研项目-图形渲染开发",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7586635432738949419/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7585420441808980262",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发（战斗方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7585420441808980262/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7585418323693816074",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发（3C）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7585418323693816074/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7585417932353947954",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发（剧情方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7585417932353947954/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7585417892415965482",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发（功能方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7585417892415965482/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7585416975792048390",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发（关卡方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7585416975792048390/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7584287277011634482",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D动作（动捕精修）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7584287277011634482/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7582146457970657574",
-  "co": "库洛游戏",
-  "t": "在研项目-服务端开发(系统方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7582146457970657574/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7577606205750331657",
-  "co": "库洛游戏",
-  "t": "在研项目-客户端开发（系统方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7577606205750331657/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7575025803814340915",
-  "co": "库洛游戏",
-  "t": "营销中心-境外商务",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7575025803814340915/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7572484463637137700",
-  "co": "库洛游戏",
-  "t": "鸣潮-商务PMA（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7572484463637137700/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7564261660753447209",
-  "co": "库洛游戏",
-  "t": "战双-UI动效",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7564261660753447209/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7562084669072640292",
-  "co": "库洛游戏",
-  "t": "NAMI-测试工程师（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7562084669072640292/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7562079502688405803",
-  "co": "库洛游戏",
-  "t": "NAMI-测试工程师（系统方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7562079502688405803/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7553550508150573322",
-  "co": "库洛游戏",
-  "t": "战双-环境灯光师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7553550508150573322/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7544939404113725759",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D动作",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7544939404113725759/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7539772516248684842",
-  "co": "库洛游戏",
-  "t": "战双-3D动作（表演方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7539772516248684842/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7539744922766657833",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D动作（飘带）（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7539744922766657833/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7527887930813270308",
-  "co": "库洛游戏",
-  "t": "技术中心-引擎开发（前沿技术预研）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7527887930813270308/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7526767350752250155",
-  "co": "库洛游戏",
-  "t": "绑定动画技术部-3D绑定（MAYA方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7526767350752250155/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7524600064975735066",
-  "co": "库洛游戏",
-  "t": "在研项目-UI设计师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7524600064975735066/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7524582879763466538",
-  "co": "库洛游戏",
-  "t": "在研项目-UI动效",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7524582879763466538/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7524554769420732722",
-  "co": "库洛游戏",
-  "t": "鸣潮-战斗分镜",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7524554769420732722/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7517935667633621258",
-  "co": "库洛游戏",
-  "t": "NAMI-图形渲染开发",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7517935667633621258/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7514519466035349769",
-  "co": "库洛游戏",
-  "t": "在研项目-客户端开发（关卡任务方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7514519466035349769/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7511551545932319015",
-  "co": "库洛游戏",
-  "t": "NAMI-2D角色",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7511551545932319015/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7488293039808366911",
-  "co": "库洛游戏",
-  "t": "NAMI-客户端开发（动画方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7488293039808366911/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7488292333789694247",
-  "co": "库洛游戏",
-  "t": "NAMI-客户端开发（关卡方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7488292333789694247/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7487828405930625317",
-  "co": "库洛游戏",
-  "t": "NAMI-战斗策划（怪物方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7487828405930625317/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7487827750117771546",
-  "co": "库洛游戏",
-  "t": "NAMI-文案策划",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7487827750117771546/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7487826208454576425",
-  "co": "库洛游戏",
-  "t": "在研项目-演出对话动作",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7487826208454576425/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7487823817341421860",
-  "co": "库洛游戏",
-  "t": "NAMI-3D动作（局内战斗）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7487823817341421860/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7487821219493939497",
-  "co": "库洛游戏",
-  "t": "NAMI-环境灯光师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7487821219493939497/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7486379840138348826",
-  "co": "库洛游戏",
-  "t": "在研项目-文案策划",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7486379840138348826/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7485213720642423081",
-  "co": "库洛游戏",
-  "t": "绑定动画技术部-3D绑定（MAX方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7485213720642423081/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484194610567285042",
-  "co": "库洛游戏",
-  "t": "SUN-客户端开发（战斗）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484194610567285042/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484179993892620583",
-  "co": "库洛游戏",
-  "t": "在研项目-分镜师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484179993892620583/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484179970774173971",
-  "co": "库洛游戏",
-  "t": "战双-服务端开发",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484179970774173971/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484179970772928787",
-  "co": "库洛游戏",
-  "t": "战双-版本PM",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484179970772928787/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484179944467482921",
-  "co": "库洛游戏",
-  "t": "战双-战斗策划",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484179944467482921/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484179926309570870",
-  "co": "库洛游戏",
-  "t": "战双-2D角色",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484179926309570870/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484179918642710838",
-  "co": "库洛游戏",
-  "t": "战双-3D动作（战斗方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484179918642710838/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484179904063228171",
-  "co": "库洛游戏",
-  "t": "NAMI-客户端开发（战斗方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484179904063228171/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484142001865148735",
-  "co": "库洛游戏",
-  "t": "SUN-2D角色（角色/怪物方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484142001865148735/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7484140256423348543",
-  "co": "库洛游戏",
-  "t": "SUN-3D动作",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7484140256423348543/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483091294936451366",
-  "co": "库洛游戏",
-  "t": "鸣潮-游戏配乐师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483091294936451366/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076505434687795",
-  "co": "库洛游戏",
-  "t": "鸣潮-剧情演出动作",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076505434687795/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076494522501414",
-  "co": "库洛游戏",
-  "t": "鸣潮-剧情演出设计",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076494522501414/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076494521239846",
-  "co": "库洛游戏",
-  "t": "鸣潮-文案策划",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076494521239846/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076468022429978",
-  "co": "库洛游戏",
-  "t": "鸣潮-语音设计师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076468022429978/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076453094410533",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D角色（材质方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076453094410533/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076445024733477",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D动作",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076445024733477/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076445024487717",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D场景编辑",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076445024487717/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076431607482674",
-  "co": "库洛游戏",
-  "t": "鸣潮-3D场景模型（外编）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076431607482674/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076427086203173",
-  "co": "库洛游戏",
-  "t": "鸣潮-环境灯光师",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076427086203173/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076427085465893",
-  "co": "库洛游戏",
-  "t": "鸣潮-2D角色",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076427085465893/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076427085220133",
-  "co": "库洛游戏",
-  "t": "鸣潮-2D角色",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076427085220133/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076413719234854",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发（系统&活动方向）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076413719234854/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076407238756635",
-  "co": "库洛游戏",
-  "t": "鸣潮-客户端开发",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076407238756635/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483076402645272841",
-  "co": "库洛游戏",
-  "t": "鸣潮-战斗策划（角色/怪物）",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483076402645272841/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:kuro:7483075853661882650",
-  "co": "库洛游戏",
-  "t": "鸣潮-技术策划",
-  "u": "https://kurogame.jobs.feishu.cn/campus/position/7483075853661882650/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7686467327227349301",
   "co": "字节游戏",
   "t": "游戏UI设计（女性向游戏）实习生 - ZERO36工作室",
@@ -5590,20 +4430,20 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7670802558391781637",
+  "uid": "cn:bytedance:7676062994207525173",
   "co": "字节游戏",
-  "t": "游戏策划（回合制卡牌）实习生 - ZERO36工作室",
-  "u": "https://jobs.bytedance.com/campus/position/7670802558391781637/detail",
+  "t": "剧情策划（女性向游戏）实习生 - ZERO36工作室",
+  "u": "https://jobs.bytedance.com/campus/position/7676062994207525173/detail",
   "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
  },
  {
-  "uid": "cn:bytedance:7676062994207525173",
+  "uid": "cn:bytedance:7670802558391781637",
   "co": "字节游戏",
-  "t": "剧情策划（女性向游戏）实习生 - ZERO36工作室",
-  "u": "https://jobs.bytedance.com/campus/position/7676062994207525173/detail",
+  "t": "游戏策划（回合制卡牌）实习生 - ZERO36工作室",
+  "u": "https://jobs.bytedance.com/campus/position/7670802558391781637/detail",
   "cat": "策划",
   "suit": true,
   "flag": "",
@@ -5800,21 +4640,21 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7640035569251404085",
-  "co": "字节游戏",
-  "t": "AI小游戏策划实习生-TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7640035569251404085/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7621843065141217589",
   "co": "字节游戏",
   "t": "小游戏玩法运营实习生 - 抖音",
   "u": "https://jobs.bytedance.com/campus/position/7621843065141217589/detail",
   "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7640035569251404085",
+  "co": "字节游戏",
+  "t": "AI小游戏策划实习生-TikTok",
+  "u": "https://jobs.bytedance.com/campus/position/7640035569251404085/detail",
+  "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
@@ -5970,6 +4810,16 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7579892826966755589",
+  "co": "字节游戏",
+  "t": "用户运营实习生-TikTok",
+  "u": "https://jobs.bytedance.com/campus/position/7579892826966755589/detail",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7687460668896381189",
   "co": "字节游戏",
   "t": "世界生成互动创作Agent算法实习生 - 剪映CapCut",
@@ -5986,16 +4836,6 @@
   "u": "https://jobs.bytedance.com/campus/position/7649280013948520709/detail",
   "cat": "软件",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7579892826966755589",
-  "co": "字节游戏",
-  "t": "用户运营实习生-TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7579892826966755589/detail",
-  "cat": "运营",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -6060,26 +4900,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7674944037608409349",
-  "co": "字节游戏",
-  "t": "AIGC产品实习生（IAA方向） - 广告业务",
-  "u": "https://jobs.bytedance.com/campus/position/7674944037608409349/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7573564097951860997",
-  "co": "字节游戏",
-  "t": "AIGC产品实习生 - 广告业务",
-  "u": "https://jobs.bytedance.com/campus/position/7573564097951860997/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7647099668352796933",
   "co": "字节游戏",
   "t": "技术支持（Unity方向）实习生-PICO",
@@ -6100,22 +4920,32 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7674944037608409349",
+  "co": "字节游戏",
+  "t": "AIGC产品实习生（IAA方向） - 广告业务",
+  "u": "https://jobs.bytedance.com/campus/position/7674944037608409349/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7573564097951860997",
+  "co": "字节游戏",
+  "t": "AIGC产品实习生 - 广告业务",
+  "u": "https://jobs.bytedance.com/campus/position/7573564097951860997/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7581732599363455285",
   "co": "字节游戏",
   "t": "直播战略实习生-TikTok直播",
   "u": "https://jobs.bytedance.com/campus/position/7581732599363455285/detail",
   "cat": "边缘",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7681292018450860341",
-  "co": "字节游戏",
-  "t": "广告算法实习生 - 内容消费与非闭环营销",
-  "u": "https://jobs.bytedance.com/campus/position/7681292018450860341/detail",
-  "cat": "AI",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -6140,22 +4970,22 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7681292018450860341",
+  "co": "字节游戏",
+  "t": "广告算法实习生 - 内容消费与非闭环营销",
+  "u": "https://jobs.bytedance.com/campus/position/7681292018450860341/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7686447028033227061",
   "co": "字节游戏",
   "t": "Seedance2.5编剧实习生 - 火山方舟",
   "u": "https://jobs.bytedance.com/campus/position/7686447028033227061/detail",
   "cat": "策划",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7554024773132732690",
-  "co": "字节游戏",
-  "t": "客户端开发实习生-抖音",
-  "u": "https://jobs.bytedance.com/campus/position/7554024773132732690/detail",
-  "cat": "软件",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6190,10 +5020,10 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7381315559277971739",
+  "uid": "cn:bytedance:7554024773132732690",
   "co": "字节游戏",
-  "t": "后端开发实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7381315559277971739/detail",
+  "t": "客户端开发实习生-抖音",
+  "u": "https://jobs.bytedance.com/campus/position/7554024773132732690/detail",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -6240,21 +5070,21 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7662211069532342581",
+  "uid": "cn:bytedance:7381315559277971739",
   "co": "字节游戏",
-  "t": "商业产品（短剧出海方向）实习生 - 国际化内容与服务广告",
-  "u": "https://jobs.bytedance.com/campus/position/7662211069532342581/detail",
-  "cat": "边缘",
+  "t": "后端开发实习生-抖音直播",
+  "u": "https://jobs.bytedance.com/campus/position/7381315559277971739/detail",
+  "cat": "软件",
   "suit": false,
   "flag": "",
   "new": false
  },
  {
-  "uid": "cn:bytedance:7483776843963861266",
+  "uid": "cn:bytedance:7662211069532342581",
   "co": "字节游戏",
-  "t": "大数据开发实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7483776843963861266/detail",
-  "cat": "软件",
+  "t": "商业产品（短剧出海方向）实习生 - 国际化内容与服务广告",
+  "u": "https://jobs.bytedance.com/campus/position/7662211069532342581/detail",
+  "cat": "边缘",
   "suit": false,
   "flag": "",
   "new": false
@@ -6266,6 +5096,16 @@
   "u": "https://jobs.bytedance.com/campus/position/7665938446779123973/detail",
   "cat": "运营",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7483776843963861266",
+  "co": "字节游戏",
+  "t": "大数据开发实习生-抖音直播",
+  "u": "https://jobs.bytedance.com/campus/position/7483776843963861266/detail",
+  "cat": "软件",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6320,22 +5160,22 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7534654544287828231",
-  "co": "字节游戏",
-  "t": "多模态理解算法实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7534654544287828231/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7686420231186729269",
   "co": "字节游戏",
   "t": "特效研发（SDK开发方向）实习生 - TikTok智能创作",
   "u": "https://jobs.bytedance.com/campus/position/7686420231186729269/detail",
   "cat": "软件",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7534654544287828231",
+  "co": "字节游戏",
+  "t": "多模态理解算法实习生-抖音直播",
+  "u": "https://jobs.bytedance.com/campus/position/7534654544287828231/detail",
+  "cat": "AI",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -6450,26 +5290,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7582203201799473413",
-  "co": "字节游戏",
-  "t": "项目管理实习生-TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7582203201799473413/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7673389544427325749",
-  "co": "字节游戏",
-  "t": "前端开发（活动方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7673389544427325749/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7584739373306644741",
   "co": "字节游戏",
   "t": "VLM数据运营（世界模型）实习生 - AI数据与安全",
@@ -6504,6 +5324,96 @@
   "co": "字节游戏",
   "t": "后端开发实习生 - TikTok直播",
   "u": "https://jobs.bytedance.com/campus/position/7664540382467967237/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7215558558842390839",
+  "co": "字节游戏",
+  "t": "多模态世界模型算法实习生-Seed",
+  "u": "https://jobs.bytedance.com/campus/position/7215558558842390839/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7622213631354456373",
+  "co": "字节游戏",
+  "t": "多模态与世界模型算法实习生-Seed大模型人才实习",
+  "u": "https://jobs.bytedance.com/campus/position/7622213631354456373/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7680764226151844149",
+  "co": "字节游戏",
+  "t": "后端开发（公会方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7680764226151844149/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7582203201799473413",
+  "co": "字节游戏",
+  "t": "项目管理实习生-TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7582203201799473413/detail",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7664532550576965941",
+  "co": "字节游戏",
+  "t": "AI全栈开发实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7664532550576965941/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7678283119853832453",
+  "co": "字节游戏",
+  "t": "后端开发（营收增长方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7678283119853832453/detail",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7675657438754867461",
+  "co": "字节游戏",
+  "t": "后端开发（消费方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7675657438754867461/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7672625472791202101",
+  "co": "字节游戏",
+  "t": "后端开发（社交互动方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7672625472791202101/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7673389544427325749",
+  "co": "字节游戏",
+  "t": "前端开发（活动方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7673389544427325749/detail",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -6560,82 +5470,12 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7215558558842390839",
-  "co": "字节游戏",
-  "t": "多模态世界模型算法实习生-Seed",
-  "u": "https://jobs.bytedance.com/campus/position/7215558558842390839/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7628899917788989749",
   "co": "字节游戏",
   "t": "【实习】广告场景下的生成式搜广推大模型技术研究-国际化内容与服务广告（北京/上海）",
   "u": "https://jobs.bytedance.com/campus/position/7628899917788989749/detail",
   "cat": "AI",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7622213631354456373",
-  "co": "字节游戏",
-  "t": "多模态与世界模型算法实习生-Seed大模型人才实习",
-  "u": "https://jobs.bytedance.com/campus/position/7622213631354456373/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7680764226151844149",
-  "co": "字节游戏",
-  "t": "后端开发（公会方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7680764226151844149/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7664532550576965941",
-  "co": "字节游戏",
-  "t": "AI全栈开发实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7664532550576965941/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7678283119853832453",
-  "co": "字节游戏",
-  "t": "后端开发（营收增长方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7678283119853832453/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7675657438754867461",
-  "co": "字节游戏",
-  "t": "后端开发（消费方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7675657438754867461/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7672625472791202101",
-  "co": "字节游戏",
-  "t": "后端开发（社交互动方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7672625472791202101/detail",
-  "cat": "软件",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6670,26 +5510,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7628826195743852853",
-  "co": "字节游戏",
-  "t": "【实习】抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）",
-  "u": "https://jobs.bytedance.com/campus/position/7628826195743852853/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7628825969953016117",
-  "co": "字节游戏",
-  "t": "【实习】抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）",
-  "u": "https://jobs.bytedance.com/campus/position/7628825969953016117/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7628825813073381685",
   "co": "字节游戏",
   "t": "【实习】抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）",
@@ -6704,6 +5524,26 @@
   "co": "字节游戏",
   "t": "【实习】抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）",
   "u": "https://jobs.bytedance.com/campus/position/7628613214695393589/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7628826195743852853",
+  "co": "字节游戏",
+  "t": "【实习】抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）",
+  "u": "https://jobs.bytedance.com/campus/position/7628826195743852853/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7628825969953016117",
+  "co": "字节游戏",
+  "t": "【实习】抖音多业务场景的大模型训练与应用-抖音直播（北京/上海/深圳/杭州）",
+  "u": "https://jobs.bytedance.com/campus/position/7628825969953016117/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
@@ -7350,21 +6190,21 @@
   "new": false
  },
  {
-  "uid": "cn:lingxi:100034540006",
-  "co": "阿里灵犀互娱",
-  "t": "灵犀互娱-主营销-MMO项目",
-  "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100034540006",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "校招/实习待确认(正文未抓到)",
-  "new": false
- },
- {
   "uid": "cn:lingxi:100014220003",
   "co": "阿里灵犀互娱",
   "t": "灵犀互娱-测试开发-游戏中台",
   "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100014220003",
   "cat": "软件",
+  "suit": false,
+  "flag": "校招/实习待确认(正文未抓到)",
+  "new": false
+ },
+ {
+  "uid": "cn:lingxi:100034540006",
+  "co": "阿里灵犀互娱",
+  "t": "灵犀互娱-主营销-MMO项目",
+  "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100034540006",
+  "cat": "边缘",
   "suit": false,
   "flag": "校招/实习待确认(正文未抓到)",
   "new": false
@@ -7467,7 +6307,7 @@
   "cat": "运营",
   "suit": false,
   "flag": "校招/实习待确认(正文未抓到)",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:lingxi:100046260001",
@@ -7477,7 +6317,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "校招/实习待确认(正文未抓到)",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:hypergryph:241fe7d3-488e-4a76-a217-c5477f5b686d",
