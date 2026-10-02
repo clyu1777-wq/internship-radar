@@ -1,12 +1,23 @@
 {
  "date": "2026-10-02",
- "new_jobs": [],
- "failures": [
+ "new_jobs": [
   {
    "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "srckey": "ms:pcsx",
+   "id": "1970393557022480",
+   "title": "Research Intern - Security Research Group, Microsoft Research Redmond",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "Google",
+   "srckey": "google",
+   "id": "84561862556820166",
+   "title": "Data Scientist Product MS Intern, 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/84561862556820166",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
