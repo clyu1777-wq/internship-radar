@@ -1,20 +1,11 @@
 {
  "date": "2026-10-03",
- "new_jobs": [
-  {
-   "company": "C3.ai",
-   "srckey": "gh:c3",
-   "id": "8860563002",
-   "title": "AI Product Manager - MBA Intern (Summer 2027)",
-   "url": "https://c3.ai/job-description/8860563002?gh_jid=8860563002",
-   "flag": ""
-  }
- ],
+ "new_jobs": [],
  "failures": [
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "streak": 2
   }
  ],
  "baseline_added": 0
