@@ -1,15 +1,12 @@
 {
  "date": "2026-10-03",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
    "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557023070",
-   "title": "Research Intern - Maia 200 Development",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557023070",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
