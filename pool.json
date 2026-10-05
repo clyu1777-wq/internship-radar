@@ -80,20 +80,20 @@
   "new": false
  },
  {
-  "uid": "gh:epicgames:6148799004",
+  "uid": "gh:epicgames:6173450004",
   "co": "Epic Games",
   "t": "Level Design Intern",
-  "u": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004",
+  "u": "https://epicgames.com/careers/jobs/6173450004?gh_jid=6173450004",
   "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
  },
  {
-  "uid": "gh:epicgames:6173450004",
+  "uid": "gh:epicgames:6148799004",
   "co": "Epic Games",
   "t": "Level Design Intern",
-  "u": "https://epicgames.com/careers/jobs/6173450004?gh_jid=6173450004",
+  "u": "https://epicgames.com/careers/jobs/6148799004?gh_jid=6148799004",
   "cat": "策划",
   "suit": true,
   "flag": "",
@@ -120,20 +120,20 @@
   "new": false
  },
  {
-  "uid": "gh:epicgames:6147167004",
+  "uid": "gh:epicgames:6200355004",
   "co": "Epic Games",
   "t": "Tools Programmer Intern",
-  "u": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
+  "u": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
   "cat": "软件",
   "suit": false,
   "flag": "",
   "new": false
  },
  {
-  "uid": "gh:epicgames:6200355004",
+  "uid": "gh:epicgames:6147167004",
   "co": "Epic Games",
   "t": "Tools Programmer Intern",
-  "u": "https://epicgames.com/careers/jobs/6200355004?gh_jid=6200355004",
+  "u": "https://epicgames.com/careers/jobs/6147167004?gh_jid=6147167004",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -167,7 +167,7 @@
   "cat": "产品",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "gh:databricks:8145776002",
@@ -177,7 +177,7 @@
   "cat": "产品",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "gh:sie:6210692004",
@@ -257,7 +257,7 @@
   "cat": "AI",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "gh:c3:8739323002",
@@ -520,6 +520,76 @@
   "new": false
  },
  {
+  "uid": "ms:pcsx:1970393556922922",
+  "co": "微软",
+  "t": "Software Engineer: Fullstack Product (Web + Services)  Intern Opportunities for University Students,",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556922922",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393556922929",
+  "co": "微软",
+  "t": "Software Engineer: AI/ML & LLM Intern Opportunities for University Students, Redmond",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556922929",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393556922931",
+  "co": "微软",
+  "t": "Software Engineer: Data Platform/Analytics Intern Opportunities for University Students, Redmond",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556922931",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557022480",
+  "co": "微软",
+  "t": "Research Intern - Security Research Group, Microsoft Research Redmond",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393556998782",
+  "co": "微软",
+  "t": "Copilot & AI Solution Engineer Intern",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556998782",
+  "cat": "FDE",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393556998387",
+  "co": "微软",
+  "t": "Cloud Solution Architecture Intern",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556998387",
+  "cat": "FDE",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393556922930",
+  "co": "微软",
+  "t": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
   "uid": "riot:6172",
   "co": "Riot Games",
   "t": "Software Engineering Intern - Summer 2027 (Remote)",
@@ -547,7 +617,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "amazon:10563358",
@@ -3550,6 +3620,826 @@
   "new": false
  },
  {
+  "uid": "cn:leihuo:56088",
+  "co": "网易雷火(日常实习)",
+  "t": "项目管理实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:52693",
+  "co": "网易雷火(日常实习)",
+  "t": "AI对话体验设计实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77978",
+  "co": "网易雷火(日常实习)",
+  "t": "【精英实习】具身智能算法工程师",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:72779",
+  "co": "网易雷火(日常实习)",
+  "t": "【精英实习】游戏研发客户端实习生（全明星街球派对）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:72780",
+  "co": "网易雷火(日常实习)",
+  "t": "【精英实习】游戏研发服务端实习生（全明星街球派对）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:61089",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏研发工程师实习生（服务器方向）（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77977",
+  "co": "网易雷火(日常实习)",
+  "t": "【精英实习】视觉感知算法工程师",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:75276",
+  "co": "网易雷火(日常实习)",
+  "t": "激光SLAM算法实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": false,
+  "flag": "正文写明偏好硕士",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:50960",
+  "co": "网易雷火(日常实习)",
+  "t": "AI产品策划实习生（游戏AI 竞技机器人方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:70689",
+  "co": "网易雷火(日常实习)",
+  "t": "具身智能算法实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:59502",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏玩法策划/副本策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:76525",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏营销实习生（永劫无间）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:75832",
+  "co": "网易雷火(日常实习)",
+  "t": "机器人算法实习生（规划/控制方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:76399",
+  "co": "网易雷火(日常实习)",
+  "t": "守望先锋新媒体实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:65380",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏推广实习生（直播与电竞方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:75169",
+  "co": "网易雷火(日常实习)",
+  "t": "高校活动执行实习生(暴雪/永劫无间项目)",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78320",
+  "co": "网易雷火(日常实习)",
+  "t": "新媒体运营实习生（雷火UX）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:51957",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏AI产品策划实习生（智能NPC方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:62416",
+  "co": "网易雷火(日常实习)",
+  "t": "AI对话体验设计实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:71723",
+  "co": "网易雷火(日常实习)",
+  "t": "语音大模型数据标注实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:76498",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏交互设计实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:52403",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏交互设计实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:71911",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏交互设计实习生（在研项目）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:66620",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏交互设计实习生（逆水寒端游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:15994",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77991",
+  "co": "网易雷火(日常实习)",
+  "t": "AI 内容产品实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:71290",
+  "co": "网易雷火(日常实习)",
+  "t": "LLM Agent算法实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:70383",
+  "co": "网易雷火(日常实习)",
+  "t": "智能NPC交互体验设计实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:79013",
+  "co": "网易雷火(日常实习)",
+  "t": "平台测试实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77832",
+  "co": "网易雷火(日常实习)",
+  "t": "无限大社区素材实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:76467",
+  "co": "网易雷火(日常实习)",
+  "t": "平台项目管理实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:71370",
+  "co": "网易雷火(日常实习)",
+  "t": "海外市场社区营销实习生（MMO）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78287",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏测试实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:56828",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏功能测试实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:64141",
+  "co": "网易雷火(日常实习)",
+  "t": "算法测试开发实习生（游戏AI）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:63388",
+  "co": "网易雷火(日常实习)",
+  "t": "测试开发工程师实习生（智能工程机器人）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77270",
+  "co": "网易雷火(日常实习)",
+  "t": "软件测试开发实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78106",
+  "co": "网易雷火(日常实习)",
+  "t": "日语本地化LQA实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78107",
+  "co": "网易雷火(日常实习)",
+  "t": "韩语本地化LQA实习生 （无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78182",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏本地化项目经理实习生（英语）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78105",
+  "co": "网易雷火(日常实习)",
+  "t": "英语本地化LQA实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:56347",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生（天谕）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:74266",
+  "co": "网易雷火(日常实习)",
+  "t": "动效设计实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:75191",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（游戏性能与包体管理）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:61749",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生（永劫无间手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77635",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:44853",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:62969",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:64680",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:45622",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:60690",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:44081",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏任务策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:52088",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏外观策划实习生（逆水寒）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:65396",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏外观策划实习生（逆水寒端游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:63192",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:55067",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（AI方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:70552",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（永劫无间端游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:60840",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（忘川风华录）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77724",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏演出策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:77723",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏外观策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:76680",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（AI原生/叙事）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:63992",
+  "co": "网易雷火(日常实习)",
+  "t": "UGC策划实习生（永劫无间）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:54425",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏分析策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:76827",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（归唐）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:76824",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（归唐）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:67932",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生（归唐）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:60315",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏战斗策划实习生（界外狂潮）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78398",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78400",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏玩法策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:19310",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:59635",
+  "co": "网易雷火(日常实习)",
+  "t": "用户增长产品策划实习生（游戏方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78468",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏玩法策划实习生（逆水寒手游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:59505",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏系统策划实习生（逆水寒端游）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78549",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏数值策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78567",
+  "co": "网易雷火(日常实习)",
+  "t": "服务端开发实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:78568",
+  "co": "网易雷火(日常实习)",
+  "t": "全栈开发实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:71490",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:59311",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（忘川风华录）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:72477",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏关卡策划实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:60058",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏运营策划实习生（永劫无间）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:70735",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（诡影藏锋）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:68703",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏研发工程师实习生（服务器方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
   "uid": "cn:kuro:7688551543881500979",
   "co": "库洛游戏",
   "t": "营销中心-视觉创意设计师（NAMI）",
@@ -3557,7 +4447,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7688302715231799590",
@@ -3567,7 +4457,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7686814009089083667",
@@ -3577,7 +4467,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7686009841563289866",
@@ -3587,7 +4477,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7685695538164042038",
@@ -3597,7 +4487,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7684169079775922468",
@@ -3607,7 +4497,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7684128215489808681",
@@ -3617,7 +4507,7 @@
   "cat": "运营",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7683044886938208575",
@@ -3627,7 +4517,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7678167157541620018",
@@ -3637,7 +4527,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7677513554262542642",
@@ -3647,7 +4537,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7676369958993365294",
@@ -3657,7 +4547,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7675670366627711270",
@@ -3667,7 +4557,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7673470679216163126",
@@ -3677,7 +4567,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7673461544152434995",
@@ -3687,7 +4577,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7673453211836205353",
@@ -3697,7 +4587,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7672979766258354478",
@@ -3707,7 +4597,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7672978572902680841",
@@ -3717,7 +4607,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7672731652044753190",
@@ -3727,7 +4617,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7672294718764927275",
@@ -3737,7 +4627,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7672231718253840676",
@@ -3747,7 +4637,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7670431132316698916",
@@ -3757,7 +4647,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7668653517801310500",
@@ -3767,7 +4657,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7666045521807083817",
@@ -3777,7 +4667,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7662588395411409179",
@@ -3787,7 +4677,7 @@
   "cat": "AI",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7662305443235219758",
@@ -3797,7 +4687,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7662292752831826222",
@@ -3807,7 +4697,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7654128665899501875",
@@ -3817,7 +4707,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7652542288489138475",
@@ -3827,7 +4717,7 @@
   "cat": "运营",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7652293531415464246",
@@ -3837,7 +4727,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7651844886036515122",
@@ -3847,7 +4737,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7649703546565101874",
@@ -3857,7 +4747,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7649703329781713206",
@@ -3867,7 +4757,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7649702278034639147",
@@ -3877,7 +4767,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7649210505291647278",
@@ -3887,7 +4777,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7647016951965239602",
@@ -3897,7 +4787,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7645252364424857894",
@@ -3907,7 +4797,7 @@
   "cat": "运营",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7645236621252512063",
@@ -3917,7 +4807,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7643755026209491219",
@@ -3927,7 +4817,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7642190675648432427",
@@ -3937,7 +4827,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7642181345610844466",
@@ -3947,7 +4837,7 @@
   "cat": "运营",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7628575899827423524",
@@ -3957,7 +4847,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7624445762528659766",
@@ -3967,7 +4857,7 @@
   "cat": "AI",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7621842449966647595",
@@ -3977,7 +4867,7 @@
   "cat": "AI",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7615521283568798015",
@@ -3987,7 +4877,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7613737459368905002",
@@ -3997,7 +4887,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7605177078401091878",
@@ -4007,7 +4897,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7605171759012170035",
@@ -4017,7 +4907,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7604786303573985579",
@@ -4027,7 +4917,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7604786267461355812",
@@ -4037,7 +4927,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7602568459399498011",
@@ -4047,7 +4937,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7594781824242633003",
@@ -4057,7 +4947,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7589592867233614131",
@@ -4067,7 +4957,7 @@
   "cat": "AI",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7587612095869405446",
@@ -4077,7 +4967,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7586643043001157914",
@@ -4087,7 +4977,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7586635432738949419",
@@ -4097,7 +4987,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7585420441808980262",
@@ -4107,7 +4997,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7585418323693816074",
@@ -4117,7 +5007,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7585417932353947954",
@@ -4127,7 +5017,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7585417892415965482",
@@ -4137,7 +5027,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7585416975792048390",
@@ -4147,7 +5037,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7584287277011634482",
@@ -4157,7 +5047,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7582146457970657574",
@@ -4167,7 +5057,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7577606205750331657",
@@ -4177,7 +5067,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7575025803814340915",
@@ -4187,7 +5077,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7572484463637137700",
@@ -4197,7 +5087,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7564261660753447209",
@@ -4207,7 +5097,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7562084669072640292",
@@ -4217,7 +5107,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7562079502688405803",
@@ -4227,7 +5117,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7553550508150573322",
@@ -4237,7 +5127,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7544939404113725759",
@@ -4247,7 +5137,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7539772516248684842",
@@ -4257,7 +5147,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7539744922766657833",
@@ -4267,7 +5157,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7527887930813270308",
@@ -4277,7 +5167,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7526767350752250155",
@@ -4287,7 +5177,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7524600064975735066",
@@ -4297,7 +5187,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7524582879763466538",
@@ -4307,7 +5197,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7524554769420732722",
@@ -4317,7 +5207,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7517935667633621258",
@@ -4327,7 +5217,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7514519466035349769",
@@ -4337,7 +5227,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7511551545932319015",
@@ -4347,7 +5237,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7488293039808366911",
@@ -4357,7 +5247,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7488292333789694247",
@@ -4367,7 +5257,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7487828405930625317",
@@ -4377,7 +5267,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7487827750117771546",
@@ -4387,7 +5277,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7487826208454576425",
@@ -4397,7 +5287,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7487823817341421860",
@@ -4407,7 +5297,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7487821219493939497",
@@ -4417,7 +5307,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7486379840138348826",
@@ -4427,7 +5317,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7485213720642423081",
@@ -4437,7 +5327,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484194610567285042",
@@ -4447,7 +5337,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484179993892620583",
@@ -4457,7 +5347,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484179970774173971",
@@ -4467,7 +5357,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484179970772928787",
@@ -4477,7 +5367,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484179944467482921",
@@ -4487,7 +5377,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484179926309570870",
@@ -4497,7 +5387,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484179918642710838",
@@ -4507,7 +5397,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484179904063228171",
@@ -4517,7 +5407,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484142001865148735",
@@ -4527,7 +5417,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7484140256423348543",
@@ -4537,7 +5427,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483091294936451366",
@@ -4547,7 +5437,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076505434687795",
@@ -4557,7 +5447,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076494522501414",
@@ -4567,7 +5457,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076494521239846",
@@ -4577,7 +5467,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076468022429978",
@@ -4587,7 +5477,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076453094410533",
@@ -4597,7 +5487,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076445024733477",
@@ -4607,7 +5497,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076445024487717",
@@ -4617,7 +5507,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076431607482674",
@@ -4627,7 +5517,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076427086203173",
@@ -4637,7 +5527,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076427085465893",
@@ -4647,7 +5537,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076427085220133",
@@ -4657,7 +5547,7 @@
   "cat": "边缘",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076413719234854",
@@ -4667,7 +5557,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076407238756635",
@@ -4677,7 +5567,7 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483076402645272841",
@@ -4687,7 +5577,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:kuro:7483075853661882650",
@@ -4697,7 +5587,7 @@
   "cat": "策划",
   "suit": true,
   "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:bytedance:7686467327227349301",
@@ -5090,21 +5980,21 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7579892826966755589",
-  "co": "字节游戏",
-  "t": "用户运营实习生-TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7579892826966755589/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7687460668896381189",
   "co": "字节游戏",
   "t": "世界生成互动创作Agent算法实习生 - 剪映CapCut",
   "u": "https://jobs.bytedance.com/campus/position/7687460668896381189/detail",
   "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7579892826966755589",
+  "co": "字节游戏",
+  "t": "用户运营实习生-TikTok",
+  "u": "https://jobs.bytedance.com/campus/position/7579892826966755589/detail",
+  "cat": "运营",
   "suit": true,
   "flag": "",
   "new": false
@@ -5180,26 +6070,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7647099668352796933",
-  "co": "字节游戏",
-  "t": "技术支持（Unity方向）实习生-PICO",
-  "u": "https://jobs.bytedance.com/campus/position/7647099668352796933/detail",
-  "cat": "FDE",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7667951639589423365",
-  "co": "字节游戏",
-  "t": "行业产品实习生 - 广告业务",
-  "u": "https://jobs.bytedance.com/campus/position/7667951639589423365/detail",
-  "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7674944037608409349",
   "co": "字节游戏",
   "t": "AIGC产品实习生（IAA方向） - 广告业务",
@@ -5220,12 +6090,42 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7647099668352796933",
+  "co": "字节游戏",
+  "t": "技术支持（Unity方向）实习生-PICO",
+  "u": "https://jobs.bytedance.com/campus/position/7647099668352796933/detail",
+  "cat": "FDE",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7667951639589423365",
+  "co": "字节游戏",
+  "t": "行业产品实习生 - 广告业务",
+  "u": "https://jobs.bytedance.com/campus/position/7667951639589423365/detail",
+  "cat": "产品",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7581732599363455285",
   "co": "字节游戏",
   "t": "直播战略实习生-TikTok直播",
   "u": "https://jobs.bytedance.com/campus/position/7581732599363455285/detail",
   "cat": "边缘",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7681292018450860341",
+  "co": "字节游戏",
+  "t": "广告算法实习生 - 内容消费与非闭环营销",
+  "u": "https://jobs.bytedance.com/campus/position/7681292018450860341/detail",
+  "cat": "AI",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -5245,16 +6145,6 @@
   "t": "短剧/漫剧行业商业产品实习生-广告业务",
   "u": "https://jobs.bytedance.com/campus/position/7559833699594160402/detail",
   "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7681292018450860341",
-  "co": "字节游戏",
-  "t": "广告算法实习生 - 内容消费与非闭环营销",
-  "u": "https://jobs.bytedance.com/campus/position/7681292018450860341/detail",
-  "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
@@ -5310,44 +6200,14 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7645607551613028613",
+  "uid": "cn:bytedance:7665938446779123973",
   "co": "字节游戏",
-  "t": "AIGC短剧编剧实习生 - TikTok",
-  "u": "https://jobs.bytedance.com/campus/position/7645607551613028613/detail",
-  "cat": "策划",
+  "t": "产品运营实习生 - 国际化内容与服务广告",
+  "u": "https://jobs.bytedance.com/campus/position/7665938446779123973/detail",
+  "cat": "运营",
   "suit": true,
   "flag": "",
-  "new": true
- },
- {
-  "uid": "cn:bytedance:7588095788091197749",
-  "co": "字节游戏",
-  "t": "后端开发实习生 - 抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7588095788091197749/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "cn:bytedance:7472274635217144072",
-  "co": "字节游戏",
-  "t": "后端开发实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7472274635217144072/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "cn:bytedance:7381462930736908570",
-  "co": "字节游戏",
-  "t": "后端开发实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7381462930736908570/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
+  "new": false
  },
  {
   "uid": "cn:bytedance:7381315559277971739",
@@ -5356,16 +6216,6 @@
   "u": "https://jobs.bytedance.com/campus/position/7381315559277971739/detail",
   "cat": "软件",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7665938446779123973",
-  "co": "字节游戏",
-  "t": "产品运营实习生 - 国际化内容与服务广告",
-  "u": "https://jobs.bytedance.com/campus/position/7665938446779123973/detail",
-  "cat": "运营",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -5380,10 +6230,30 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7462953337815124242",
+  "co": "字节游戏",
+  "t": "多模态算法实习生-抖音直播",
+  "u": "https://jobs.bytedance.com/campus/position/7462953337815124242/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7483776843963861266",
   "co": "字节游戏",
   "t": "大数据开发实习生-抖音直播",
   "u": "https://jobs.bytedance.com/campus/position/7483776843963861266/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7686420231186729269",
+  "co": "字节游戏",
+  "t": "特效研发（SDK开发方向）实习生 - TikTok智能创作",
+  "u": "https://jobs.bytedance.com/campus/position/7686420231186729269/detail",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -5430,32 +6300,22 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7462953337815124242",
-  "co": "字节游戏",
-  "t": "多模态算法实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7462953337815124242/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7686420231186729269",
-  "co": "字节游戏",
-  "t": "特效研发（SDK开发方向）实习生 - TikTok智能创作",
-  "u": "https://jobs.bytedance.com/campus/position/7686420231186729269/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7683832311291119877",
   "co": "字节游戏",
   "t": "世界模型算法实习生 - 抖音直播",
   "u": "https://jobs.bytedance.com/campus/position/7683832311291119877/detail",
   "cat": "AI",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7386663073899235621",
+  "co": "字节游戏",
+  "t": "特效开发实习生-抖音直播",
+  "u": "https://jobs.bytedance.com/campus/position/7386663073899235621/detail",
+  "cat": "软件",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -5480,42 +6340,12 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7386663073899235621",
-  "co": "字节游戏",
-  "t": "特效开发实习生-抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7386663073899235621/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7472724312669456648",
   "co": "字节游戏",
   "t": "后端开发实习生-TikTok直播",
   "u": "https://jobs.bytedance.com/campus/position/7472724312669456648/detail",
   "cat": "软件",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7622215210318137653",
-  "co": "字节游戏",
-  "t": "多模态Agent算法实习生-Seed大模型人才实习",
-  "u": "https://jobs.bytedance.com/campus/position/7622215210318137653/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7622215210317859125",
-  "co": "字节游戏",
-  "t": "多模态Agent算法实习生-Seed大模型人才实习",
-  "u": "https://jobs.bytedance.com/campus/position/7622215210317859125/detail",
-  "cat": "AI",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -5546,6 +6376,26 @@
   "u": "https://jobs.bytedance.com/campus/position/7220424726634940733/detail",
   "cat": "边缘",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7622215210318137653",
+  "co": "字节游戏",
+  "t": "多模态Agent算法实习生-Seed大模型人才实习",
+  "u": "https://jobs.bytedance.com/campus/position/7622215210318137653/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7622215210317859125",
+  "co": "字节游戏",
+  "t": "多模态Agent算法实习生-Seed大模型人才实习",
+  "u": "https://jobs.bytedance.com/campus/position/7622215210317859125/detail",
+  "cat": "AI",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -5870,6 +6720,26 @@
   "new": false
  },
  {
+  "uid": "cn:zhipu:7615104295198050606",
+  "co": "智谱AI(实习)",
+  "t": "AI解决方案实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7615104295198050606/detail",
+  "cat": "FDE",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7468941709343902006",
+  "co": "智谱AI(实习)",
+  "t": "AI 院--AIGC内容创意实习生（图片/视频方向）",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7468941709343902006/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:zhipu:7615192348661811475",
   "co": "智谱AI(实习)",
   "t": "数据实习生（数据标注 & 算法评测方向）",
@@ -5890,16 +6760,6 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7615104295198050606",
-  "co": "智谱AI(实习)",
-  "t": "AI解决方案实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7615104295198050606/detail",
-  "cat": "FDE",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7508600822940551451",
   "co": "智谱AI(实习)",
   "t": "AutoGLM-算法实习生",
@@ -5910,12 +6770,22 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7468941709343902006",
+  "uid": "cn:zhipu:7572125479491651890",
   "co": "智谱AI(实习)",
-  "t": "AI 院--AIGC内容创意实习生（图片/视频方向）",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7468941709343902006/detail",
-  "cat": "AI",
-  "suit": true,
+  "t": "用户研究实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572125479491651890/detail",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7439576958671161611",
+  "co": "智谱AI(实习)",
+  "t": "业务拓展实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7439576958671161611/detail",
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -5926,6 +6796,16 @@
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7614090220368152874/detail",
   "cat": "FDE",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7547559088360950067",
+  "co": "智谱AI(实习)",
+  "t": "国际销售实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7547559088360950067/detail",
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -5956,36 +6836,6 @@
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7563496763023149350/detail",
   "cat": "AI",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:zhipu:7572125479491651890",
-  "co": "智谱AI(实习)",
-  "t": "用户研究实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572125479491651890/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:zhipu:7439576958671161611",
-  "co": "智谱AI(实习)",
-  "t": "业务拓展实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7439576958671161611/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:zhipu:7547559088360950067",
-  "co": "智谱AI(实习)",
-  "t": "国际销售实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7547559088360950067/detail",
-  "cat": "边缘",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6030,16 +6880,6 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7486309604495018251",
-  "co": "智谱AI(实习)",
-  "t": "算法实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7486309604495018251/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7519024733301868838",
   "co": "智谱AI(实习)",
   "t": "测试实习生",
@@ -6060,12 +6900,12 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7586983744834849051",
+  "uid": "cn:zhipu:7486309604495018251",
   "co": "智谱AI(实习)",
-  "t": "项目经理实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7586983744834849051/detail",
-  "cat": "边缘",
-  "suit": false,
+  "t": "算法实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7486309604495018251/detail",
+  "cat": "AI",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -6075,16 +6915,6 @@
   "t": "YouTube运营实习生",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7612905766462408970/detail",
   "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:zhipu:7579132774213372206",
-  "co": "智谱AI(实习)",
-  "t": "大模型算法实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7579132774213372206/detail",
-  "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
@@ -6110,10 +6940,10 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7572160453691672873",
+  "uid": "cn:zhipu:7586983744834849051",
   "co": "智谱AI(实习)",
-  "t": "AI技术实习生-深圳",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572160453691672873/detail",
+  "t": "项目经理实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7586983744834849051/detail",
   "cat": "边缘",
   "suit": false,
   "flag": "",
@@ -6130,6 +6960,16 @@
   "new": false
  },
  {
+  "uid": "cn:zhipu:7579132774213372206",
+  "co": "智谱AI(实习)",
+  "t": "大模型算法实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7579132774213372206/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:zhipu:7593245670041471238",
   "co": "智谱AI(实习)",
   "t": "AI产品实习生-上海",
@@ -6140,12 +6980,12 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7591800764085307674",
+  "uid": "cn:zhipu:7572160453691672873",
   "co": "智谱AI(实习)",
-  "t": "海外社媒内容运营实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7591800764085307674/detail",
-  "cat": "运营",
-  "suit": true,
+  "t": "AI技术实习生-深圳",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572160453691672873/detail",
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6170,21 +7010,11 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7594299110267521343",
+  "uid": "cn:zhipu:7591800764085307674",
   "co": "智谱AI(实习)",
-  "t": "大模型解决方案助理实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7594299110267521343/detail",
-  "cat": "FDE",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:zhipu:7579149319284164883",
-  "co": "智谱AI(实习)",
-  "t": "AI算法数据标注（线下实习）",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7579149319284164883/detail",
-  "cat": "AI",
+  "t": "海外社媒内容运营实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7591800764085307674/detail",
+  "cat": "运营",
   "suit": true,
   "flag": "",
   "new": false
@@ -6200,10 +7030,30 @@
   "new": false
  },
  {
+  "uid": "cn:zhipu:7594299110267521343",
+  "co": "智谱AI(实习)",
+  "t": "大模型解决方案助理实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7594299110267521343/detail",
+  "cat": "FDE",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:zhipu:7358369154595260723",
   "co": "智谱AI(实习)",
   "t": "大模型 G-算法实习生-北京",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7358369154595260723/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7579149319284164883",
+  "co": "智谱AI(实习)",
+  "t": "AI算法数据标注（线下实习）",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7579149319284164883/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
