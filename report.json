@@ -1,6 +1,17 @@
 {
  "date": "2026-10-05",
  "new_jobs": [],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "error": "The read operation timed out",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
