@@ -1,6 +1,15 @@
 {
- "date": "2026-10-06",
- "new_jobs": [],
+ "date": "2026-10-07",
+ "new_jobs": [
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10571004",
+   "title": "Software Development Engineer Intern - Mobile(iOS/Android) - Summer 2027 (USA)",
+   "url": "https://www.amazon.jobs/en/jobs/10571004/software-development-engineer-intern-mobile-ios-android-summer-2027-usa",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
