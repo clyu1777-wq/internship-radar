@@ -1,15 +1,12 @@
 {
  "date": "2026-10-07",
- "new_jobs": [
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10571374",
-   "title": "Software Development Engineer (Embedded Systems) Intern, Amazon Leo - Summer 2027 (USA)",
-   "url": "https://www.amazon.jobs/en/jobs/10571374/software-development-engineer-embedded-systems-intern-amazon-leo-summer-2027-usa",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
