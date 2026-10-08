@@ -1,15 +1,21 @@
 {
- "date": "2026-10-08",
+ "date": "2026-10-09",
  "new_jobs": [
   {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7613218457232034111",
-   "title": "鸣潮-性能测试",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7613218457232034111/detail",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10573570",
+   "title": "Embedded Firmware Co-op, Amazon Robotics - Spring 2027",
+   "url": "https://www.amazon.jobs/en/jobs/10573570/embedded-firmware-co-op-amazon-robotics-spring-2027",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
