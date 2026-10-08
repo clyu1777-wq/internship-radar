@@ -1,11 +1,20 @@
 {
  "date": "2026-10-08",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7511622135991781639",
+   "title": "小游戏内容运营实习生 - 抖音社交与互动",
+   "url": "https://jobs.bytedance.com/campus/position/7511622135991781639/detail",
+   "flag": ""
+  }
+ ],
  "failures": [
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "streak": 3
   }
  ],
  "baseline_added": 0
