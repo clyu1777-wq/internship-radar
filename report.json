@@ -1,12 +1,31 @@
 {
  "date": "2026-10-09",
- "new_jobs": [],
- "failures": [
+ "new_jobs": [
   {
    "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "srckey": "ms:pcsx",
+   "id": "1970393557027326",
+   "title": "Research Intern - Audio and Acoustics",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027326",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557027378",
+   "title": "Research Intern - Brain-Computer Interfaces",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557027378",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7694603675364575493",
+   "title": "视频实时生成算法实习生 - 抖音直播",
+   "url": "https://jobs.bytedance.com/campus/position/7694603675364575493/detail",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
