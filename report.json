@@ -1,12 +1,15 @@
 {
  "date": "2026-10-10",
- "new_jobs": [],
- "failures": [
+ "new_jobs": [
   {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10574925",
+   "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
+   "url": "https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
