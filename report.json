@@ -2,14 +2,36 @@
  "date": "2026-10-10",
  "new_jobs": [
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10574925",
-   "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
-   "url": "https://www.amazon.jobs/en/jobs/10574925/software-development-engineer-intern-amazon-university-talent-acquisition",
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9615",
+   "title": "用户研究工具开发实习生（AI 应用方向）",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9615",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7694918911760681221",
+   "title": "角色动画实习生（PVE射击项目） - 江南工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7694918911760681221/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7694869260870666501",
+   "title": "AI全栈开发（社交互动方向）实习生 - TikTok直播",
+   "url": "https://jobs.bytedance.com/campus/position/7694869260870666501/detail",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
