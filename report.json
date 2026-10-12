@@ -1,6 +1,45 @@
 {
  "date": "2026-10-12",
- "new_jobs": [],
- "failures": [],
+ "new_jobs": [
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9629",
+   "title": "AI人文训练实习生（英语方向）",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9629",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9625",
+   "title": "Agent 策略运营实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9625",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9616",
+   "title": "数据分析实习生 - 崩坏：星穹铁道+崩坏：因缘精灵（南大线下专场）",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9616",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7694957270195095861",
+   "title": "开发者运营实习生 - PICO",
+   "url": "https://jobs.bytedance.com/campus/position/7694957270195095861/detail",
+   "flag": ""
+  }
+ ],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
