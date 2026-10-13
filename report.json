@@ -1,61 +1,29 @@
 {
- "date": "2026-10-13",
+ "date": "2026-10-14",
  "new_jobs": [
   {
-   "company": "Google",
-   "srckey": "google",
-   "id": "115691171337904838",
-   "title": "Forward Deployed Engineer Intern, 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/115691171337904838",
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5265088007",
+   "title": "2027 Early Career Associate Product Designer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265088007?gh_jid=5265088007",
    "flag": ""
   },
   {
-   "company": "Google",
-   "srckey": "google",
-   "id": "104489346874122950",
-   "title": "Software Engineering Intern, 2027 (English)",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/104489346874122950",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10574927",
+   "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
+   "url": "https://www.amazon.jobs/en/jobs/10574927/software-development-engineer-intern-amazon-university-talent-acquisition",
    "flag": ""
   },
   {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "65064",
-   "title": "游戏文案策划实习生（永劫无间）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9643",
+   "title": "大模型算法实习生（评测方向）",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9643",
    "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7691243160286693685",
-   "title": "小游戏玩法运营实习生 - 抖音社交与互动",
-   "url": "https://jobs.bytedance.com/campus/position/7691243160286693685/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7559498179508226311",
-   "title": "用户运营（小游戏方向）实习生 - 抖音社交与互动",
-   "url": "https://jobs.bytedance.com/campus/position/7559498179508226311/detail",
-   "flag": ""
-  },
-  {
-   "company": "莉莉丝",
-   "srckey": "cn:lilith",
-   "id": "7695969006352304438",
-   "title": "UX设计师（AFK Journey）",
-   "url": "https://lilithgames.jobs.feishu.cn/career/position/7695969006352304438/detail",
-   "flag": ""
-  },
-  {
-   "company": "阿里灵犀互娱",
-   "srckey": "cn:lingxi",
-   "id": "100048560001",
-   "title": "灵犀互娱-游戏测试开发-北京",
-   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100048560001",
-   "flag": "校招/实习待确认(正文未抓到)"
   }
  ],
  "failures": [],
