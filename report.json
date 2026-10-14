@@ -2,19 +2,27 @@
  "date": "2026-10-14",
  "new_jobs": [
   {
-   "company": "网易互娱(2027校招)",
-   "srckey": "cn:163huyu",
-   "id": "4762",
-   "title": "服务端引擎开发工程师",
-   "url": "https://campus.game.163.com/app/job/position?id=102",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10578583",
+   "title": "Amazon Robotics - Software Development Engineer Intern/Co-op - 2027",
+   "url": "https://www.amazon.jobs/en/jobs/10578583/amazon-robotics-software-development-engineer-intern-co-op-2027",
    "flag": ""
   },
   {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79291",
-   "title": "AI内容创作实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "company": "Apple",
+   "srckey": "apple",
+   "id": "200688776",
+   "title": "Intern - Full Stack Engineer",
+   "url": "https://jobs.apple.com/en-us/details/200688776/intern-full-stack-engineer",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7696503513102240053",
+   "title": "游戏AIGC算法（3D应用方向）实习生 - AIGC",
+   "url": "https://jobs.bytedance.com/campus/position/7696503513102240053/detail",
    "flag": ""
   }
  ],
@@ -22,7 +30,7 @@
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "streak": 2
   }
  ],
  "baseline_added": 0
