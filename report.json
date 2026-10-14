@@ -2,14 +2,28 @@
  "date": "2026-10-14",
  "new_jobs": [
   {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5265097007",
-   "title": "2027 Product Designer Intern",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265097007?gh_jid=5265097007",
+   "company": "网易互娱(2027校招)",
+   "srckey": "cn:163huyu",
+   "id": "4762",
+   "title": "服务端引擎开发工程师",
+   "url": "https://campus.game.163.com/app/job/position?id=102",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79291",
+   "title": "AI内容创作实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
