@@ -2,28 +2,76 @@
  "date": "2026-10-15",
  "new_jobs": [
   {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5265127007",
-   "title": "Winter 2027 Research Engineer Co-op",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5265127007?gh_jid=5265127007",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557041012",
+   "title": "Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "Google",
+   "srckey": "google",
+   "id": "86541159580476102",
+   "title": "Software Engineering Intern, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/86541159580476102",
    "flag": ""
   },
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557040502",
-   "title": "Research Intern - Machine Learning and Statistics",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "company": "Google",
+   "srckey": "google",
+   "id": "103425260136604358",
+   "title": "Software Engineering Intern, Summer 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/103425260136604358",
+   "flag": ""
   },
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557040927",
-   "title": "Stagiaire en recherche - apprentissage automatique; Research Intern - Machine Learning",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040927",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "company": "Google",
+   "srckey": "google",
+   "id": "90179993312600774",
+   "title": "Product Design Engineering Intern, 2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/90179993312600774",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "8526",
+   "title": "AI 创新产品实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/8526",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "61088",
+   "title": "游戏研发工程师实习生（客户端方向）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79322",
+   "title": "营销创意策划实习生（雾海之下）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7527236179163482378",
+   "title": "NAMI-海外主营销",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7527236179163482378/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7696736630777874693",
+   "title": "游戏关卡策划实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7696736630777874693/detail",
+   "flag": ""
   }
  ],
  "failures": [],
