@@ -2,78 +2,36 @@
  "date": "2026-10-15",
  "new_jobs": [
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557041012",
-   "title": "Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041012",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
    "company": "Google",
    "srckey": "google",
-   "id": "86541159580476102",
+   "id": "85430979253936838",
    "title": "Software Engineering Intern, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/86541159580476102",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838",
    "flag": ""
   },
   {
    "company": "Google",
    "srckey": "google",
-   "id": "103425260136604358",
+   "id": "109864326646375110",
    "title": "Software Engineering Intern, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/103425260136604358",
-   "flag": ""
-  },
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "90179993312600774",
-   "title": "Product Design Engineering Intern, 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/90179993312600774",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "8526",
-   "title": "AI 创新产品实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/8526",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "61088",
-   "title": "游戏研发工程师实习生（客户端方向）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79322",
-   "title": "营销创意策划实习生（雾海之下）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7527236179163482378",
-   "title": "NAMI-海外主营销",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7527236179163482378/detail",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/109864326646375110",
    "flag": ""
   },
   {
    "company": "字节游戏",
    "srckey": "cn:bytedance",
-   "id": "7696736630777874693",
-   "title": "游戏关卡策划实习生 - 绿洲工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7696736630777874693/detail",
+   "id": "7696844044842076421",
+   "title": "游戏棋牌内容运营（直播方向）实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7696844044842076421/detail",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
