@@ -1,37 +1,6 @@
 {
- "date": "2026-10-15",
- "new_jobs": [
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "85430979253936838",
-   "title": "Software Engineering Intern, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/85430979253936838",
-   "flag": ""
-  },
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "109864326646375110",
-   "title": "Software Engineering Intern, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/109864326646375110",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7696844044842076421",
-   "title": "游戏棋牌内容运营（直播方向）实习生 - 绿洲工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7696844044842076421/detail",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "date": "2026-10-16",
+ "new_jobs": [],
+ "failures": [],
  "baseline_added": 0
 }
