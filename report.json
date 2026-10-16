@@ -1,23 +1,6 @@
 {
- "date": "2026-10-16",
- "new_jobs": [
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557041731",
-   "title": "Research Intern - Efficient AI Software Systems",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "莉莉丝",
-   "srckey": "cn:lilith",
-   "id": "7697203822288210217",
-   "title": "AI算法工程师（AI Agent方向）",
-   "url": "https://lilithgames.jobs.feishu.cn/career/position/7697203822288210217/detail",
-   "flag": ""
-  }
- ],
+ "date": "2026-10-17",
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
