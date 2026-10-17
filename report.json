@@ -1,6 +1,23 @@
 {
  "date": "2026-10-17",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557042156",
+   "title": "Research Intern - MSR AI Interaction and Learning",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557042145",
+   "title": "Research Intern - Machine Learning at MSR NYC",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
