@@ -1,20 +1,20 @@
 {
- "date": "2026-10-17",
+ "date": "2026-10-18",
  "new_jobs": [
   {
    "company": "微软",
    "srckey": "ms:pcsx",
-   "id": "1970393557042156",
-   "title": "Research Intern - MSR AI Interaction and Learning",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042156",
+   "id": "1970393557041730",
+   "title": "Research Intern - Gray Systems Lab (GSL)",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041730",
    "flag": "研究岗·常要研究生,正文未抓到"
   },
   {
    "company": "微软",
    "srckey": "ms:pcsx",
-   "id": "1970393557042145",
-   "title": "Research Intern - Machine Learning at MSR NYC",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557042145",
+   "id": "1970393557040344",
+   "title": "Research Intern - Agentic Data Memory",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040344",
    "flag": "研究岗·常要研究生,正文未抓到"
   }
  ],
