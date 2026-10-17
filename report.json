@@ -1,23 +1,6 @@
 {
  "date": "2026-10-17",
- "new_jobs": [
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393556768751",
-   "title": "Security Research Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393556768751",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557040333",
-   "title": "Research Intern - Machine Learning for Biology and Healthcare",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  }
- ],
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
