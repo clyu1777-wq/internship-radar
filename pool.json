@@ -530,6 +530,76 @@
   "new": false
  },
  {
+  "uid": "ms:pcsx:1970393557040333",
+  "co": "微软",
+  "t": "Research Intern - Machine Learning for Biology and Healthcare",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557040502",
+  "co": "微软",
+  "t": "Research Intern - Machine Learning and Statistics",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557027235",
+  "co": "微软",
+  "t": "Solution Engineering INTERN",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557027235",
+  "cat": "FDE",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557042485",
+  "co": "微软",
+  "t": "Data Science INTERN",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557042485",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557022480",
+  "co": "微软",
+  "t": "Research Intern - Security Research Group, Microsoft Research Redmond",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557022480",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557008574",
+  "co": "微软",
+  "t": "Research Intern - Data Systems",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557008574",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": true
+ },
+ {
+  "uid": "ms:pcsx:1970393557021663",
+  "co": "微软",
+  "t": "Research Intern - Quantum Algorithms",
+  "u": "https://apply.careers.microsoft.com/careers/job/1970393557021663",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": true
+ },
+ {
   "uid": "riot:6172",
   "co": "Riot Games",
   "t": "Software Engineering Intern - Summer 2027 (Remote)",
@@ -538,6 +608,16 @@
   "suit": false,
   "flag": "",
   "new": false
+ },
+ {
+  "uid": "amazon:10582414",
+  "co": "Amazon/AWS",
+  "t": "UX Design Intern Luxembourg, Interaction Design",
+  "u": "https://www.amazon.jobs/en/jobs/10582414/ux-design-intern-luxembourg-interaction-design",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
  },
  {
   "uid": "amazon:10574927",
@@ -2230,6 +2310,116 @@
   "new": false
  },
  {
+  "uid": "cn:mihoyo:8234",
+  "co": "米哈游(校招)",
+  "t": "技术策划实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/8234",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:8233",
+  "co": "米哈游(校招)",
+  "t": "任务策划实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/8233",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:8232",
+  "co": "米哈游(校招)",
+  "t": "关卡策划实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/8232",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:7884",
+  "co": "米哈游(校招)",
+  "t": "系统策划实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/7884",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:7883",
+  "co": "米哈游(校招)",
+  "t": "交互策划（UE）实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/7883",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:9362",
+  "co": "米哈游(校招)",
+  "t": "游戏AI算法实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/9362",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:9670",
+  "co": "米哈游(校招)",
+  "t": "游戏研发工具 AI产品工程师实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/9670",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:mihoyo:9669",
+  "co": "米哈游(校招)",
+  "t": "动捕工具开发实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/9669",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:mihoyo:8731",
+  "co": "米哈游(校招)",
+  "t": "LLM Post-train 算法研究员实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/8731",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:8732",
+  "co": "米哈游(校招)",
+  "t": "Agent 算法研究员实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/8732",
+  "cat": "AI",
+  "suit": false,
+  "flag": "研究岗·常要研究生,正文未抓到",
+  "new": false
+ },
+ {
+  "uid": "cn:mihoyo:7812",
+  "co": "米哈游(校招)",
+  "t": "用户研究实习生",
+  "u": "https://jobs.mihoyo.com/#/campus/position/7812",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:mihoyo:9586",
   "co": "米哈游(校招)",
   "t": "AI人文训练师实习生（中文）",
@@ -2424,16 +2614,6 @@
   "co": "米哈游(校招)",
   "t": "AI 创新产品实习生",
   "u": "https://jobs.mihoyo.com/#/campus/position/8526",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:mihoyo:9362",
-  "co": "米哈游(校招)",
-  "t": "游戏AI算法实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/9362",
   "cat": "AI",
   "suit": true,
   "flag": "",
@@ -2670,16 +2850,6 @@
   "new": false
  },
  {
-  "uid": "cn:mihoyo:7812",
-  "co": "米哈游(校招)",
-  "t": "用户研究实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/7812",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:mihoyo:7672",
   "co": "米哈游(校招)",
   "t": "游戏客户端工具开发实习生",
@@ -2736,16 +2906,6 @@
   "u": "https://jobs.mihoyo.com/#/campus/position/9556",
   "cat": "边缘",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:mihoyo:8232",
-  "co": "米哈游(校招)",
-  "t": "关卡策划实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/8232",
-  "cat": "策划",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -2980,50 +3140,10 @@
   "new": false
  },
  {
-  "uid": "cn:mihoyo:8234",
-  "co": "米哈游(校招)",
-  "t": "技术策划实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/8234",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:mihoyo:8233",
-  "co": "米哈游(校招)",
-  "t": "任务策划实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/8233",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:mihoyo:7912",
   "co": "米哈游(校招)",
   "t": "数值策划实习生",
   "u": "https://jobs.mihoyo.com/#/campus/position/7912",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:mihoyo:7884",
-  "co": "米哈游(校招)",
-  "t": "系统策划实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/7884",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:mihoyo:7883",
-  "co": "米哈游(校招)",
-  "t": "交互策划（UE）实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/7883",
   "cat": "策划",
   "suit": true,
   "flag": "",
@@ -3097,26 +3217,6 @@
   "cat": "软件",
   "suit": false,
   "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:mihoyo:8732",
-  "co": "米哈游(校招)",
-  "t": "Agent 算法研究员实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/8732",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": false
- },
- {
-  "uid": "cn:mihoyo:8731",
-  "co": "米哈游(校招)",
-  "t": "LLM Post-train 算法研究员实习生",
-  "u": "https://jobs.mihoyo.com/#/campus/position/8731",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
   "new": false
  },
  {
@@ -3370,46 +3470,6 @@
   "new": false
  },
  {
-  "uid": "cn:163huyu:4720",
-  "co": "网易互娱(2027校招)",
-  "t": "游戏设计师（系统策划）",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:163huyu:4721",
-  "co": "网易互娱(2027校招)",
-  "t": "游戏设计师（战斗策划）",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:163huyu:4723",
-  "co": "网易互娱(2027校招)",
-  "t": "游戏设计师（数值策划）",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:163huyu:4731",
-  "co": "网易互娱(2027校招)",
-  "t": "游戏研发工程师（客户端/服务端）",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:163huyu:4739",
   "co": "网易互娱(2027校招)",
   "t": "图形开发工程师",
@@ -3430,9 +3490,19 @@
   "new": false
  },
  {
-  "uid": "cn:163huyu:4761",
+  "uid": "cn:163huyu:4732",
   "co": "网易互娱(2027校招)",
-  "t": "游戏测试工程师",
+  "t": "AI Agent工程师（游戏研发方向）",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4731",
+  "co": "网易互娱(2027校招)",
+  "t": "游戏研发工程师（客户端/服务端）",
   "u": "https://campus.game.163.com/app/job/position?id=102",
   "cat": "软件",
   "suit": false,
@@ -3450,12 +3520,12 @@
   "new": false
  },
  {
-  "uid": "cn:163huyu:4725",
+  "uid": "cn:163huyu:4738",
   "co": "网易互娱(2027校招)",
-  "t": "游戏设计师（运营策划）",
+  "t": "游戏动画设计师",
   "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "运营",
-  "suit": true,
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -3490,6 +3560,86 @@
   "new": false
  },
  {
+  "uid": "cn:163huyu:4725",
+  "co": "网易互娱(2027校招)",
+  "t": "游戏设计师（运营策划）",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4723",
+  "co": "网易互娱(2027校招)",
+  "t": "游戏设计师（数值策划）",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4720",
+  "co": "网易互娱(2027校招)",
+  "t": "游戏设计师（系统策划）",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4721",
+  "co": "网易互娱(2027校招)",
+  "t": "游戏设计师（战斗策划）",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4758",
+  "co": "网易互娱(2027校招)",
+  "t": "服务端开发工程师",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4763",
+  "co": "网易互娱(2027校招)",
+  "t": "大数据平台研发工程师",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4757",
+  "co": "网易互娱(2027校招)",
+  "t": "基础架构研发工程师",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:163huyu:4761",
+  "co": "网易互娱(2027校招)",
+  "t": "游戏测试工程师",
+  "u": "https://campus.game.163.com/app/job/position?id=102",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:163huyu:4724",
   "co": "网易互娱(2027校招)",
   "t": "游戏设计师（技术策划）",
@@ -3505,16 +3655,6 @@
   "t": "游戏交互/体验设计师",
   "u": "https://campus.game.163.com/app/job/position?id=102",
   "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:163huyu:4732",
-  "co": "网易互娱(2027校招)",
-  "t": "AI Agent工程师（游戏研发方向）",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
@@ -3540,46 +3680,6 @@
   "new": false
  },
  {
-  "uid": "cn:163huyu:4757",
-  "co": "网易互娱(2027校招)",
-  "t": "基础架构研发工程师",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:163huyu:4758",
-  "co": "网易互娱(2027校招)",
-  "t": "服务端开发工程师",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:163huyu:4763",
-  "co": "网易互娱(2027校招)",
-  "t": "大数据平台研发工程师",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:163huyu:4738",
-  "co": "网易互娱(2027校招)",
-  "t": "游戏动画设计师",
-  "u": "https://campus.game.163.com/app/job/position?id=102",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:163huyu:4740",
   "co": "网易互娱(2027校招)",
   "t": "游戏特效设计师",
@@ -3598,6 +3698,46 @@
   "suit": false,
   "flag": "",
   "new": false
+ },
+ {
+  "uid": "cn:leihuo:76399",
+  "co": "网易雷火(日常实习)",
+  "t": "守望先锋新媒体实习生",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:15269",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏研发工程师实习生（客户端方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:65064",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（永劫无间）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:leihuo:79388",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏商业化外观策划实习生（全明星街球派对）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": true
  },
  {
   "uid": "cn:leihuo:60058",
@@ -3643,26 +3783,6 @@
   "uid": "cn:leihuo:79291",
   "co": "网易雷火(日常实习)",
   "t": "AI内容创作实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:65064",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏文案策划实习生（永劫无间）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:76399",
-  "co": "网易雷火(日常实习)",
-  "t": "守望先锋新媒体实习生",
   "u": "https://leihuo.163.com/campus/#/dailyIntern",
   "cat": "边缘",
   "suit": false,
@@ -3776,16 +3896,6 @@
   "u": "https://leihuo.163.com/campus/#/dailyIntern",
   "cat": "策划",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:76525",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏营销实习生（永劫无间）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "边缘",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -3956,16 +4066,6 @@
   "u": "https://leihuo.163.com/campus/#/dailyIntern",
   "cat": "边缘",
   "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:71370",
-  "co": "网易雷火(日常实习)",
-  "t": "海外市场社区营销实习生（MMO）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "运营",
-  "suit": true,
   "flag": "",
   "new": false
  },
@@ -4408,6 +4508,26 @@
   "suit": false,
   "flag": "",
   "new": false
+ },
+ {
+  "uid": "cn:leihuo:71490",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（无限大）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:59311",
+  "co": "网易雷火(日常实习)",
+  "t": "游戏文案策划实习生（忘川风华录）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": true
  },
  {
   "uid": "cn:kuro:7688551543881500979",
@@ -5070,6 +5190,16 @@
   "new": false
  },
  {
+  "uid": "cn:kuro:7550609798686230810",
+  "co": "库洛游戏",
+  "t": "鸣潮-葡语本地化专员",
+  "u": "https://kurogame.jobs.feishu.cn/campus/position/7550609798686230810/detail",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
   "uid": "cn:kuro:7544939404113725759",
   "co": "库洛游戏",
   "t": "鸣潮-3D动作",
@@ -5590,16 +5720,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7682986534270748933",
-  "co": "字节游戏",
-  "t": "游戏交互策划（UE）实习生 - 绿洲工作室",
-  "u": "https://jobs.bytedance.com/campus/position/7682986534270748933/detail",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7696736630777874693",
   "co": "字节游戏",
   "t": "游戏关卡策划实习生 - 绿洲工作室",
@@ -5912,7 +6032,7 @@
  {
   "uid": "cn:bytedance:7579892826966755589",
   "co": "字节游戏",
-  "t": "用户运营实习生-TikTok",
+  "t": "用户运营实习生 - TikTok",
   "u": "https://jobs.bytedance.com/campus/position/7579892826966755589/detail",
   "cat": "运营",
   "suit": true,
@@ -6280,21 +6400,21 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7683832311291119877",
-  "co": "字节游戏",
-  "t": "世界模型算法实习生 - 抖音直播",
-  "u": "https://jobs.bytedance.com/campus/position/7683832311291119877/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7694957270195095861",
   "co": "字节游戏",
   "t": "开发者运营实习生 - PICO",
   "u": "https://jobs.bytedance.com/campus/position/7694957270195095861/detail",
   "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7683832311291119877",
+  "co": "字节游戏",
+  "t": "世界模型算法实习生 - 抖音直播",
+  "u": "https://jobs.bytedance.com/campus/position/7683832311291119877/detail",
+  "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
@@ -6370,6 +6490,16 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7652275704996940037",
+  "co": "字节游戏",
+  "t": "项目管理（AI）实习生 - 隐私和数据保护办公室",
+  "u": "https://jobs.bytedance.com/campus/position/7652275704996940037/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7639730682090653957",
   "co": "字节游戏",
   "t": "3D生成基座算法实习生 - 抖音直播",
@@ -6394,16 +6524,6 @@
   "co": "字节游戏",
   "t": "多模态世界模型评测算法实习生-Seed",
   "u": "https://jobs.bytedance.com/campus/position/7478556490568976647/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7652275704996940037",
-  "co": "字节游戏",
-  "t": "项目管理（AI）实习生-隐私和数据保护办公室",
-  "u": "https://jobs.bytedance.com/campus/position/7652275704996940037/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
@@ -6460,22 +6580,22 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7673389544427325749",
-  "co": "字节游戏",
-  "t": "前端开发（活动方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7673389544427325749/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7215558558842390839",
   "co": "字节游戏",
   "t": "多模态世界模型算法实习生-Seed",
   "u": "https://jobs.bytedance.com/campus/position/7215558558842390839/detail",
   "cat": "AI",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7673389544427325749",
+  "co": "字节游戏",
+  "t": "前端开发（活动方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7673389544427325749/detail",
+  "cat": "软件",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6500,26 +6620,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7622213631354194229",
-  "co": "字节游戏",
-  "t": "多模态与世界模型算法实习生-Seed大模型人才实习",
-  "u": "https://jobs.bytedance.com/campus/position/7622213631354194229/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7622213472429459717",
-  "co": "字节游戏",
-  "t": "多模态与世界模型算法实习生-Seed大模型人才实习",
-  "u": "https://jobs.bytedance.com/campus/position/7622213472429459717/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7694869260870666501",
   "co": "字节游戏",
   "t": "AI全栈开发（社交互动方向）实习生 - TikTok直播",
@@ -6540,30 +6640,20 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7685969522624710965",
+  "uid": "cn:bytedance:7622213631354194229",
   "co": "字节游戏",
-  "t": "后端开发（运营平台方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7685969522624710965/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7677884741940857141",
-  "co": "字节游戏",
-  "t": "AI应用（服务架构方向）后端实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7677884741940857141/detail",
+  "t": "多模态与世界模型算法实习生-Seed大模型人才实习",
+  "u": "https://jobs.bytedance.com/campus/position/7622213631354194229/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
  },
  {
-  "uid": "cn:bytedance:7664438281645279493",
+  "uid": "cn:bytedance:7622213472429459717",
   "co": "字节游戏",
-  "t": "算法实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7664438281645279493/detail",
+  "t": "多模态与世界模型算法实习生-Seed大模型人才实习",
+  "u": "https://jobs.bytedance.com/campus/position/7622213472429459717/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
@@ -6600,6 +6690,36 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7685969522624710965",
+  "co": "字节游戏",
+  "t": "后端开发（运营平台方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7685969522624710965/detail",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7677884741940857141",
+  "co": "字节游戏",
+  "t": "AI应用（服务架构方向）后端实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7677884741940857141/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7664438281645279493",
+  "co": "字节游戏",
+  "t": "算法实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7664438281645279493/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7628899917788989749",
   "co": "字节游戏",
   "t": "【实习】广告场景下的生成式搜广推大模型技术研究-国际化内容与服务广告（北京/上海）",
@@ -6616,16 +6736,6 @@
   "u": "https://jobs.bytedance.com/campus/position/7615223181576063237/detail",
   "cat": "产品",
   "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7676438194907040005",
-  "co": "字节游戏",
-  "t": "内容设计（AI工程方向）实习生 - TikTok设计",
-  "u": "https://jobs.bytedance.com/campus/position/7676438194907040005/detail",
-  "cat": "边缘",
-  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6720,16 +6830,6 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7615104295198050606",
-  "co": "智谱AI(实习)",
-  "t": "AI解决方案实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7615104295198050606/detail",
-  "cat": "FDE",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7615192348661811475",
   "co": "智谱AI(实习)",
   "t": "数据实习生（数据标注 & 算法评测方向）",
@@ -6740,11 +6840,11 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7468941709343902006",
+  "uid": "cn:zhipu:7615104295198050606",
   "co": "智谱AI(实习)",
-  "t": "AI 院--AIGC内容创意实习生（图片/视频方向）",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7468941709343902006/detail",
-  "cat": "AI",
+  "t": "AI解决方案实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7615104295198050606/detail",
+  "cat": "FDE",
   "suit": true,
   "flag": "",
   "new": false
@@ -6754,6 +6854,16 @@
   "co": "智谱AI(实习)",
   "t": "算法实习生-深圳",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7569820305662576946/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7468941709343902006",
+  "co": "智谱AI(实习)",
+  "t": "AI 院--AIGC内容创意实习生（图片/视频方向）",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7468941709343902006/detail",
   "cat": "AI",
   "suit": true,
   "flag": "",
@@ -6780,6 +6890,16 @@
   "new": false
  },
  {
+  "uid": "cn:zhipu:7572160182605990187",
+  "co": "智谱AI(实习)",
+  "t": "大模型技术实习生-深圳",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572160182605990187/detail",
+  "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:zhipu:7572125479491651890",
   "co": "智谱AI(实习)",
   "t": "用户研究实习生",
@@ -6800,32 +6920,22 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7547559088360950067",
-  "co": "智谱AI(实习)",
-  "t": "国际销售实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7547559088360950067/detail",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:zhipu:7572160182605990187",
-  "co": "智谱AI(实习)",
-  "t": "大模型技术实习生-深圳",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572160182605990187/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7618148041597782326",
   "co": "智谱AI(实习)",
   "t": "AI 技术内容实习生",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7618148041597782326/detail",
   "cat": "AI",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7547559088360950067",
+  "co": "智谱AI(实习)",
+  "t": "国际销售实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7547559088360950067/detail",
+  "cat": "边缘",
+  "suit": false,
   "flag": "",
   "new": false
  },
@@ -6910,22 +7020,22 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7612905766462408970",
-  "co": "智谱AI(实习)",
-  "t": "YouTube运营实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7612905766462408970/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7586983744834849051",
   "co": "智谱AI(实习)",
   "t": "项目经理实习生",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7586983744834849051/detail",
   "cat": "边缘",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7612905766462408970",
+  "co": "智谱AI(实习)",
+  "t": "YouTube运营实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7612905766462408970/detail",
+  "cat": "运营",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -7000,21 +7110,21 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7577342715722385673",
-  "co": "智谱AI(实习)",
-  "t": "大模型端侧推理实习生",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7577342715722385673/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7591800764085307674",
   "co": "智谱AI(实习)",
   "t": "海外社媒内容运营实习生",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7591800764085307674/detail",
   "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7577342715722385673",
+  "co": "智谱AI(实习)",
+  "t": "大模型端侧推理实习生",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7577342715722385673/detail",
+  "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
