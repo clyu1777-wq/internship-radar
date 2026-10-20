@@ -1,6 +1,21 @@
 {
  "date": "2026-10-20",
- "new_jobs": [],
- "failures": [],
+ "new_jobs": [
+  {
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5268864007",
+   "title": "2027 Technical Program Manager Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007",
+   "flag": ""
+  }
+ ],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
