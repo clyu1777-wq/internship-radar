@@ -1,29 +1,6 @@
 {
- "date": "2026-10-20",
- "new_jobs": [
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79447",
-   "title": "游戏服务器开发实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79446",
-   "title": "游戏客户端开发实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "date": "2026-10-21",
+ "new_jobs": [],
+ "failures": [],
  "baseline_added": 0
 }
