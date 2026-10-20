@@ -2,20 +2,30 @@
  "date": "2026-10-20",
  "new_jobs": [
   {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5268864007",
-   "title": "2027 Technical Program Manager Intern",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5268864007?gh_jid=5268864007",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557043740",
+   "title": "Research Intern - Algorithms Group: Generative Modeling",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557043754",
+   "title": "Research Intern - Extended Perception Interaction Cognition (EPIC)",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7698379118136609029",
+   "title": "即梦Dreamina Agent产品实习生 - 剪映CapCut",
+   "url": "https://jobs.bytedance.com/campus/position/7698379118136609029/detail",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
