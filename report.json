@@ -2,30 +2,28 @@
  "date": "2026-10-20",
  "new_jobs": [
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557043740",
-   "title": "Research Intern - Algorithms Group: Generative Modeling",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043740",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79447",
+   "title": "游戏服务器开发实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
   },
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557043754",
-   "title": "Research Intern - Extended Perception Interaction Cognition (EPIC)",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043754",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7698379118136609029",
-   "title": "即梦Dreamina Agent产品实习生 - 剪映CapCut",
-   "url": "https://jobs.bytedance.com/campus/position/7698379118136609029/detail",
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79446",
+   "title": "游戏客户端开发实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
