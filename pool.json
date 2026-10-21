@@ -20,20 +20,20 @@
   "new": false
  },
  {
-  "uid": "gh:epicgames:6202659004",
+  "uid": "gh:epicgames:6147283004",
   "co": "Epic Games",
   "t": "Engine Programmer Intern",
-  "u": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
+  "u": "https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004",
   "cat": "软件",
   "suit": false,
   "flag": "",
   "new": false
  },
  {
-  "uid": "gh:epicgames:6147283004",
+  "uid": "gh:epicgames:6202659004",
   "co": "Epic Games",
   "t": "Engine Programmer Intern",
-  "u": "https://epicgames.com/careers/jobs/6147283004?gh_jid=6147283004",
+  "u": "https://epicgames.com/careers/jobs/6202659004?gh_jid=6202659004",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -528,66 +528,6 @@
   "suit": false,
   "flag": "",
   "new": false
- },
- {
-  "uid": "ms:pcsx:1970393557040502",
-  "co": "微软",
-  "t": "Research Intern - Machine Learning and Statistics",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557040502",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393557040333",
-  "co": "微软",
-  "t": "Research Intern - Machine Learning for Biology and Healthcare",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557040333",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393556983221",
-  "co": "微软",
-  "t": "Software Engineering Intern - CTJ - TS",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393556983223",
-  "co": "微软",
-  "t": "Software Engineering Intern - CTJ - TS",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393556937623",
-  "co": "微软",
-  "t": "Technical Support Engineer Intern for People with Disabilities (Ignite Program)",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556937623",
-  "cat": "FDE",
-  "suit": false,
-  "flag": "残障包容专项(另一条资格轴)",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393556768751",
-  "co": "微软",
-  "t": "Security Research Intern",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556768751",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
  },
  {
   "uid": "riot:6172",
@@ -6040,16 +5980,6 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7647099668352796933",
-  "co": "字节游戏",
-  "t": "技术支持（Unity方向）实习生-PICO",
-  "u": "https://jobs.bytedance.com/campus/position/7647099668352796933/detail",
-  "cat": "FDE",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7674944037608409349",
   "co": "字节游戏",
   "t": "AIGC产品实习生（IAA方向） - 广告业务",
@@ -6065,6 +5995,16 @@
   "t": "AIGC产品实习生 - 广告业务",
   "u": "https://jobs.bytedance.com/campus/position/7573564097951860997/detail",
   "cat": "AI",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7647099668352796933",
+  "co": "字节游戏",
+  "t": "技术支持（Unity方向）实习生-PICO",
+  "u": "https://jobs.bytedance.com/campus/position/7647099668352796933/detail",
+  "cat": "FDE",
   "suit": true,
   "flag": "",
   "new": false
@@ -6100,6 +6040,16 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7686447028033227061",
+  "co": "字节游戏",
+  "t": "Seedance2.5编剧实习生 - 火山方舟",
+  "u": "https://jobs.bytedance.com/campus/position/7686447028033227061/detail",
+  "cat": "策划",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7667950653440084277",
   "co": "字节游戏",
   "t": "AI漫剧产品实习生 - 广告业务",
@@ -6115,16 +6065,6 @@
   "t": "短剧/漫剧行业商业产品实习生-广告业务",
   "u": "https://jobs.bytedance.com/campus/position/7559833699594160402/detail",
   "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7686447028033227061",
-  "co": "字节游戏",
-  "t": "Seedance2.5编剧实习生 - 火山方舟",
-  "u": "https://jobs.bytedance.com/campus/position/7686447028033227061/detail",
-  "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
@@ -6280,21 +6220,21 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7525348347533068552",
-  "co": "字节游戏",
-  "t": "AIGC商业产品实习生-国际化",
-  "u": "https://jobs.bytedance.com/campus/position/7525348347533068552/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7697105400872864053",
   "co": "字节游戏",
   "t": "虚拟业务产品实习生 - 抖音电商",
   "u": "https://jobs.bytedance.com/campus/position/7697105400872864053/detail",
   "cat": "产品",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7525348347533068552",
+  "co": "字节游戏",
+  "t": "AIGC商业产品实习生-国际化",
+  "u": "https://jobs.bytedance.com/campus/position/7525348347533068552/detail",
+  "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
@@ -6530,6 +6470,16 @@
   "new": false
  },
  {
+  "uid": "cn:bytedance:7673389544427325749",
+  "co": "字节游戏",
+  "t": "前端开发（活动方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7673389544427325749/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
   "uid": "cn:bytedance:7215558558842390839",
   "co": "字节游戏",
   "t": "多模态世界模型算法实习生-Seed",
@@ -6550,40 +6500,10 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7673389544427325749",
-  "co": "字节游戏",
-  "t": "前端开发（活动方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7673389544427325749/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:bytedance:7680764226151844149",
   "co": "字节游戏",
   "t": "后端开发（公会方向）实习生 - TikTok直播",
   "u": "https://jobs.bytedance.com/campus/position/7680764226151844149/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7694869260870666501",
-  "co": "字节游戏",
-  "t": "AI全栈开发（社交互动方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7694869260870666501/detail",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7664532550576965941",
-  "co": "字节游戏",
-  "t": "AI全栈开发实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7664532550576965941/detail",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -6610,30 +6530,20 @@
   "new": false
  },
  {
-  "uid": "cn:bytedance:7678283119853832453",
+  "uid": "cn:bytedance:7694869260870666501",
   "co": "字节游戏",
-  "t": "后端开发（营收增长方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7678283119853832453/detail",
-  "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7675657438754867461",
-  "co": "字节游戏",
-  "t": "后端开发（消费方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7675657438754867461/detail",
+  "t": "AI全栈开发（社交互动方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7694869260870666501/detail",
   "cat": "软件",
   "suit": false,
   "flag": "",
   "new": false
  },
  {
-  "uid": "cn:bytedance:7672625472791202101",
+  "uid": "cn:bytedance:7664532550576965941",
   "co": "字节游戏",
-  "t": "后端开发（社交互动方向）实习生 - TikTok直播",
-  "u": "https://jobs.bytedance.com/campus/position/7672625472791202101/detail",
+  "t": "AI全栈开发实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7664532550576965941/detail",
   "cat": "软件",
   "suit": false,
   "flag": "",
@@ -6666,6 +6576,36 @@
   "u": "https://jobs.bytedance.com/campus/position/7664438281645279493/detail",
   "cat": "AI",
   "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7678283119853832453",
+  "co": "字节游戏",
+  "t": "后端开发（营收增长方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7678283119853832453/detail",
+  "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7675657438754867461",
+  "co": "字节游戏",
+  "t": "后端开发（消费方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7675657438754867461/detail",
+  "cat": "软件",
+  "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:bytedance:7672625472791202101",
+  "co": "字节游戏",
+  "t": "后端开发（社交互动方向）实习生 - TikTok直播",
+  "u": "https://jobs.bytedance.com/campus/position/7672625472791202101/detail",
+  "cat": "软件",
+  "suit": false,
   "flag": "",
   "new": false
  },
