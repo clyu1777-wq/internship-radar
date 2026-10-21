@@ -1,39 +1,6 @@
 {
  "date": "2026-10-21",
- "new_jobs": [
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557043468",
-   "title": "Research Intern: Audio and Speech Processing",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043468",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557040083",
-   "title": "Product Management Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557040083",
-   "flag": ""
-  },
-  {
-   "company": "Apple",
-   "srckey": "apple",
-   "id": "200690125",
-   "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
-   "url": "https://jobs.apple.com/en-us/details/200690125/internship-machine-learning-research-speech-to-speech-translation",
-   "flag": ""
-  },
-  {
-   "company": "鹰角网络(校招)",
-   "srckey": "cn:hypergryph",
-   "id": "f57d2c91-be43-4ef6-b85b-372515667e20",
-   "title": "游戏测试开发工程师",
-   "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326/#/jobs",
-   "flag": ""
-  }
- ],
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
