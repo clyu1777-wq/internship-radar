@@ -1,39 +1,21 @@
 {
- "date": "2026-10-22",
+ "date": "2026-10-23",
  "new_jobs": [
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557044765",
-   "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-   "flag": ""
-  },
-  {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10586354",
-   "title": "Product Manager Intern - Poland",
-   "url": "https://www.amazon.jobs/en/jobs/10586354/product-manager-intern-poland",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9704",
-   "title": "广告素材运营实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9704",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9702",
-   "title": "AI 产品实习生（发行方向）",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9702",
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5272481007",
+   "title": "2027 Early Career Software Engineer",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
