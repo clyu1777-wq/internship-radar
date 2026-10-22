@@ -1,6 +1,15 @@
 {
  "date": "2026-10-22",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5271842007",
+   "title": "Winter 2027 Robotics Engineer Co-op",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5271842007?gh_jid=5271842007",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
