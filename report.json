@@ -2,44 +2,38 @@
  "date": "2026-10-22",
  "new_jobs": [
   {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9698",
-   "title": "AI产品·体验设计实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9698",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9696",
-   "title": "全球社区·体验设计实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9696",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9694",
-   "title": "3C策划实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9694",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7699419160577968437",
-   "title": "游戏引擎实习生 - 绿洲工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7699419160577968437/detail",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
    "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "srckey": "ms:pcsx",
+   "id": "1970393557044765",
+   "title": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
+   "flag": ""
+  },
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10586354",
+   "title": "Product Manager Intern - Poland",
+   "url": "https://www.amazon.jobs/en/jobs/10586354/product-manager-intern-poland",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9704",
+   "title": "广告素材运营实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9704",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9702",
+   "title": "AI 产品实习生（发行方向）",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9702",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
