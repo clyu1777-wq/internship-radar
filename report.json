@@ -1,20 +1,12 @@
 {
- "date": "2026-10-23",
+ "date": "2026-10-24",
  "new_jobs": [
   {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5270953007",
-   "title": "2027 Early Career Software Development in Test",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5270953007?gh_jid=5270953007",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9713",
-   "title": "游戏渠道合作实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9713",
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6232770004",
+   "title": "Tools Programmer Intern (Graphics)",
+   "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
    "flag": ""
   }
  ],
@@ -22,7 +14,7 @@
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "streak": 2
   }
  ],
  "baseline_added": 0
