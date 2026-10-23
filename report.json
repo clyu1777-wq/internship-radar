@@ -2,20 +2,22 @@
  "date": "2026-10-23",
  "new_jobs": [
   {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5272481007",
-   "title": "2027 Early Career Software Engineer",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557044769",
+   "title": "Security Research Intern",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10587087",
+   "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
+   "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
