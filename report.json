@@ -4,18 +4,26 @@
   {
    "company": "微软",
    "srckey": "ms:pcsx",
-   "id": "1970393557044769",
-   "title": "Security Research Intern",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044769",
+   "id": "1970393557045445",
+   "title": "Research Intern - Gray Systems Lab (GSL)",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557045445",
    "flag": "研究岗·常要研究生,正文未抓到"
   },
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10587087",
-   "title": "System Development Engineer Intern/Co-op, ROBOTICS -  2027",
-   "url": "https://www.amazon.jobs/en/jobs/10587087/system-development-engineer-intern-co-op-robotics-2027",
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7699753318628804907",
+   "title": "SUN-APM(战斗管线)",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7699753318628804907/detail",
    "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100051600001",
+   "title": "灵犀互娱-行业运营-交易猫",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100051600001",
+   "flag": "校招/实习待确认(正文未抓到)"
   }
  ],
  "failures": [],
