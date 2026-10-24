@@ -2,11 +2,11 @@
  "date": "2026-10-24",
  "new_jobs": [
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6232770004",
-   "title": "Tools Programmer Intern (Graphics)",
-   "url": "https://epicgames.com/careers/jobs/6232770004?gh_jid=6232770004",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10587999",
+   "title": "Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA)",
+   "url": "https://www.amazon.jobs/en/jobs/10587999/software-development-engineer-intern-amazon-leo-summer-2027-usa",
    "flag": ""
   }
  ],
@@ -14,7 +14,7 @@
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "streak": 3
   }
  ],
  "baseline_added": 0
