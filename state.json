@@ -21,7 +21,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:rsgur": {
   "ids": [
@@ -29,13 +29,13 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:bungie": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:scaleai": {
   "ids": [
@@ -44,13 +44,13 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:twitch": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:hasbro": {
   "ids": [
@@ -58,7 +58,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:databricks": {
   "ids": [
@@ -67,7 +67,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:sie": {
   "ids": [
@@ -75,13 +75,13 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:taketwo": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:anduril": {
   "ids": [
@@ -105,7 +105,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "gh:c3": {
   "ids": [
@@ -115,7 +115,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "lever:palantir": {
   "ids": [
@@ -131,7 +131,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "ashby:netic": {
   "ids": [
@@ -141,7 +141,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "ashby:openai": {
   "ids": [
@@ -151,13 +151,13 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "ashby:decagon": {
   "ids": [],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "wd:nvidia": {
   "ids": [
@@ -180,7 +180,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "wd:xboxgaming": {
   "ids": [
@@ -189,7 +189,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "ms:pcsx": {
   "ids": [
@@ -257,7 +257,7 @@
    "1970393557045445",
    "1970393557045963"
   ],
-  "fail_streak": 1,
+  "fail_streak": 2,
   "init": true,
   "last_ok": "2026-10-24"
  },
@@ -267,7 +267,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "riot": {
   "ids": [
@@ -276,7 +276,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "amazon": {
   "ids": [
@@ -311,7 +311,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "apple": {
   "ids": [
@@ -322,7 +322,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "snowflake": {
   "ids": [
@@ -337,7 +337,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "roblox": {
   "ids": [
@@ -349,7 +349,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "google": {
   "ids": [
@@ -372,7 +372,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:tencent": {
   "ids": [
@@ -537,7 +537,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:mihoyo": {
   "ids": [
@@ -687,7 +687,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:163huyu": {
   "ids": [
@@ -721,7 +721,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:leihuo": {
   "ids": [
@@ -851,7 +851,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:kuro": {
   "ids": [
@@ -1005,7 +1005,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:bytedance": {
   "ids": [
@@ -1166,7 +1166,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:zhipu": {
   "ids": [
@@ -1217,7 +1217,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:lilith": {
   "ids": [
@@ -1248,7 +1248,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:lingxi": {
   "ids": [
@@ -1288,7 +1288,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:hypergryph": {
   "ids": [
@@ -1305,7 +1305,7 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  },
  "cn:wanmei": {
   "ids": [
@@ -1334,6 +1334,6 @@
   ],
   "fail_streak": 0,
   "init": true,
-  "last_ok": "2026-10-24"
+  "last_ok": "2026-10-25"
  }
 }
