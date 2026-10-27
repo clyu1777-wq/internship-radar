@@ -1,37 +1,6 @@
 {
  "date": "2026-10-28",
- "new_jobs": [
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "e11c70eb-0800-4363-b609-264610878dce",
-   "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
-   "url": "https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "66482",
-   "title": "海外视频内容素材实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "莉莉丝",
-   "srckey": "cn:lilith",
-   "id": "7701334036573456649",
-   "title": "文案主笔（都市生活模拟）",
-   "url": "https://lilithgames.jobs.feishu.cn/career/position/7701334036573456649/detail",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
-  }
- ],
+ "new_jobs": [],
+ "failures": [],
  "baseline_added": 0
 }
