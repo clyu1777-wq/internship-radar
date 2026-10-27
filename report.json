@@ -4,12 +4,34 @@
   {
    "company": "Amazon/AWS",
    "srckey": "amazon",
-   "id": "10589523",
-   "title": "Field Engineer Intern, Fielding Engineering",
-   "url": "https://www.amazon.jobs/en/jobs/10589523/field-engineer-intern-fielding-engineering",
+   "id": "10581054",
+   "title": "Applied Scientist Intern",
+   "url": "https://www.amazon.jobs/en/jobs/10581054/applied-scientist-intern",
+   "flag": ""
+  },
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10581056",
+   "title": "Applied Scientist Intern, RIVR",
+   "url": "https://www.amazon.jobs/en/jobs/10581056/applied-scientist-intern-rivr",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7699403745462601989",
+   "title": "游戏特效实习生 - 心光工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7699403745462601989/detail",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
