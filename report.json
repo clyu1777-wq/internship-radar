@@ -1,6 +1,31 @@
 {
  "date": "2026-10-28",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "Google",
+   "srckey": "google",
+   "id": "78252225691820742",
+   "title": "User Experience Design Intern, Summer 2027, YouTube UX",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/78252225691820742",
+   "flag": ""
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1312873869400562688",
+   "title": "光子AI-AI可交互模型原生产品策划",
+   "url": "https://join.qq.com/post_detail.html?postid=1312873869400562688",
+   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
+  },
+  {
+   "company": "莉莉丝",
+   "srckey": "cn:lilith",
+   "id": "7701574637860391209",
+   "title": "全球商务负责人",
+   "url": "https://lilithgames.jobs.feishu.cn/career/position/7701574637860391209/detail",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
