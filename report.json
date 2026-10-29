@@ -1,52 +1,36 @@
 {
- "date": "2026-10-29",
+ "date": "2026-10-30",
  "new_jobs": [
   {
    "company": "微软",
    "srckey": "ms:pcsx",
-   "id": "1970393557050039",
-   "title": "Research Intern - MSR Systems Research Group - Redmond",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050039",
+   "id": "1970393557043380",
+   "title": "Security Research INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043380",
    "flag": "研究岗·常要研究生,正文未抓到"
   },
   {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7701975924082444580",
-   "title": "鸣潮-3D角色",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7701975924082444580/detail",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10592767",
+   "title": "UX Researcher Intern – Summer 2027",
+   "url": "https://www.amazon.jobs/en/jobs/10592767/ux-researcher-intern-summer-2027",
    "flag": ""
   },
   {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7701972531155618075",
-   "title": "鸣潮-语音监制",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7701972531155618075/detail",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10592766",
+   "title": "UX Designer Intern – Summer 2027",
+   "url": "https://www.amazon.jobs/en/jobs/10592766/ux-designer-intern-summer-2027",
    "flag": ""
   },
   {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7484179918642448694",
-   "title": "战双-3D角色模型",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7484179918642448694/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7701919761108207877",
-   "title": "广告产品（小游戏方向）实习生 - 广告业务",
-   "url": "https://jobs.bytedance.com/campus/position/7701919761108207877/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7633753132130830597",
-   "title": "算法实习生 - 巨量星图",
-   "url": "https://jobs.bytedance.com/campus/position/7633753132130830597/detail",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10592306",
+   "title": "Robotics Wireless & Network Engineer Intern, RIVR",
+   "url": "https://www.amazon.jobs/en/jobs/10592306/robotics-wireless-network-engineer-intern-rivr",
    "flag": ""
   }
  ],
