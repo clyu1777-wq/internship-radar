@@ -2,38 +2,20 @@
  "date": "2026-10-30",
  "new_jobs": [
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557043380",
-   "title": "Security Research INTERN",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557043380",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10592767",
-   "title": "UX Researcher Intern – Summer 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10592767/ux-researcher-intern-summer-2027",
-   "flag": ""
-  },
-  {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10592766",
-   "title": "UX Designer Intern – Summer 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10592766/ux-designer-intern-summer-2027",
-   "flag": ""
-  },
-  {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10592306",
-   "title": "Robotics Wireless & Network Engineer Intern, RIVR",
-   "url": "https://www.amazon.jobs/en/jobs/10592306/robotics-wireless-network-engineer-intern-rivr",
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79624",
+   "title": "游戏关卡策划实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
