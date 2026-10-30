@@ -2,20 +2,46 @@
  "date": "2026-10-30",
  "new_jobs": [
   {
+   "company": "网易互娱(2027校招)",
+   "srckey": "cn:163huyu",
+   "id": "4748",
+   "title": "游戏项目管理",
+   "url": "https://campus.game.163.com/app/job/position?id=102",
+   "flag": ""
+  },
+  {
    "company": "网易雷火(日常实习)",
    "srckey": "cn:leihuo",
-   "id": "79624",
-   "title": "游戏关卡策划实习生",
+   "id": "51225",
+   "title": "图形算法实习生（动作算法方向）",
    "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7702306947764570411",
+   "title": "营销中心-周边设计师（鸣潮/战双）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7702306947764570411/detail",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7675198732862621993",
+   "title": "鸣潮-技术策划",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7675198732862621993/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7702349538784741637",
+   "title": "游戏UI动效设计实习生（女性向二次元游戏） - ZERO36工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7702349538784741637/detail",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
