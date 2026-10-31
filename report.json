@@ -1,15 +1,6 @@
 {
  "date": "2026-10-31",
- "new_jobs": [
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "b282fc4c-d041-487a-8444-eab095749368",
-   "title": "Product Management Intern (Summer 2027)",
-   "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
-   "flag": ""
-  }
- ],
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
