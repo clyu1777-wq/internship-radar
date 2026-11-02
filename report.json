@@ -1,12 +1,31 @@
 {
  "date": "2026-11-02",
- "new_jobs": [],
- "failures": [
+ "new_jobs": [
   {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "company": "Apple",
+   "srckey": "apple",
+   "id": "200691801",
+   "title": "Generative AI Research Intern - Image-to-Video Diffusion",
+   "url": "https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7703393928657570098",
+   "title": "在研项目-3D角色模型（材质）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7703393928657570098/detail",
+   "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100050660006",
+   "title": "灵犀互娱-发行制作人-综合发行",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100050660006",
+   "flag": "校招/实习待确认(正文未抓到)"
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
