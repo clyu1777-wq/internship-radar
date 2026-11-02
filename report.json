@@ -1,53 +1,15 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "new_jobs": [
   {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7703504956968225065",
-   "title": "鸣潮-3D特效（演出特效）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7703504956968225065/detail",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7703445009969760539",
-   "title": "鸣潮-任务测试",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7703445009969760539/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7702348002917386549",
-   "title": "Seedance2.5AIGC短片导演实习生 - 火山方舟",
-   "url": "https://jobs.bytedance.com/campus/position/7702348002917386549/detail",
-   "flag": ""
-  },
-  {
-   "company": "莉莉丝",
-   "srckey": "cn:lilith",
-   "id": "7703400372304234761",
-   "title": "VX设计师（欧美现代SLG）",
-   "url": "https://lilithgames.jobs.feishu.cn/career/position/7703400372304234761/detail",
-   "flag": ""
-  },
-  {
-   "company": "完美世界(实习)",
-   "srckey": "cn:wanmei",
-   "id": "de4024ee-95cf-46ed-aada-f7fb2c91b378",
-   "title": "游戏UI实习生（日常实习）",
-   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6239259004",
+   "title": "Tools Programmer Intern (Graphics)",
+   "url": "https://epicgames.com/careers/jobs/6239259004?gh_jid=6239259004",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
