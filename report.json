@@ -2,30 +2,52 @@
  "date": "2026-11-02",
  "new_jobs": [
   {
-   "company": "Apple",
-   "srckey": "apple",
-   "id": "200691801",
-   "title": "Generative AI Research Intern - Image-to-Video Diffusion",
-   "url": "https://jobs.apple.com/en-us/details/200691801/generative-ai-research-intern-image-to-video-diffusion",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7703504956968225065",
+   "title": "鸣潮-3D特效（演出特效）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7703504956968225065/detail",
+   "flag": ""
   },
   {
    "company": "库洛游戏",
    "srckey": "cn:kuro",
-   "id": "7703393928657570098",
-   "title": "在研项目-3D角色模型（材质）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7703393928657570098/detail",
+   "id": "7703445009969760539",
+   "title": "鸣潮-任务测试",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7703445009969760539/detail",
    "flag": ""
   },
   {
-   "company": "阿里灵犀互娱",
-   "srckey": "cn:lingxi",
-   "id": "100050660006",
-   "title": "灵犀互娱-发行制作人-综合发行",
-   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100050660006",
-   "flag": "校招/实习待确认(正文未抓到)"
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7702348002917386549",
+   "title": "Seedance2.5AIGC短片导演实习生 - 火山方舟",
+   "url": "https://jobs.bytedance.com/campus/position/7702348002917386549/detail",
+   "flag": ""
+  },
+  {
+   "company": "莉莉丝",
+   "srckey": "cn:lilith",
+   "id": "7703400372304234761",
+   "title": "VX设计师（欧美现代SLG）",
+   "url": "https://lilithgames.jobs.feishu.cn/career/position/7703400372304234761/detail",
+   "flag": ""
+  },
+  {
+   "company": "完美世界(实习)",
+   "srckey": "cn:wanmei",
+   "id": "de4024ee-95cf-46ed-aada-f7fb2c91b378",
+   "title": "游戏UI实习生（日常实习）",
+   "url": "https://app.mokahr.com/campus-recruitment/pwrd/150080",
+   "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
