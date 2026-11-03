@@ -1,55 +1,12 @@
 {
- "date": "2026-11-03",
- "new_jobs": [
-  {
-   "company": "NVIDIA",
-   "srckey": "wd:nvidia",
-   "id": "JR2029184",
-   "title": "Software Engineering Intern - 2027",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184",
-   "flag": ""
-  },
+ "date": "2026-11-04",
+ "new_jobs": [],
+ "failures": [
   {
    "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557053016",
-   "title": "Research Intern - Speech Processing",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557053016",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557052982",
-   "title": "Research Intern - Foundational Models & Agent",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557052982",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557053024",
-   "title": "Research Intern - Coding Agents & Post-Training Optimization",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557053024",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9755",
-   "title": "海外创意运营实习生-俄语",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9755",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7703828875646372132",
-   "title": "客服中台-游戏客服（外编）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7703828875646372132/detail",
-   "flag": ""
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
