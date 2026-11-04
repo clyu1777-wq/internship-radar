@@ -1,6 +1,15 @@
 {
- "date": "2026-11-04",
- "new_jobs": [],
+ "date": "2026-11-05",
+ "new_jobs": [
+  {
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10590270",
+   "title": "Software Development Engineer Intern, Amazon University Talent Acquisition",
+   "url": "https://www.amazon.jobs/en/jobs/10590270/software-development-engineer-intern-amazon-university-talent-acquisition",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
