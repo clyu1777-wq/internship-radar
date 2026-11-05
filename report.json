@@ -1,6 +1,31 @@
 {
  "date": "2026-11-05",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557054069",
+   "title": "Research Intern - Research in Software Engineering, ML Systems, Agents",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557054069",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9772",
+   "title": "视频生成算法研究实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9772",
+   "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100054640002",
+   "title": "灵犀互娱-游戏文案策划（系统方向）-广州",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100054640002",
+   "flag": "校招/实习待确认(正文未抓到)"
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
