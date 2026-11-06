@@ -2,22 +2,20 @@
  "date": "2026-11-06",
  "new_jobs": [
   {
-   "company": "Palantir",
-   "srckey": "lever:palantir",
-   "id": "40840cef-bbd7-4557-bb21-cbdcf4be616e",
-   "title": "Software Engineer, Internship - Sovereign AI Systems",
-   "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
-   "flag": ""
-  },
-  {
-   "company": "Palantir",
-   "srckey": "lever:palantir",
-   "id": "cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
-   "title": "Software Engineer, Internship - Sovereign AI Systems",
-   "url": "https://jobs.lever.co/palantir/cd64bcd4-50bb-4aeb-a135-4e0487ffd312",
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7704873837353306421",
+   "title": "游戏交互策划（UE）实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7704873837353306421/detail",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
