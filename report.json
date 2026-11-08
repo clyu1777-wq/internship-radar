@@ -1,15 +1,6 @@
 {
  "date": "2026-11-08",
- "new_jobs": [
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557056017",
-   "title": "Research Intern - AI & Human Systems",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  }
- ],
+ "new_jobs": [],
  "failures": [],
  "baseline_added": 0
 }
