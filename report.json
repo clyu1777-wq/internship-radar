@@ -1,6 +1,23 @@
 {
  "date": "2026-11-09",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1241562617194359808",
+   "title": "游戏动效设计(特效向)",
+   "url": "https://join.qq.com/post_detail.html?postid=1241562617194359808",
+   "flag": ""
+  },
+  {
+   "company": "腾讯游戏",
+   "srckey": "cn:tencent",
+   "id": "1316416483156746240",
+   "title": "游戏动效设计(UI向)",
+   "url": "https://join.qq.com/post_detail.html?postid=1316416483156746240",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
