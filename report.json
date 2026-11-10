@@ -2,19 +2,19 @@
  "date": "2026-11-10",
  "new_jobs": [
   {
-   "company": "Epic Games",
-   "srckey": "gh:epicgames",
-   "id": "6251540004",
-   "title": "AI Programmer Intern",
-   "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10600919",
+   "title": "Applied Scientist Intern - VLA and DATA, RIVR",
+   "url": "https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr",
    "flag": ""
   },
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10597379",
-   "title": "Software Development Engineer Intern - Summer 2027",
-   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "71598",
+   "title": "市场运营实习生（炉石传说-自媒体内容运营）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
    "flag": ""
   }
  ],
@@ -22,7 +22,7 @@
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "streak": 2
   }
  ],
  "baseline_added": 0
