@@ -1,29 +1,15 @@
 {
- "date": "2026-11-10",
+ "date": "2026-11-11",
  "new_jobs": [
   {
-   "company": "Amazon/AWS",
-   "srckey": "amazon",
-   "id": "10600919",
-   "title": "Applied Scientist Intern - VLA and DATA, RIVR",
-   "url": "https://www.amazon.jobs/en/jobs/10600919/applied-scientist-intern-vla-and-data-rivr",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "71598",
-   "title": "市场运营实习生（炉石传说-自媒体内容运营）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
    "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "srckey": "ms:pcsx",
+   "id": "1970393557044053",
+   "title": "Software Engineering INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044053",
+   "flag": ""
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
