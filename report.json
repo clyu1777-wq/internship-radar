@@ -1,23 +1,29 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "new_jobs": [
   {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7706155314927946037",
-   "title": "推理优化实习生 - 抖音直播",
-   "url": "https://jobs.bytedance.com/campus/position/7706155314927946037/detail",
+   "company": "Epic Games",
+   "srckey": "gh:epicgames",
+   "id": "6251540004",
+   "title": "AI Programmer Intern",
+   "url": "https://epicgames.com/careers/jobs/6251540004?gh_jid=6251540004",
    "flag": ""
   },
   {
-   "company": "莉莉丝",
-   "srckey": "cn:lilith",
-   "id": "7487804393736292659",
-   "title": "VX设计师（AFK）",
-   "url": "https://lilithgames.jobs.feishu.cn/career/position/7487804393736292659/detail",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10597379",
+   "title": "Software Development Engineer Intern - Summer 2027",
+   "url": "https://www.amazon.jobs/en/jobs/10597379/software-development-engineer-intern-summer-2027",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
