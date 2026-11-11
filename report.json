@@ -1,101 +1,39 @@
 {
- "date": "2026-11-11",
+ "date": "2026-11-12",
  "new_jobs": [
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557070079",
+   "title": "Research Intern - Next-Generation AI Agents",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
   {
    "company": "Riot Games",
    "srckey": "riot",
-   "id": "6211",
-   "title": "Community Manager Intern - Summer 2027",
-   "url": "https://www.riotgames.com/en/j/8354416",
+   "id": "6216",
+   "title": "Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027",
+   "url": "https://www.riotgames.com/en/j/8356525",
    "flag": ""
   },
   {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "64652",
-   "title": "游戏战斗策划实习生（永劫无间）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "company": "Snowflake",
+   "srckey": "snowflake",
+   "id": "1181b78f-cef2-4078-970f-ebdf96fbeca5",
+   "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
+   "url": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
    "flag": ""
   },
   {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79858",
-   "title": "无限大日区传播实习生（进度管理与素材梳理方向）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79877",
-   "title": "游戏视觉创意实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79869",
-   "title": "游戏内容挖掘实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79864",
-   "title": "游戏英文内容实习生（AI 本地化方向）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79862",
-   "title": "AI内容产品实习生（本地化向）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "79859",
-   "title": "全球创意管线实习生（平面/视频方向）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7706756934926567733",
-   "title": "剧情策划实习生（女性向游戏） - ZERO36工作室",
-   "url": "https://jobs.bytedance.com/campus/position/7706756934926567733/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7706794754269792565",
-   "title": "3D动画实习生（Timeline方向） - 研发支持中心",
-   "url": "https://jobs.bytedance.com/campus/position/7706794754269792565/detail",
-   "flag": ""
-  },
-  {
-   "company": "莉莉丝",
-   "srckey": "cn:lilith",
-   "id": "7706734935037479231",
-   "title": "VX设计师（AFK）-Li岗",
-   "url": "https://lilithgames.jobs.feishu.cn/career/position/7706734935037479231/detail",
+   "company": "Snowflake",
+   "srckey": "snowflake",
+   "id": "e8e69bfe-22b4-4abe-b2cb-f60a73f190d5",
+   "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
+   "url": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
    "flag": ""
   }
  ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
-  }
- ],
+ "failures": [],
  "baseline_added": 0
 }
