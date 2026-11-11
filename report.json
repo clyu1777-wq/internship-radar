@@ -2,14 +2,28 @@
  "date": "2026-11-11",
  "new_jobs": [
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557044053",
-   "title": "Software Engineering INTERN",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557044053",
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79857",
+   "title": "欧美区内容实习生（KOC方向）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "79855",
+   "title": "欧美区内容实习生（KOL方向）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
    "flag": ""
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }

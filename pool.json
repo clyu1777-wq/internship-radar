@@ -520,86 +520,6 @@
   "new": false
  },
  {
-  "uid": "ms:pcsx:1970393556983221",
-  "co": "微软",
-  "t": "Software Engineering Intern - CTJ - TS",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556983221",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393556983223",
-  "co": "微软",
-  "t": "Software Engineering Intern - CTJ - TS",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556983223",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393557044765",
-  "co": "微软",
-  "t": "Software Engineer: Security & Identity Intern Opportunities for University Students, Cambridge",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393557056017",
-  "co": "微软",
-  "t": "Research Intern - AI & Human Systems",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557056017",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393556922930",
-  "co": "微软",
-  "t": "Software Engineer: Security & Identity Intern Opportunities for University Students, Redmond",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393556922930",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393557044053",
-  "co": "微软",
-  "t": "Software Engineering INTERN",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557044053",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393557043380",
-  "co": "微软",
-  "t": "Security Research INTERN",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557043380",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
- },
- {
-  "uid": "ms:pcsx:1970393557041731",
-  "co": "微软",
-  "t": "Research Intern - Efficient AI Software Systems",
-  "u": "https://apply.careers.microsoft.com/careers/job/1970393557041731",
-  "cat": "AI",
-  "suit": false,
-  "flag": "研究岗·常要研究生,正文未抓到",
-  "new": true
- },
- {
   "uid": "amazon:10600919",
   "co": "Amazon/AWS",
   "t": "Applied Scientist Intern - VLA and DATA, RIVR",
@@ -3660,6 +3580,26 @@
   "new": false
  },
  {
+  "uid": "cn:leihuo:79857",
+  "co": "网易雷火(日常实习)",
+  "t": "欧美区内容实习生（KOC方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
+  "uid": "cn:leihuo:79855",
+  "co": "网易雷火(日常实习)",
+  "t": "欧美区内容实习生（KOL方向）",
+  "u": "https://leihuo.163.com/campus/#/dailyIntern",
+  "cat": "边缘",
+  "suit": false,
+  "flag": "",
+  "new": true
+ },
+ {
   "uid": "cn:leihuo:52403",
   "co": "网易雷火(日常实习)",
   "t": "游戏交互设计实习生（逆水寒手游）",
@@ -4418,26 +4358,6 @@
   "suit": true,
   "flag": "",
   "new": false
- },
- {
-  "uid": "cn:leihuo:72477",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏关卡策划实习生",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "策划",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:leihuo:68703",
-  "co": "网易雷火(日常实习)",
-  "t": "游戏研发工程师实习生（服务器方向）",
-  "u": "https://leihuo.163.com/campus/#/dailyIntern",
-  "cat": "软件",
-  "suit": false,
-  "flag": "",
-  "new": true
  },
  {
   "uid": "cn:kuro:7704958030673594634",
@@ -5625,16 +5545,6 @@
   "t": "小游戏玩法运营实习生 - 抖音社交与互动",
   "u": "https://jobs.bytedance.com/campus/position/7691243160286693685/detail",
   "cat": "运营",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
-  "uid": "cn:bytedance:7697144182280096053",
-  "co": "字节游戏",
-  "t": "游戏文案策划实习生 - 绿洲工作室",
-  "u": "https://jobs.bytedance.com/campus/position/7697144182280096053/detail",
-  "cat": "策划",
   "suit": true,
   "flag": "",
   "new": false
@@ -6920,22 +6830,22 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7504235296814188827",
-  "co": "智谱AI(实习)",
-  "t": "产品实习生-PE",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7504235296814188827/detail",
-  "cat": "产品",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7572160453691672873",
   "co": "智谱AI(实习)",
   "t": "AI技术实习生-深圳",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7572160453691672873/detail",
   "cat": "边缘",
   "suit": false,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7504235296814188827",
+  "co": "智谱AI(实习)",
+  "t": "产品实习生-PE",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7504235296814188827/detail",
+  "cat": "产品",
+  "suit": true,
   "flag": "",
   "new": false
  },
@@ -6950,21 +6860,21 @@
   "new": false
  },
  {
-  "uid": "cn:zhipu:7593245670041471238",
-  "co": "智谱AI(实习)",
-  "t": "AI产品实习生-上海",
-  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7593245670041471238/detail",
-  "cat": "AI",
-  "suit": true,
-  "flag": "",
-  "new": false
- },
- {
   "uid": "cn:zhipu:7591800764085307674",
   "co": "智谱AI(实习)",
   "t": "海外社媒内容运营实习生",
   "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7591800764085307674/detail",
   "cat": "运营",
+  "suit": true,
+  "flag": "",
+  "new": false
+ },
+ {
+  "uid": "cn:zhipu:7593245670041471238",
+  "co": "智谱AI(实习)",
+  "t": "AI产品实习生-上海",
+  "u": "https://zhipu-ai.jobs.feishu.cn/index/position/7593245670041471238/detail",
+  "cat": "AI",
   "suit": true,
   "flag": "",
   "new": false
@@ -7250,21 +7160,21 @@
   "new": false
  },
  {
-  "uid": "cn:lingxi:100034540006",
-  "co": "阿里灵犀互娱",
-  "t": "灵犀互娱-主营销-MMO项目",
-  "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100034540006",
-  "cat": "边缘",
-  "suit": false,
-  "flag": "校招/实习待确认(正文未抓到)",
-  "new": false
- },
- {
   "uid": "cn:lingxi:100014220003",
   "co": "阿里灵犀互娱",
   "t": "灵犀互娱-测试开发-游戏中台",
   "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100014220003",
   "cat": "软件",
+  "suit": false,
+  "flag": "校招/实习待确认(正文未抓到)",
+  "new": false
+ },
+ {
+  "uid": "cn:lingxi:100034540006",
+  "co": "阿里灵犀互娱",
+  "t": "灵犀互娱-主营销-MMO项目",
+  "u": "https://talent.alibaba.com/off-campus/position-detail?positionId=100034540006",
+  "cat": "边缘",
   "suit": false,
   "flag": "校招/实习待确认(正文未抓到)",
   "new": false
