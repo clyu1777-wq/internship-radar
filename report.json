@@ -2,35 +2,19 @@
  "date": "2026-11-12",
  "new_jobs": [
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557070079",
-   "title": "Research Intern - Next-Generation AI Agents",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557070079",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "Riot Games",
-   "srckey": "riot",
-   "id": "6216",
-   "title": "Technical Game Design Intern, League of Legends and Teamfight Tactics - Summer 2027",
-   "url": "https://www.riotgames.com/en/j/8356525",
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7707165075849120063",
+   "title": "在研项目-2D武器设计",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7707165075849120063/detail",
    "flag": ""
   },
   {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "1181b78f-cef2-4078-970f-ebdf96fbeca5",
-   "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
-   "url": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
-   "flag": ""
-  },
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "e8e69bfe-22b4-4abe-b2cb-f60a73f190d5",
-   "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
-   "url": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7707127437645203775",
+   "title": "鸣潮-鸣潮-客户端开发（Gameplay AI）",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7707127437645203775/detail",
    "flag": ""
   }
  ],
