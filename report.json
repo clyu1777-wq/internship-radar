@@ -1,6 +1,15 @@
 {
  "date": "2026-11-13",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100056180002",
+   "title": "灵犀互娱-市场策划-SLG",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100056180002",
+   "flag": "校招/实习待确认(正文未抓到)"
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
