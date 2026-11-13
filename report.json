@@ -1,39 +1,17 @@
 {
- "date": "2026-11-13",
- "new_jobs": [
+ "date": "2026-11-14",
+ "new_jobs": [],
+ "failures": [
   {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9817",
-   "title": "社区策略产品实习生（agent方向）",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9817",
-   "flag": ""
+   "company": "NVIDIA",
+   "error": "HTTP Error 521: <none>",
+   "streak": 1
   },
   {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9816",
-   "title": "社区策略产品实习生（促售方向）",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9816",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "70151",
-   "title": "永劫无间赛事营销实习生",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7707597903603157301",
-   "title": "游戏强化学习实习生 - AIGC",
-   "url": "https://jobs.bytedance.com/campus/position/7707597903603157301/detail",
-   "flag": ""
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
