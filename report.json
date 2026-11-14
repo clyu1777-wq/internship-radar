@@ -1,15 +1,24 @@
 {
  "date": "2026-11-14",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557073164",
+   "title": "Technical Support Engineer Intern for People with Disabilities (Ignite Program)",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073164",
+   "flag": "残障包容专项(另一条资格轴)"
+  }
+ ],
  "failures": [
   {
    "company": "NVIDIA",
    "error": "HTTP Error 521: <none>",
-   "streak": 1
+   "streak": 2
   },
   {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
+   "company": "微软游戏(Xbox/动视暴雪)",
+   "error": "HTTP Error 521: <none>",
    "streak": 1
   }
  ],
