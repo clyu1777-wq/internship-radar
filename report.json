@@ -1,68 +1,11 @@
 {
- "date": "2026-11-16",
- "new_jobs": [
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "95046224276529862",
-   "title": "Software Engineering Intern, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/95046224276529862",
-   "flag": ""
-  },
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "136501832733074118",
-   "title": "Product Design Engineering Intern, 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/136501832733074118",
-   "flag": ""
-  },
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "135021615204180678",
-   "title": "Software Engineering Intern, Summer 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/135021615204180678",
-   "flag": ""
-  },
-  {
-   "company": "Google",
-   "srckey": "google",
-   "id": "96299220855595718",
-   "title": "Forward Deployed Engineer Intern, 2027",
-   "url": "https://www.google.com/about/careers/applications/jobs/results/96299220855595718",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "8881",
-   "title": "市场运营投放实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/8881",
-   "flag": ""
-  },
-  {
-   "company": "网易雷火(日常实习)",
-   "srckey": "cn:leihuo",
-   "id": "75330",
-   "title": "游戏海外营销实习生（MMO）",
-   "url": "https://leihuo.163.com/campus/#/dailyIntern",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7708743731476220165",
-   "title": "Seedance2.5评测实习生（广告/影视/动画/游戏） - 火山方舟",
-   "url": "https://jobs.bytedance.com/campus/position/7708743731476220165/detail",
-   "flag": ""
-  }
- ],
+ "date": "2026-11-17",
+ "new_jobs": [],
  "failures": [
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "streak": 2
   }
  ],
  "baseline_added": 0
