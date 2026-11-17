@@ -1,76 +1,12 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "new_jobs": [
   {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9829",
-   "title": "游戏数据运营实习生",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9829",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "9826",
-   "title": "AI人文训练实习生（韩语方向）",
-   "url": "https://jobs.mihoyo.com/#/campus/position/9826",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7709084892386937131",
-   "title": "鸣潮-场景编辑（外编）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7709084892386937131/detail",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7709049111299655946",
-   "title": "SUN-战斗客户端（战斗架构方向）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7709049111299655946/detail",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7709047988342016297",
-   "title": "SUN-战斗客户端（运动体验方向）",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7709047988342016297/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7212892199770900791",
-   "title": "海外游戏运营实习生 - ONE Studio",
-   "url": "https://jobs.bytedance.com/campus/position/7212892199770900791/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7709090263658826037",
-   "title": "AI策略运营实习生（模型评测方向） - 抖音运营",
-   "url": "https://jobs.bytedance.com/campus/position/7709090263658826037/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7709092074536044853",
-   "title": "AI产品实习生（IP创新业务） - 抖音运营",
-   "url": "https://jobs.bytedance.com/campus/position/7709092074536044853/detail",
-   "flag": ""
-  },
-  {
-   "company": "鹰角网络(校招)",
-   "srckey": "cn:hypergryph",
-   "id": "b995c4cb-7fec-4bcb-9cad-5f2738dd40b7",
-   "title": "引擎工具开发",
-   "url": "https://jobs.hypergryph.com/campus_apply/hypergryph/26326/#/jobs",
+   "company": "Anduril",
+   "srckey": "gh:anduril",
+   "id": "5274037007",
+   "title": "2027 Machine Learning Engineer Intern",
+   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
    "flag": ""
   }
  ],
