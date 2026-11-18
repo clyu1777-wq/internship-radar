@@ -2,12 +2,84 @@
  "date": "2026-11-18",
  "new_jobs": [
   {
-   "company": "Anduril",
-   "srckey": "gh:anduril",
-   "id": "5274037007",
-   "title": "2027 Machine Learning Engineer Intern",
-   "url": "https://boards.greenhouse.io/andurilindustries/jobs/5274037007?gh_jid=5274037007",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557075074",
+   "title": "Research Intern - Frontier Tuning",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075074",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557075140",
+   "title": "Research Intern - Firmware Security",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075140",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9840",
+   "title": "国际化社区内容运营实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9840",
    "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9836",
+   "title": "国际化发行数据分析实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9836",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9834",
+   "title": "Agent算法工程师实习生",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9834",
+   "flag": ""
+  },
+  {
+   "company": "库洛游戏",
+   "srckey": "cn:kuro",
+   "id": "7709394365459040553",
+   "title": "sun-解算师",
+   "url": "https://kurogame.jobs.feishu.cn/campus/position/7709394365459040553/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7709399057747642677",
+   "title": "游戏AIGC策划实习生 - ZERO36工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7709399057747642677/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7709383614582507781",
+   "title": "用户产品运营实习生（游戏娱乐行业） - 抖音电商",
+   "url": "https://jobs.bytedance.com/campus/position/7709383614582507781/detail",
+   "flag": ""
+  },
+  {
+   "company": "莉莉丝",
+   "srckey": "cn:lilith",
+   "id": "7709467200331254067",
+   "title": "【启程计划】技术策划（开放世界/SOC)",
+   "url": "https://lilithgames.jobs.feishu.cn/career/position/7709467200331254067/detail",
+   "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100057720001",
+   "title": "灵犀互娱-主营销-卡牌",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100057720001",
+   "flag": "校招/实习待确认(正文未抓到)"
   }
  ],
  "failures": [],
