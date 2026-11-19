@@ -2,11 +2,75 @@
  "date": "2026-11-19",
  "new_jobs": [
   {
-   "company": "Roblox",
-   "srckey": "roblox",
-   "id": "8386080",
-   "title": "[Summer 2027 Canada] Software Engineer Intern, Engine",
-   "url": "https://careers.roblox.com/jobs/8386080",
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557075136",
+   "title": "Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075136",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557075527",
+   "title": "Research Intern - AI Software Systems",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075527",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557075474",
+   "title": "Research Intern - Model Foundations for Knowledge & Reasoning - Microsoft Research",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075474",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557075490",
+   "title": "Research Intern - Computer Vision and Deep Learning",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075490",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "9847",
+   "title": "游戏数据运营实习生-源初之结",
+   "url": "https://jobs.mihoyo.com/#/campus/position/9847",
+   "flag": ""
+  },
+  {
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "80035",
+   "title": "海外营销社区运营实习生（射击类）",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7709723998247405877",
+   "title": "游戏视频设计实习生 - 绿洲工作室",
+   "url": "https://jobs.bytedance.com/campus/position/7709723998247405877/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7709837048687233285",
+   "title": "模型评测工程师（游戏方向）实习生 - AI Platform",
+   "url": "https://jobs.bytedance.com/campus/position/7709837048687233285/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7550141939355683080",
+   "title": "海外发行实习生 - ONE Studio",
+   "url": "https://jobs.bytedance.com/campus/position/7550141939355683080/detail",
    "flag": ""
   }
  ],
