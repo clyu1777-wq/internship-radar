@@ -1,61 +1,6 @@
 {
- "date": "2026-11-20",
- "new_jobs": [
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "70074572-5399-4d6f-be64-6a32de622fb6",
-   "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
-   "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
-   "flag": ""
-  },
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "b1a79d5e-b28d-4fa5-9cee-38be61261073",
-   "title": "Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027",
-   "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
-   "flag": ""
-  },
-  {
-   "company": "Snowflake",
-   "srckey": "snowflake",
-   "id": "b279efdc-7caf-4ce2-b1ff-d842ee5cc37e",
-   "title": "Software Engineer Intern (AI / ML) - Summer 2027",
-   "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
-   "flag": ""
-  },
-  {
-   "company": "库洛游戏",
-   "srckey": "cn:kuro",
-   "id": "7710087616243009834",
-   "title": "鸣潮-境内社媒营销（视频录制向）-外编",
-   "url": "https://kurogame.jobs.feishu.cn/campus/position/7710087616243009834/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7710125036485151029",
-   "title": "数据分析实习生（游戏方向） - 抖音社交与互动",
-   "url": "https://jobs.bytedance.com/campus/position/7710125036485151029/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7710143255727851829",
-   "title": "多闪产品运营实习生 - 抖音社交与互动",
-   "url": "https://jobs.bytedance.com/campus/position/7710143255727851829/detail",
-   "flag": ""
-  }
- ],
- "failures": [
-  {
-   "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
-  }
- ],
+ "date": "2026-11-21",
+ "new_jobs": [],
+ "failures": [],
  "baseline_added": 0
 }
