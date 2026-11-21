@@ -1,6 +1,47 @@
 {
  "date": "2026-11-21",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557077583",
+   "title": "Research Intern - AI System Architecture Modeling and Performance",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557077583",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557076215",
+   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076215",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557073455",
+   "title": "Research Intern - MSR Software-Hardware Co-design",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073455",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557073416",
+   "title": "Research Intern - AI Coding Agents",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557073416",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557076525",
+   "title": "Research Intern - Quantum Applications",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076525",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
