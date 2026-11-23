@@ -1,6 +1,23 @@
 {
  "date": "2026-11-23",
- "new_jobs": [],
+ "new_jobs": [
+  {
+   "company": "NVIDIA",
+   "srckey": "wd:nvidia",
+   "id": "JR2029967",
+   "title": "Software Engineering Intern",
+   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern_JR2029967",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7711203760194144565",
+   "title": "AIGC算法实习生 - 内容消费与非闭环营销",
+   "url": "https://jobs.bytedance.com/campus/position/7711203760194144565/detail",
+   "flag": ""
+  }
+ ],
  "failures": [],
  "baseline_added": 0
 }
