@@ -4,9 +4,33 @@
   {
    "company": "Amazon/AWS",
    "srckey": "amazon",
-   "id": "10606968",
-   "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
-   "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
+   "id": "10612415",
+   "title": "Software Development Engineer Intern - 2027, Beijing",
+   "url": "https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing",
+   "flag": ""
+  },
+  {
+   "company": "Apple",
+   "srckey": "apple",
+   "id": "200692236",
+   "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
+   "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation",
+   "flag": ""
+  },
+  {
+   "company": "米哈游(校招)",
+   "srckey": "cn:mihoyo",
+   "id": "7927",
+   "title": "社媒传播实习生-崩坏：星穹铁道",
+   "url": "https://jobs.mihoyo.com/#/campus/position/7927",
+   "flag": ""
+  },
+  {
+   "company": "莉莉丝",
+   "srckey": "cn:lilith",
+   "id": "7711563575693887754",
+   "title": "3D特效师（欧美写实SLG-VT）-Li岗",
+   "url": "https://lilithgames.jobs.feishu.cn/career/position/7711563575693887754/detail",
    "flag": ""
   }
  ],
@@ -14,7 +38,7 @@
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 2
+   "streak": 3
   }
  ],
  "baseline_added": 0
