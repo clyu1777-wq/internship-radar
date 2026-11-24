@@ -2,35 +2,11 @@
  "date": "2026-11-24",
  "new_jobs": [
   {
-   "company": "腾讯游戏",
-   "srckey": "cn:tencent",
-   "id": "1322246454949141504",
-   "title": "Agent开发工程师",
-   "url": "https://join.qq.com/post_detail.html?postid=1322246454949141504",
-   "flag": "青云/应届实习·可能限2027-2028届,投前核毕业届别"
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7711306875656948021",
-   "title": "客户端开发实习生（游戏方向） - TikTok直播",
-   "url": "https://jobs.bytedance.com/campus/position/7711306875656948021/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7711262772818839813",
-   "title": "Seedance2.5动画导演实习生 - 火山方舟",
-   "url": "https://jobs.bytedance.com/campus/position/7711262772818839813/detail",
-   "flag": ""
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7618153708090198325",
-   "title": "特效运营实习生 - TikTok",
-   "url": "https://jobs.bytedance.com/campus/position/7618153708090198325/detail",
+   "company": "Amazon/AWS",
+   "srckey": "amazon",
+   "id": "10606968",
+   "title": "Software Development Engineer Intern - Artificial General Intelligence (Summer 2027)",
+   "url": "https://www.amazon.jobs/en/jobs/10606968/software-development-engineer-intern-artificial-general-intelligence-summer-2027",
    "flag": ""
   }
  ],
@@ -38,7 +14,7 @@
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "streak": 2
   }
  ],
  "baseline_added": 0
