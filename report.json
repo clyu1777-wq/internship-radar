@@ -1,36 +1,12 @@
 {
- "date": "2026-11-24",
+ "date": "2026-11-25",
  "new_jobs": [
   {
    "company": "Amazon/AWS",
    "srckey": "amazon",
-   "id": "10612415",
-   "title": "Software Development Engineer Intern - 2027, Beijing",
-   "url": "https://www.amazon.jobs/en/jobs/10612415/software-development-engineer-intern-2027-beijing",
-   "flag": ""
-  },
-  {
-   "company": "Apple",
-   "srckey": "apple",
-   "id": "200692236",
-   "title": "Internship - Machine Learning Research - Speech-to-Speech Translation",
-   "url": "https://jobs.apple.com/en-us/details/200692236/internship-machine-learning-research-speech-to-speech-translation",
-   "flag": ""
-  },
-  {
-   "company": "米哈游(校招)",
-   "srckey": "cn:mihoyo",
-   "id": "7927",
-   "title": "社媒传播实习生-崩坏：星穹铁道",
-   "url": "https://jobs.mihoyo.com/#/campus/position/7927",
-   "flag": ""
-  },
-  {
-   "company": "莉莉丝",
-   "srckey": "cn:lilith",
-   "id": "7711563575693887754",
-   "title": "3D特效师（欧美写实SLG-VT）-Li岗",
-   "url": "https://lilithgames.jobs.feishu.cn/career/position/7711563575693887754/detail",
+   "id": "10609992",
+   "title": "Front-End Engineer Internship – 2027 (US)",
+   "url": "https://www.amazon.jobs/en/jobs/10609992/front-end-engineer-internship-2027-us",
    "flag": ""
   }
  ],
@@ -38,7 +14,7 @@
   {
    "company": "微软",
    "error": "HTTP Error 429: Too Many Requests",
-   "streak": 3
+   "streak": 4
   }
  ],
  "baseline_added": 0
