@@ -1,47 +1,12 @@
 {
- "date": "2026-11-25",
- "new_jobs": [
+ "date": "2026-11-26",
+ "new_jobs": [],
+ "failures": [
   {
    "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557075457",
-   "title": "Research Intern - Data Center and AI Networking",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075457",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557079428",
-   "title": "Research Intern - AI Systems Architecture and Efficient LLM Inference",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079428",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557079445",
-   "title": "Research Intern - CXL Memory",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079445",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557079448",
-   "title": "Research Intern - Memory Pathfinding",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557079448",
-   "flag": "研究岗·常要研究生,正文未抓到"
-  },
-  {
-   "company": "字节游戏",
-   "srckey": "cn:bytedance",
-   "id": "7711950268503738629",
-   "title": "游戏AI编导实习生 - A1",
-   "url": "https://jobs.bytedance.com/campus/position/7711950268503738629/detail",
-   "flag": ""
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
   }
  ],
- "failures": [],
  "baseline_added": 0
 }
