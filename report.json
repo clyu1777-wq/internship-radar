@@ -1,12 +1,39 @@
 {
  "date": "2026-11-26",
- "new_jobs": [],
- "failures": [
+ "new_jobs": [
   {
    "company": "微软",
-   "error": "HTTP Error 429: Too Many Requests",
-   "streak": 1
+   "srckey": "ms:pcsx",
+   "id": "1970393557076037",
+   "title": "Software Engineering INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076037",
+   "flag": ""
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557041287",
+   "title": "Cloud Solution Architecture INTERN",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041287",
+   "flag": ""
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557076203",
+   "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
+   "flag": "研究岗·常要研究生,正文未抓到"
+  },
+  {
+   "company": "微软",
+   "srckey": "ms:pcsx",
+   "id": "1970393557076159",
+   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+   "flag": "研究岗·常要研究生,正文未抓到"
   }
  ],
+ "failures": [],
  "baseline_added": 0
 }
