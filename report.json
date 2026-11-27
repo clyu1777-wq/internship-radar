@@ -2,22 +2,84 @@
  "date": "2026-11-27",
  "new_jobs": [
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557050112",
-   "title": "Research Intern - Gray Systems Lab (GSL)",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050112",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "80188",
+   "title": "音游系统策划实习生",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
   },
   {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557075448",
-   "title": "Research Intern - Machine Learning for Biology and Healthcare",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
-   "flag": "研究岗·常要研究生,正文未抓到"
+   "company": "网易雷火(日常实习)",
+   "srckey": "cn:leihuo",
+   "id": "80169",
+   "title": "【精英实习】动效设计师",
+   "url": "https://leihuo.163.com/campus/#/dailyIntern",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7711705280317425973",
+   "title": "策略运营实习生（互动游戏向） - 抖音社交与互动",
+   "url": "https://jobs.bytedance.com/campus/position/7711705280317425973/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7711703667855132981",
+   "title": "产品运营实习生（抖音造世界方向） - 抖音社交与互动",
+   "url": "https://jobs.bytedance.com/campus/position/7711703667855132981/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7711672209894918453",
+   "title": "营收产品实习生 - 抖音直播",
+   "url": "https://jobs.bytedance.com/campus/position/7711672209894918453/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7712451755968039221",
+   "title": "大模型算法实习生 - 内容消费与非闭环营销",
+   "url": "https://jobs.bytedance.com/campus/position/7712451755968039221/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7711675560973027589",
+   "title": "营收运营实习生 - 抖音直播",
+   "url": "https://jobs.bytedance.com/campus/position/7711675560973027589/detail",
+   "flag": ""
+  },
+  {
+   "company": "字节游戏",
+   "srckey": "cn:bytedance",
+   "id": "7711669806505085237",
+   "title": "用户运营实习生 - 抖音直播",
+   "url": "https://jobs.bytedance.com/campus/position/7711669806505085237/detail",
+   "flag": ""
+  },
+  {
+   "company": "阿里灵犀互娱",
+   "srckey": "cn:lingxi",
+   "id": "100056140006",
+   "title": "灵犀互娱-live2d动画设计师-女性向卡牌",
+   "url": "https://talent.alibaba.com/off-campus/position-detail?positionId=100056140006",
+   "flag": "校招/实习待确认(正文未抓到)"
   }
  ],
- "failures": [],
+ "failures": [
+  {
+   "company": "微软",
+   "error": "HTTP Error 429: Too Many Requests",
+   "streak": 1
+  }
+ ],
  "baseline_added": 0
 }
