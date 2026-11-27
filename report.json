@@ -1,36 +1,20 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "new_jobs": [
   {
    "company": "微软",
    "srckey": "ms:pcsx",
-   "id": "1970393557076037",
-   "title": "Software Engineering INTERN",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076037",
-   "flag": ""
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557041287",
-   "title": "Cloud Solution Architecture INTERN",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557041287",
-   "flag": ""
-  },
-  {
-   "company": "微软",
-   "srckey": "ms:pcsx",
-   "id": "1970393557076203",
-   "title": "Research Intern - AI Serving Systems and Hardware - Microsoft Research",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076203",
+   "id": "1970393557050112",
+   "title": "Research Intern - Gray Systems Lab (GSL)",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557050112",
    "flag": "研究岗·常要研究生,正文未抓到"
   },
   {
    "company": "微软",
    "srckey": "ms:pcsx",
-   "id": "1970393557076159",
-   "title": "Research Intern - AI /Machine Learning Numerics & Efficiency",
-   "url": "https://apply.careers.microsoft.com/careers/job/1970393557076159",
+   "id": "1970393557075448",
+   "title": "Research Intern - Machine Learning for Biology and Healthcare",
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
    "flag": "研究岗·常要研究生,正文未抓到"
   }
  ],
